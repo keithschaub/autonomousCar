@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Radar Plot</title>
+    <script src="https://cdn.jsdelivr.net/npm/socket.io/client-dist/socket.io.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <canvas id="radarChart"></canvas>
+    <script>
+        var socket = io.connect('http://' + document.domain + ':' + location.port);
+        var ctx = document.getElementById('radarChart').getContext('2d');
+        var radarChart = new Chart(ctx, {
+            type: 'radar',
+            data: {
+                labels: [],  // Angle labels
+                datasets: [{
+                    label: 'Distance',
+                    data: []  // Distance data
+                }]
+            },
+            options: {}
+        });
+
+        socket.on('newdata', function(data) {
+            radarChart.data.labels.push(data.angle);
+            radarChart.data.datasets.forEach((dataset) => {
+                dataset.data.push(data.distance);
+            });
+            radarChart.update();
+        });
+    </script>
+</body>
+</html>

@@ -5,29 +5,49 @@
     <title>Radar Plot</title>
     <script src="https://cdn.jsdelivr.net/npm/socket.io/client-dist/socket.io.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        /* Adjust the size of the canvas */
+        #radarChart {
+            width: 800px;  /* Adjust width as needed */
+            height: 800px; /* Adjust height as needed */
+            display: block;
+            margin: auto;
+        }
+    </style>
 </head>
 <body>
     <canvas id="radarChart"></canvas>
     <script>
         var socket = io.connect('http://' + document.domain + ':' + location.port);
         var ctx = document.getElementById('radarChart').getContext('2d');
+
+        // Adjust the labels for the radar chart to show every 5 degrees
+        var labels = Array.from({length: 72}, (_, i) => {
+            return (450 - i * 5) % 360;
+        });
+
+        var data = Array(72).fill(0); // Initialize data array with 72 zeros
+
         var radarChart = new Chart(ctx, {
             type: 'radar',
             data: {
-                labels: [],  // Angle labels
+                labels: labels,
                 datasets: [{
                     label: 'Distance',
-                    data: []  // Distance data
+                    data: data
                 }]
             },
-            options: {}
+            options: {
+                // ... your options here ...
+            }
         });
 
-        socket.on('newdata', function(data) {
-            radarChart.data.labels.push(data.angle);
-            radarChart.data.datasets.forEach((dataset) => {
-                dataset.data.push(data.distance);
-            });
+        // Update the radar chart with new data
+        socket.on('newdata', function(receivedData) {
+            console.log("Received data:", receivedData);
+            // Adjust the angle for the radar chart orientation
+            var adjustedAngleIndex = Math.round((360 - receivedData.angle + 90) % 360 / 5);
+            radarChart.data.datasets[0].data[adjustedAngleIndex] = receivedData.distance;
             radarChart.update();
         });
     </script>

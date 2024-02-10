@@ -8,7 +8,6 @@ import math
 # Parameters
 grid_size = 1000  # Room size in cm (1000cm x 1000cm)
 
-
 # Load obstacles and car from YAML
 def load_yaml(filename):
     script_dir = os.path.dirname(__file__)
@@ -17,53 +16,51 @@ def load_yaml(filename):
         data = yaml.safe_load(file)
     return data
 
-
 data = load_yaml('obstacles.yaml')
 car_state = data['car']  # Initial car state
-
+discovered_obstacles = set()  # Track discovered obstacles
 
 # Check if an obstacle is within the radar's field of view
-def is_within_radar(car_state, obstacle_center):
+def is_within_radar(car_state, obstacle_center, obstacle_index):
     radar_distance = 50  # Radar detection distance in cm
-    radar_angle_start = car_state['orientation'] - 60
-    radar_angle_end = car_state['orientation'] + 60
+    radar_angle_start = (car_state['orientation'] - 60) % 360
+    radar_angle_end = (car_state['orientation'] + 60) % 360
 
-    # Calculate angle to obstacle
     dx = obstacle_center[0] - car_state['xcenter']
     dy = obstacle_center[1] - car_state['ycenter']
+    distance_to_obstacle = math.hypot(dx, dy)
     angle_to_obstacle = math.degrees(math.atan2(dy, dx)) % 360
 
-    # Check if within radar distance and angle range
-    distance_to_obstacle = math.sqrt(dx ** 2 + dy ** 2)
-    if distance_to_obstacle <= radar_distance and radar_angle_start <= angle_to_obstacle <= radar_angle_end:
-        return True
+    if distance_to_obstacle <= radar_distance:
+        if radar_angle_start < radar_angle_end:
+            if radar_angle_start <= angle_to_obstacle <= radar_angle_end:
+                discovered_obstacles.add(obstacle_index)
+                return True
+        else:  # Handle wrap-around
+            if angle_to_obstacle >= radar_angle_start or angle_to_obstacle <= radar_angle_end:
+                discovered_obstacles.add(obstacle_index)
+                return True
     return False
 
-
-# Function to draw the scene (obstacles, car, direction arrow)
-# Function to draw the scene (obstacles, car, direction arrow)
+# Function to draw the scene (obstacles, car, direction arrow, radar arc)
 def draw_scene(car_state, ax):
-    ax.clear()  # Clear previous drawings
+    ax.clear()
     ax.set_xlim(0, grid_size)
-    ax.set_ylim(0, grid_size + 100)  # Extra space for the direction arrow
+    ax.set_ylim(0, grid_size + 100)
     ax.set_xticks(np.arange(0, grid_size + 1, 50))
     ax.set_yticks(np.arange(0, grid_size + 1, 50))
     ax.grid(which='both', linestyle='--', linewidth=0.5)
 
-    # Draw obstacles
-    for obstacle in data['obstacles']:
-        edge_color = 'lightgrey'  # Initial color
-
-        # Calculate the obstacle's center based on its type
+    # Draw obstacles with initial light grey color, update to red if within radar
+    for i, obstacle in enumerate(data['obstacles']):
+        edge_color = 'red' if i in discovered_obstacles else 'lightgrey'
         if obstacle['type'] in ['rectangle', 'circle']:
             obstacle_center = (obstacle['xcenter'], obstacle['ycenter'])
         elif obstacle['type'] == 'triangle':
             xs, ys = zip(*obstacle['points'])
             obstacle_center = (sum(xs) / len(xs), sum(ys) / len(ys))
 
-        # Check if the obstacle is within the radar's field of view
-        if is_within_radar(car_state, obstacle_center):
-            edge_color = 'red'  # Update color if within radar
+        is_within_radar(car_state, obstacle_center, i)  # Update discovered obstacles
 
         # Draw the obstacle with the appropriate color
         if obstacle['type'] == 'rectangle':
@@ -76,8 +73,7 @@ def draw_scene(car_state, ax):
             ax.add_patch(triangle)
         elif obstacle['type'] == 'circle':
             circle = Circle((obstacle['xcenter'], obstacle['ycenter']), obstacle['radius'], linewidth=1,
-                            edgecolor=edge_color,
-                            facecolor='none')
+                            edgecolor=edge_color, facecolor='none')
             ax.add_patch(circle)
 
     # Draw the car
@@ -92,7 +88,6 @@ def draw_scene(car_state, ax):
     radar_arc = Arc((car_state['xcenter'], car_state['ycenter']), 100, 100, angle=0, theta1=radar_start_angle,
                     theta2=radar_start_angle + radar_extent, edgecolor='green', linewidth=2)
     ax.add_patch(radar_arc)
-
 
 # Function to update the car's state based on key presses
 def on_key(event):
@@ -116,7 +111,6 @@ def on_key(event):
 
     draw_scene(car_state, ax)  # Redraw the scene with updated car state
     plt.draw()
-
 
 fig, ax = plt.subplots()
 draw_scene(car_state, ax)  # Initial drawing

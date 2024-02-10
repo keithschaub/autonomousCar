@@ -4,15 +4,12 @@ obstacles:
     ycenter: 250
     width: 20
     height: 30
-  - type: triangle
-    points:
-      - [750, 750]
-      - [770, 790]
-      - [790, 750]
-  - type: circle
-    xcenter: 250
-    ycenter: 750
-    radius: 15
+  - type: rectangle
+    xcenter: 500
+    ycenter: 650
+    width: 20
+    height: 30
+
 car:
   type: rectangle
   xcenter: 500  # Center of the plot

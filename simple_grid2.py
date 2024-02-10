@@ -40,8 +40,12 @@ def draw_grid(points, arrow_angle):
     plt.scatter(x_coords - center, center - y_coords, color='red', s=1)
 
     # Draw the arrow
-    dx = 5 * np.sin(np.radians(arrow_angle))
-    dy = 5 * np.cos(np.radians(arrow_angle))
+    #dx = 5 * np.sin(np.radians(arrow_angle))
+    #dy = 5 * np.cos(np.radians(arrow_angle))
+
+    dy = 5
+    dx = 0
+
     plt.gca().add_patch(Arrow(0, 0, dx, dy, width=3, color='blue'))
 
     # Refresh the plot

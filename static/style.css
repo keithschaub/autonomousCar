@@ -1,0 +1,33 @@
+body {
+	margin: 0;
+}
+
+h3 {
+	display: inline;
+}
+
+.button {
+	margin-left: 10px;
+	margin-right: 10px;
+	padding: 10px;
+	cursor: pointer;
+}
+
+.square {
+	width: 1000px; /* can change */
+	height: 1000px; /* can change */
+	margin: 100px; /* can change */
+	background-color: #ca8d8d;
+}
+
+.header-container {
+	display: flex;
+	justify-content: center;
+}
+
+/* centers the squares horizontally and allows for margin on all sides */
+.container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}

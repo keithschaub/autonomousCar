@@ -1,55 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Radar Plot</title>
-    <script src="https://cdn.jsdelivr.net/npm/socket.io/client-dist/socket.io.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <style>
-        /* Adjust the size of the canvas */
-        #radarChart {
-            width: 800px;  /* Adjust width as needed */
-            height: 800px; /* Adjust height as needed */
-            display: block;
-            margin: auto;
-        }
-    </style>
-</head>
-<body>
-    <canvas id="radarChart"></canvas>
-    <script>
-        var socket = io.connect('http://' + document.domain + ':' + location.port);
-        var ctx = document.getElementById('radarChart').getContext('2d');
-
-        // Adjust the labels for the radar chart to show every 5 degrees
-        var labels = Array.from({length: 72}, (_, i) => {
-            return (450 - i * 5) % 360;
-        });
-
-        var data = Array(72).fill(0); // Initialize data array with 72 zeros
-
-        var radarChart = new Chart(ctx, {
-            type: 'radar',
-            data: {
-                labels: labels,
-                datasets: [{
-                    label: 'Distance',
-                    data: data
-                }]
-            },
-            options: {
-                // ... your options here ...
-            }
-        });
-
-        // Update the radar chart with new data
-        socket.on('newdata', function(receivedData) {
-            console.log("Received data:", receivedData);
-            // Adjust the angle for the radar chart orientation
-            var adjustedAngleIndex = Math.round((360 - receivedData.angle + 90) % 360 / 5);
-            radarChart.data.datasets[0].data[adjustedAngleIndex] = receivedData.distance;
-            radarChart.update();
-        });
-    </script>
-</body>
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Document</title>
+		<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+		<script src="https://cdn.socket.io/4.0.0/socket.io.min.js"></script>
+		<script src="{{ url_for('static', filename='index.js') }}" type="module"></script>
+	</head>
+	<body>
+		<span class="header-container">
+			<h3>Tooling (LOOK AT CONSOLE):</h3>
+			<button id="tester" class="button">Send Mock Data</button>
+		</span>
+		<div class="container">
+			<div class="square"></div>
+			<div class="square"></div>
+		</div>
+	</body>
 </html>

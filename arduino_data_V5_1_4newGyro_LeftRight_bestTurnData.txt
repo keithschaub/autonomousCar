@@ -1,0 +1,3021 @@
+30, 116
+35, 115
+40, 44
+45, 44
+50, 0
+55, 117
+60, 116
+65, 118
+70, 115
+75, 115
+80, 116
+85, 115
+90, 115
+95, 115
+100, 115
+105, 115
+110, 117
+115, 115
+120, 117
+125, 117
+130, 117
+135, 0
+140, 0
+145, 20
+150, 0
+150, 0
+145, 0
+140, 0
+135, 0
+130, 137
+125, 117
+120, 116
+115, 115
+110, 115
+105, 115
+100, 114
+95, 114
+90, 114
+85, 115
+80, 115
+75, 114
+70, 115
+65, 115
+60, 114
+55, 116
+50, 118
+45, 117
+40, 116
+35, 0
+30, 43
+30, 43
+35, 43
+40, 43
+45, 0
+50, 118
+55, 116
+60, 116
+65, 115
+70, 115
+75, 116
+80, 114
+85, 115
+90, 115
+95, 114
+100, 115
+105, 115
+110, 116
+115, 115
+120, 95
+125, 96
+130, 94
+135, 93
+140, 93
+145, 127
+150, 135
+150, 136
+145, 127
+140, 125
+135, 93
+130, 94
+125, 93
+120, 93
+115, 116
+110, 95
+105, 116
+100, 115
+95, 115
+90, 114
+85, 115
+80, 114
+75, 72
+70, 114
+65, 116
+60, 115
+55, 116
+50, 115
+45, 117
+40, 0
+35, 44
+30, 43
+30, 43
+35, 43
+40, 43
+45, 0
+50, 118
+55, 118
+60, 115
+65, 115
+70, 114
+75, 115
+80, 114
+85, 115
+90, 114
+95, 115
+100, 115
+105, 116
+110, 115
+115, 94
+120, 96
+125, 95
+130, 94
+135, 136
+140, 94
+145, 94
+150, 136
+150, 135
+145, 136
+140, 135
+135, 93
+130, 95
+125, 97
+120, 114
+115, 115
+110, 93
+105, 91
+100, 93
+95, 94
+90, 94
+85, 95
+80, 99
+75, 121
+70, 0
+65, 143
+60, 55
+55, 55
+50, 0
+45, 0
+40, 145
+35, 0
+30, 0
+30, 0
+35, 0
+40, 0
+45, 0
+50, 0
+55, 0
+60, 0
+65, 0
+70, 0
+75, 0
+80, 0
+85, 0
+90, 0
+95, 0
+100, 0
+105, 0
+110, 0
+115, 0
+120, 0
+125, 0
+130, 0
+135, 0
+140, 0
+145, 0
+150, 0
+150, 0
+145, 0
+140, 0
+135, 0
+130, 0
+125, 0
+120, 0
+115, 0
+110, 0
+105, 0
+100, 0
+95, 0
+90, 0
+85, 0
+80, 0
+75, 0
+70, 0
+65, 0
+60, 0
+55, 0
+50, 0
+45, 0
+40, 0
+35, 0
+30, 0
+30, 129
+35, 131
+40, 0
+45, 0
+50, 0
+55, 0
+60, 0
+65, 0
+70, 0
+75, 0
+80, 75
+85, 73
+90, 73
+95, 73
+100, 74
+105, 73
+110, 73
+115, 74
+120, 80
+125, 0
+130, 0
+135, 0
+140, 0
+145, 0
+150, 181
+150, 175
+145, 173
+140, 173
+135, 183
+130, 0
+125, 0
+120, 0
+115, 0
+110, 75
+105, 73
+100, 74
+95, 74
+90, 74
+85, 74
+80, 74
+75, 0
+70, 0
+65, 0
+60, 0
+55, 0
+50, 0
+45, 0
+40, 0
+35, 0
+30, 130
+30, 128
+35, 130
+40, 0
+45, 0
+50, 0
+55, 0
+60, 0
+65, 0
+70, 0
+75, 0
+80, 0
+85, 75
+90, 75
+95, 73
+100, 73
+105, 73
+110, 75
+115, 73
+120, 80
+125, 0
+130, 0
+135, 0
+140, 0
+145, 183
+150, 181
+150, 181
+145, 181
+140, 182
+135, 0
+130, 0
+125, 0
+120, 0
+115, 0
+110, 74
+105, 75
+100, 73
+95, 74
+90, 74
+85, 75
+80, 74
+75, 74
+70, 0
+65, 0
+60, 0
+55, 0
+50, 0
+45, 0
+40, 0
+35, 0
+30, 0
+RAW: 0, s: 50, aX: 0.26, aY: -0.04, gZ: -0.02, timeS: 35493.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 1, s: 55, aX: 0.45, aY: -0.14, gZ: -0.02, timeS: 35505.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 2, s: 60, aX: 0.43, aY: 0.14, gZ: -0.02, timeS: 35517.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 3, s: 65, aX: 0.34, aY: 0.19, gZ: -0.02, timeS: 35529.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 4, s: 70, aX: -0.03, aY: 0.13, gZ: -0.03, timeS: 35541.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 5, s: 75, aX: -0.18, aY: -0.10, gZ: -0.02, timeS: 35553.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 6, s: 80, aX: -0.06, aY: -0.33, gZ: -0.02, timeS: 35565.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 7, s: 85, aX: 0.15, aY: -0.50, gZ: -0.02, timeS: 35577.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 8, s: 90, aX: 0.69, aY: -0.10, gZ: -0.01, timeS: 35589.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 9, s: 95, aX: 0.68, aY: 1.81, gZ: 0.16, timeS: 35601.00, heading_rad: 0.00, heading_deg: 0.12
+RAW: 10, s: 100, aX: 0.75, aY: 1.81, gZ: 0.29, timeS: 35613.00, heading_rad: 0.01, heading_deg: 0.34
+RAW: 11, s: 100, aX: -0.47, aY: 1.25, gZ: 0.39, timeS: 35625.00, heading_rad: 0.01, heading_deg: 0.62
+RAW: 12, s: 100, aX: 0.09, aY: 0.06, gZ: 0.47, timeS: 35637.00, heading_rad: 0.02, heading_deg: 0.96
+RAW: 13, s: 100, aX: -0.69, aY: -0.45, gZ: 0.54, timeS: 35649.00, heading_rad: 0.02, heading_deg: 1.35
+RAW: 14, s: 100, aX: 0.22, aY: -0.51, gZ: 0.70, timeS: 35661.00, heading_rad: 0.03, heading_deg: 1.84
+RAW: 15, s: 100, aX: 0.82, aY: -0.99, gZ: 0.79, timeS: 35673.00, heading_rad: 0.04, heading_deg: 2.40
+RAW: 16, s: 100, aX: 1.15, aY: -0.94, gZ: 0.84, timeS: 35685.00, heading_rad: 0.05, heading_deg: 3.00
+RAW: 17, s: 100, aX: 0.68, aY: 0.12, gZ: 0.86, timeS: 35697.00, heading_rad: 0.06, heading_deg: 3.61
+RAW: 18, s: 100, aX: 0.72, aY: 0.15, gZ: 0.86, timeS: 35709.00, heading_rad: 0.07, heading_deg: 4.21
+RAW: 19, s: 100, aX: -0.29, aY: 0.23, gZ: 0.88, timeS: 35721.00, heading_rad: 0.08, heading_deg: 4.83
+RAW: 20, s: 100, aX: -0.62, aY: 0.70, gZ: 0.90, timeS: 35733.00, heading_rad: 0.10, heading_deg: 5.47
+RAW: 21, s: 100, aX: -0.97, aY: -0.00, gZ: 0.91, timeS: 35745.00, heading_rad: 0.11, heading_deg: 6.10
+RAW: 22, s: 100, aX: 0.13, aY: -0.62, gZ: 0.89, timeS: 35757.00, heading_rad: 0.12, heading_deg: 6.73
+RAW: 23, s: 100, aX: -0.80, aY: -0.17, gZ: 0.90, timeS: 35769.00, heading_rad: 0.13, heading_deg: 7.37
+RAW: 24, s: 100, aX: 1.38, aY: -0.01, gZ: 0.92, timeS: 35781.00, heading_rad: 0.14, heading_deg: 8.01
+RAW: 25, s: 100, aX: -0.16, aY: 0.06, gZ: 0.90, timeS: 35793.00, heading_rad: 0.15, heading_deg: 8.65
+RAW: 26, s: 100, aX: 0.48, aY: 0.38, gZ: 0.87, timeS: 35805.00, heading_rad: 0.16, heading_deg: 9.26
+RAW: 27, s: 100, aX: 0.25, aY: 0.30, gZ: 0.84, timeS: 35817.00, heading_rad: 0.17, heading_deg: 9.85
+RAW: 28, s: 100, aX: 0.13, aY: -0.76, gZ: 0.82, timeS: 35829.00, heading_rad: 0.18, heading_deg: 10.44
+RAW: 29, s: 100, aX: 0.05, aY: 0.41, gZ: 0.77, timeS: 35841.00, heading_rad: 0.19, heading_deg: 10.98
+RAW: 30, s: 100, aX: -0.33, aY: -0.37, gZ: 0.75, timeS: 35853.00, heading_rad: 0.20, heading_deg: 11.51
+RAW: 31, s: 100, aX: 0.51, aY: -0.06, gZ: 0.75, timeS: 35865.00, heading_rad: 0.21, heading_deg: 12.05
+RAW: 32, s: 100, aX: -0.24, aY: 0.28, gZ: 0.73, timeS: 35877.00, heading_rad: 0.22, heading_deg: 12.56
+RAW: 33, s: 100, aX: 0.81, aY: -0.41, gZ: 0.74, timeS: 35889.00, heading_rad: 0.23, heading_deg: 13.08
+RAW: 34, s: 100, aX: -0.48, aY: 0.12, gZ: 0.75, timeS: 35901.00, heading_rad: 0.24, heading_deg: 13.61
+RAW: 35, s: 100, aX: 0.30, aY: -0.86, gZ: 0.76, timeS: 35913.00, heading_rad: 0.25, heading_deg: 14.15
+RAW: 36, s: 100, aX: -0.32, aY: 0.07, gZ: 0.71, timeS: 35925.00, heading_rad: 0.26, heading_deg: 14.66
+RAW: 37, s: 100, aX: 0.01, aY: 0.09, gZ: 0.72, timeS: 35937.00, heading_rad: 0.26, heading_deg: 15.16
+RAW: 38, s: 100, aX: -0.23, aY: 0.35, gZ: 0.73, timeS: 35949.00, heading_rad: 0.27, heading_deg: 15.68
+RAW: 39, s: 100, aX: -0.10, aY: -0.50, gZ: 0.76, timeS: 35961.00, heading_rad: 0.28, heading_deg: 16.22
+RAW: 40, s: 100, aX: -0.02, aY: -0.64, gZ: 0.75, timeS: 35973.00, heading_rad: 0.29, heading_deg: 16.75
+RAW: 41, s: 100, aX: 0.84, aY: -0.18, gZ: 0.70, timeS: 35985.00, heading_rad: 0.30, heading_deg: 17.24
+RAW: 42, s: 100, aX: 1.13, aY: 0.16, gZ: 0.70, timeS: 35997.00, heading_rad: 0.31, heading_deg: 17.74
+RAW: 43, s: 100, aX: -0.31, aY: -0.21, gZ: 0.75, timeS: 36009.00, heading_rad: 0.32, heading_deg: 18.27
+RAW: 44, s: 100, aX: 1.28, aY: -0.85, gZ: 0.79, timeS: 36021.00, heading_rad: 0.33, heading_deg: 18.83
+RAW: 45, s: 100, aX: -0.82, aY: 0.07, gZ: 0.75, timeS: 36033.00, heading_rad: 0.34, heading_deg: 19.36
+RAW: 46, s: 100, aX: -0.03, aY: -0.07, gZ: 0.77, timeS: 36045.00, heading_rad: 0.35, heading_deg: 19.90
+RAW: 47, s: 100, aX: -0.57, aY: -0.83, gZ: 0.81, timeS: 36057.00, heading_rad: 0.36, heading_deg: 20.47
+RAW: 48, s: 100, aX: 0.52, aY: -0.52, gZ: 0.80, timeS: 36069.00, heading_rad: 0.37, heading_deg: 21.03
+RAW: 49, s: 100, aX: 0.31, aY: 0.48, gZ: 0.79, timeS: 36081.00, heading_rad: 0.38, heading_deg: 21.59
+RAW: 50, s: 100, aX: 1.02, aY: 0.47, gZ: 0.83, timeS: 36093.00, heading_rad: 0.39, heading_deg: 22.18
+RAW: 51, s: 100, aX: -0.24, aY: -0.22, gZ: 0.83, timeS: 36105.00, heading_rad: 0.40, heading_deg: 22.76
+RAW: 52, s: 100, aX: 0.82, aY: 0.71, gZ: 0.86, timeS: 36117.00, heading_rad: 0.41, heading_deg: 23.37
+RAW: 53, s: 100, aX: -0.58, aY: 0.70, gZ: 0.86, timeS: 36129.00, heading_rad: 0.42, heading_deg: 23.98
+RAW: 54, s: 100, aX: -0.86, aY: 0.18, gZ: 0.84, timeS: 36141.00, heading_rad: 0.43, heading_deg: 24.57
+RAW: 55, s: 100, aX: 0.35, aY: 0.37, gZ: 0.85, timeS: 36153.00, heading_rad: 0.44, heading_deg: 25.17
+RAW: 56, s: 100, aX: -0.12, aY: 0.80, gZ: 0.85, timeS: 36165.00, heading_rad: 0.45, heading_deg: 25.77
+RAW: 57, s: 100, aX: 1.26, aY: -0.72, gZ: 0.90, timeS: 36177.00, heading_rad: 0.46, heading_deg: 26.40
+RAW: 58, s: 100, aX: 0.09, aY: -0.30, gZ: 0.93, timeS: 36189.00, heading_rad: 0.47, heading_deg: 27.06
+RAW: 59, s: 100, aX: 0.70, aY: 0.39, gZ: 0.91, timeS: 36201.00, heading_rad: 0.48, heading_deg: 27.70
+RAW: 60, s: 100, aX: 0.57, aY: 0.16, gZ: 0.92, timeS: 36213.00, heading_rad: 0.49, heading_deg: 28.35
+RAW: 61, s: 100, aX: -0.03, aY: -0.08, gZ: 0.92, timeS: 36225.00, heading_rad: 0.51, heading_deg: 28.99
+RAW: 62, s: 100, aX: -0.87, aY: 0.82, gZ: 0.87, timeS: 36237.00, heading_rad: 0.52, heading_deg: 29.61
+RAW: 63, s: 100, aX: 1.31, aY: -0.36, gZ: 0.87, timeS: 36249.00, heading_rad: 0.53, heading_deg: 30.22
+RAW: 64, s: 100, aX: -1.29, aY: -0.15, gZ: 0.91, timeS: 36261.00, heading_rad: 0.54, heading_deg: 30.86
+RAW: 65, s: 100, aX: 0.87, aY: 0.04, gZ: 0.92, timeS: 36273.00, heading_rad: 0.55, heading_deg: 31.51
+RAW: 66, s: 100, aX: 0.34, aY: -0.19, gZ: 0.91, timeS: 36285.00, heading_rad: 0.56, heading_deg: 32.15
+RAW: 67, s: 100, aX: -0.58, aY: 0.94, gZ: 0.91, timeS: 36297.00, heading_rad: 0.57, heading_deg: 32.79
+RAW: 68, s: 100, aX: -0.10, aY: 0.16, gZ: 0.92, timeS: 36309.00, heading_rad: 0.58, heading_deg: 33.44
+RAW: 69, s: 100, aX: 0.55, aY: -0.12, gZ: 0.90, timeS: 36321.00, heading_rad: 0.59, heading_deg: 34.08
+RAW: 70, s: 100, aX: -0.07, aY: -0.24, gZ: 0.89, timeS: 36333.00, heading_rad: 0.61, heading_deg: 34.70
+RAW: 71, s: 100, aX: -0.54, aY: -0.09, gZ: 0.88, timeS: 36345.00, heading_rad: 0.62, heading_deg: 35.33
+RAW: 72, s: 100, aX: 0.00, aY: -0.51, gZ: 0.87, timeS: 36357.00, heading_rad: 0.63, heading_deg: 35.94
+RAW: 73, s: 100, aX: -0.01, aY: 0.08, gZ: 0.87, timeS: 36369.00, heading_rad: 0.64, heading_deg: 36.55
+RAW: 74, s: 100, aX: 0.09, aY: 0.57, gZ: 0.86, timeS: 36381.00, heading_rad: 0.65, heading_deg: 37.16
+RAW: 75, s: 100, aX: 0.15, aY: -0.45, gZ: 0.87, timeS: 36393.00, heading_rad: 0.66, heading_deg: 37.77
+RAW: 76, s: 100, aX: 0.85, aY: -0.37, gZ: 0.85, timeS: 36405.00, heading_rad: 0.67, heading_deg: 38.37
+RAW: 77, s: 100, aX: 0.23, aY: -0.00, gZ: 0.87, timeS: 36417.00, heading_rad: 0.68, heading_deg: 38.98
+RAW: 78, s: 100, aX: 0.11, aY: 0.31, gZ: 0.88, timeS: 36429.00, heading_rad: 0.69, heading_deg: 39.60
+RAW: 79, s: 100, aX: 0.11, aY: -0.27, gZ: 0.86, timeS: 36441.00, heading_rad: 0.70, heading_deg: 40.21
+RAW: 80, s: 100, aX: -0.58, aY: -0.78, gZ: 0.82, timeS: 36453.00, heading_rad: 0.71, heading_deg: 40.79
+RAW: 81, s: 100, aX: 0.68, aY: -0.37, gZ: 0.79, timeS: 36465.00, heading_rad: 0.72, heading_deg: 41.34
+RAW: 82, s: 100, aX: 0.07, aY: 0.03, gZ: 0.79, timeS: 36477.00, heading_rad: 0.73, heading_deg: 41.90
+RAW: 83, s: 100, aX: 1.13, aY: 0.55, gZ: 0.79, timeS: 36489.00, heading_rad: 0.74, heading_deg: 42.46
+RAW: 84, s: 100, aX: 0.47, aY: -0.10, gZ: 0.81, timeS: 36501.00, heading_rad: 0.75, heading_deg: 43.03
+RAW: 85, s: 100, aX: 0.52, aY: 0.77, gZ: 0.85, timeS: 36513.00, heading_rad: 0.76, heading_deg: 43.63
+RAW: 86, s: 100, aX: -0.55, aY: -0.15, gZ: 0.87, timeS: 36525.00, heading_rad: 0.77, heading_deg: 44.24
+RAW: 87, s: 100, aX: -0.06, aY: 0.38, gZ: 0.86, timeS: 36537.00, heading_rad: 0.78, heading_deg: 44.85
+RAW: 88, s: 100, aX: -0.40, aY: 0.49, gZ: 0.87, timeS: 36549.00, heading_rad: 0.79, heading_deg: 45.46
+RAW: 89, s: 100, aX: 0.49, aY: -0.00, gZ: 0.85, timeS: 36561.00, heading_rad: 0.80, heading_deg: 46.06
+RAW: 90, s: 100, aX: 0.03, aY: 0.64, gZ: 0.84, timeS: 36573.00, heading_rad: 0.81, heading_deg: 46.65
+RAW: 91, s: 100, aX: -0.36, aY: -0.23, gZ: 0.84, timeS: 36585.00, heading_rad: 0.82, heading_deg: 47.24
+RAW: 92, s: 100, aX: 1.15, aY: -0.91, gZ: 0.82, timeS: 36597.00, heading_rad: 0.83, heading_deg: 47.82
+RAW: 93, s: 100, aX: -0.76, aY: -0.02, gZ: 0.83, timeS: 36609.00, heading_rad: 0.84, heading_deg: 48.40
+RAW: 94, s: 100, aX: 0.05, aY: 0.02, gZ: 0.83, timeS: 36621.00, heading_rad: 0.86, heading_deg: 48.99
+RAW: 95, s: 100, aX: -0.01, aY: 0.33, gZ: 0.86, timeS: 36633.00, heading_rad: 0.87, heading_deg: 49.59
+RAW: 96, s: 100, aX: -0.60, aY: 0.09, gZ: 0.82, timeS: 36645.00, heading_rad: 0.88, heading_deg: 50.17
+RAW: 97, s: 100, aX: 0.11, aY: 0.35, gZ: 0.85, timeS: 36657.00, heading_rad: 0.89, heading_deg: 50.77
+RAW: 98, s: 100, aX: 1.12, aY: -0.64, gZ: 0.86, timeS: 36669.00, heading_rad: 0.90, heading_deg: 51.38
+RAW: 99, s: 100, aX: 0.19, aY: -0.33, gZ: 0.86, timeS: 36681.00, heading_rad: 0.91, heading_deg: 51.99
+RAW: 100, s: 100, aX: 1.53, aY: -0.29, gZ: 0.82, timeS: 36693.00, heading_rad: 0.92, heading_deg: 52.56
+RAW: 101, s: 100, aX: 0.62, aY: -1.06, gZ: 0.80, timeS: 36705.00, heading_rad: 0.93, heading_deg: 53.13
+RAW: 102, s: 100, aX: -0.12, aY: -0.77, gZ: 0.77, timeS: 36717.00, heading_rad: 0.94, heading_deg: 53.67
+RAW: 103, s: 100, aX: 1.23, aY: 0.62, gZ: 0.77, timeS: 36729.00, heading_rad: 0.95, heading_deg: 54.22
+RAW: 104, s: 100, aX: -0.31, aY: 0.90, gZ: 0.80, timeS: 36741.00, heading_rad: 0.96, heading_deg: 54.78
+RAW: 105, s: 100, aX: 0.46, aY: 0.76, gZ: 0.81, timeS: 36753.00, heading_rad: 0.97, heading_deg: 55.36
+RAW: 106, s: 100, aX: 0.74, aY: 0.01, gZ: 0.80, timeS: 36765.00, heading_rad: 0.98, heading_deg: 55.92
+RAW: 107, s: 100, aX: -1.03, aY: -0.90, gZ: 0.81, timeS: 36777.00, heading_rad: 0.99, heading_deg: 56.50
+RAW: 108, s: 100, aX: 1.22, aY: -2.03, gZ: 0.78, timeS: 36789.00, heading_rad: 1.00, heading_deg: 57.05
+RAW: 109, s: 100, aX: -0.18, aY: -0.31, gZ: 0.80, timeS: 36801.00, heading_rad: 1.01, heading_deg: 57.61
+RAW: 110, s: 100, aX: 1.68, aY: 1.66, gZ: 0.76, timeS: 36813.00, heading_rad: 1.01, heading_deg: 58.14
+RAW: 111, s: 100, aX: -0.44, aY: 0.06, gZ: 0.76, timeS: 36825.00, heading_rad: 1.02, heading_deg: 58.68
+RAW: 112, s: 100, aX: -0.50, aY: 0.80, gZ: 0.73, timeS: 36837.00, heading_rad: 1.03, heading_deg: 59.20
+RAW: 113, s: 100, aX: -0.25, aY: 0.53, gZ: 0.74, timeS: 36849.00, heading_rad: 1.04, heading_deg: 59.72
+RAW: 114, s: 100, aX: -0.59, aY: 1.14, gZ: 0.79, timeS: 36861.00, heading_rad: 1.05, heading_deg: 60.28
+RAW: 115, s: 100, aX: 0.28, aY: 0.23, gZ: 0.75, timeS: 36873.00, heading_rad: 1.06, heading_deg: 60.81
+RAW: 116, s: 100, aX: 0.08, aY: 0.04, gZ: 0.73, timeS: 36885.00, heading_rad: 1.07, heading_deg: 61.32
+RAW: 117, s: 100, aX: 1.78, aY: -0.54, gZ: 0.74, timeS: 36897.00, heading_rad: 1.08, heading_deg: 61.85
+RAW: 118, s: 100, aX: 0.13, aY: -1.41, gZ: 0.74, timeS: 36909.00, heading_rad: 1.09, heading_deg: 62.37
+RAW: 119, s: 100, aX: 0.91, aY: -0.08, gZ: 0.76, timeS: 36921.00, heading_rad: 1.10, heading_deg: 62.91
+RAW: 120, s: 100, aX: 0.25, aY: 0.78, gZ: 0.76, timeS: 36933.00, heading_rad: 1.11, heading_deg: 63.45
+RAW: 121, s: 100, aX: -0.31, aY: 1.25, gZ: 0.79, timeS: 36945.00, heading_rad: 1.12, heading_deg: 64.01
+RAW: 122, s: 100, aX: 0.67, aY: 0.85, gZ: 0.83, timeS: 36957.00, heading_rad: 1.13, heading_deg: 64.60
+RAW: 123, s: 100, aX: -1.58, aY: 0.14, gZ: 0.85, timeS: 36969.00, heading_rad: 1.14, heading_deg: 65.19
+RAW: 124, s: 100, aX: 1.75, aY: -1.01, gZ: 0.85, timeS: 36981.00, heading_rad: 1.15, heading_deg: 65.79
+RAW: 125, s: 100, aX: 0.28, aY: -0.12, gZ: 0.87, timeS: 36993.00, heading_rad: 1.16, heading_deg: 66.40
+RAW: 126, s: 100, aX: 0.92, aY: 0.39, gZ: 0.88, timeS: 37005.00, heading_rad: 1.17, heading_deg: 67.02
+RAW: 127, s: 100, aX: 0.58, aY: -0.04, gZ: 0.87, timeS: 37017.00, heading_rad: 1.18, heading_deg: 67.64
+RAW: 128, s: 100, aX: -0.80, aY: 0.25, gZ: 0.87, timeS: 37029.00, heading_rad: 1.19, heading_deg: 68.25
+RAW: 129, s: 100, aX: -0.33, aY: -0.76, gZ: 0.89, timeS: 37041.00, heading_rad: 1.20, heading_deg: 68.88
+RAW: 130, s: 100, aX: 0.32, aY: -0.26, gZ: 0.92, timeS: 37053.00, heading_rad: 1.21, heading_deg: 69.53
+RAW: 131, s: 100, aX: -0.32, aY: -0.70, gZ: 0.98, timeS: 37065.00, heading_rad: 1.23, heading_deg: 70.21
+RAW: 132, s: 100, aX: 1.01, aY: -0.57, gZ: 1.02, timeS: 37077.00, heading_rad: 1.24, heading_deg: 70.93
+RAW: 133, s: 100, aX: 0.70, aY: 0.05, gZ: 1.04, timeS: 37089.00, heading_rad: 1.25, heading_deg: 71.66
+RAW: 134, s: 100, aX: 0.43, aY: 0.51, gZ: 1.08, timeS: 37101.00, heading_rad: 1.26, heading_deg: 72.42
+RAW: 135, s: 100, aX: -0.25, aY: 0.83, gZ: 1.07, timeS: 37113.00, heading_rad: 1.28, heading_deg: 73.17
+RAW: 136, s: 100, aX: -0.61, aY: 0.86, gZ: 1.10, timeS: 37125.00, heading_rad: 1.29, heading_deg: 73.94
+RAW: 137, s: 100, aX: -0.12, aY: -0.57, gZ: 1.10, timeS: 37137.00, heading_rad: 1.30, heading_deg: 74.71
+RAW: 138, s: 100, aX: -0.23, aY: -0.65, gZ: 1.12, timeS: 37149.00, heading_rad: 1.32, heading_deg: 75.49
+RAW: 139, s: 100, aX: -0.12, aY: -0.48, gZ: 1.08, timeS: 37161.00, heading_rad: 1.33, heading_deg: 76.25
+RAW: 140, s: 100, aX: 0.45, aY: -0.08, gZ: 1.08, timeS: 37173.00, heading_rad: 1.34, heading_deg: 77.01
+RAW: 141, s: 100, aX: 0.10, aY: -0.03, gZ: 1.08, timeS: 37185.00, heading_rad: 1.36, heading_deg: 77.77
+RAW: 142, s: 100, aX: 0.66, aY: 0.16, gZ: 1.04, timeS: 37197.00, heading_rad: 1.37, heading_deg: 78.50
+RAW: 143, s: 100, aX: -0.63, aY: 1.58, gZ: 1.07, timeS: 37209.00, heading_rad: 1.38, heading_deg: 79.25
+RAW: 144, s: 100, aX: 0.60, aY: 0.13, gZ: 1.09, timeS: 37221.00, heading_rad: 1.40, heading_deg: 80.01
+RAW: 145, s: 100, aX: 0.54, aY: -0.58, gZ: 1.06, timeS: 37233.00, heading_rad: 1.41, heading_deg: 80.76
+RAW: 146, s: 100, aX: 0.78, aY: -0.52, gZ: 1.03, timeS: 37245.00, heading_rad: 1.42, heading_deg: 81.48
+RAW: 147, s: 100, aX: -0.58, aY: -0.06, gZ: 1.05, timeS: 37257.00, heading_rad: 1.44, heading_deg: 82.22
+RAW: 148, s: 100, aX: 0.57, aY: -0.11, gZ: 1.02, timeS: 37269.00, heading_rad: 1.45, heading_deg: 82.93
+RAW: 149, s: 100, aX: 0.64, aY: 0.33, gZ: 0.98, timeS: 37281.00, heading_rad: 1.46, heading_deg: 83.62
+RAW: 150, s: 100, aX: 0.53, aY: -0.20, gZ: 1.03, timeS: 37293.00, heading_rad: 1.47, heading_deg: 84.35
+RAW: 151, s: 100, aX: 1.02, aY: -0.03, gZ: 1.04, timeS: 37305.00, heading_rad: 1.48, heading_deg: 85.08
+RAW: 152, s: 100, aX: 0.10, aY: -0.03, gZ: 1.04, timeS: 37317.00, heading_rad: 1.50, heading_deg: 85.81
+RAW: 153, s: 100, aX: -0.09, aY: 0.09, gZ: 1.04, timeS: 37329.00, heading_rad: 1.51, heading_deg: 86.53
+RAW: 154, s: 100, aX: -0.09, aY: 0.31, gZ: 1.05, timeS: 37341.00, heading_rad: 1.52, heading_deg: 87.27
+RAW: 155, s: 100, aX: -0.10, aY: -0.88, gZ: 1.07, timeS: 37353.00, heading_rad: 1.54, heading_deg: 88.02
+RAW: 156, s: 100, aX: 0.71, aY: -0.64, gZ: 1.06, timeS: 37365.00, heading_rad: 1.55, heading_deg: 88.76
+RAW: 157, s: 100, aX: -0.20, aY: 0.17, gZ: 1.06, timeS: 37389.00, heading_rad: 1.58, heading_deg: 90.26
+RAW: 158, s: 100, aX: -0.04, aY: -0.16, gZ: 1.05, timeS: 37392.00, heading_rad: 1.58, heading_deg: 90.44
+RAW: 159, s: 100, aX: 0.32, aY: -0.65, gZ: 0.96, timeS: 37404.00, heading_rad: 1.59, heading_deg: 91.11
+RAW: 160, s: 100, aX: 0.15, aY: -0.80, gZ: 0.59, timeS: 37416.00, heading_rad: 1.60, heading_deg: 91.54
+RAW: 161, s: 100, aX: 0.25, aY: -0.54, gZ: 0.22, timeS: 37428.00, heading_rad: 1.60, heading_deg: 91.70
+Heading 181.70, deg
+30, 80
+35, 80
+40, 0
+45, 0
+50, 164
+55, 162
+60, 162
+65, 160
+70, 159
+75, 159
+80, 159
+85, 159
+90, 159
+95, 159
+100, 160
+105, 159
+110, 166
+115, 163
+120, 162
+125, 163
+130, 120
+135, 119
+140, 119
+145, 117
+150, 117
+150, 118
+145, 119
+140, 118
+135, 119
+130, 119
+125, 119
+120, 120
+115, 164
+110, 162
+105, 159
+100, 159
+95, 159
+90, 159
+85, 160
+80, 159
+75, 159
+70, 159
+65, 160
+60, 160
+55, 163
+50, 163
+45, 163
+40, 0
+35, 0
+30, 0
+30, 80
+35, 81
+40, 0
+45, 0
+50, 0
+55, 162
+60, 162
+65, 161
+70, 159
+75, 160
+80, 159
+85, 159
+90, 159
+95, 160
+100, 159
+105, 159
+110, 159
+115, 162
+120, 164
+125, 163
+130, 121
+135, 120
+140, 118
+145, 117
+150, 117
+150, 117
+145, 118
+140, 118
+135, 119
+130, 118
+125, 117
+120, 120
+115, 120
+110, 163
+105, 164
+100, 159
+95, 159
+90, 159
+85, 159
+80, 159
+75, 159
+70, 160
+65, 159
+60, 161
+55, 162
+50, 163
+45, 0
+40, 0
+35, 0
+30, 0
+RAW: 0, s: 50, aX: 0.24, aY: 0.05, gZ: -0.02, timeS: 50032.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 1, s: 55, aX: -0.08, aY: 0.08, gZ: -0.02, timeS: 50044.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 2, s: 60, aX: 0.05, aY: -0.13, gZ: 0.01, timeS: 50056.00, heading_rad: 0.00, heading_deg: 0.02
+RAW: 3, s: 65, aX: 0.47, aY: 0.31, gZ: 0.10, timeS: 50068.00, heading_rad: 0.00, heading_deg: 0.11
+RAW: 4, s: 70, aX: 0.43, aY: 0.05, gZ: 0.11, timeS: 50080.00, heading_rad: 0.00, heading_deg: 0.20
+RAW: 5, s: 75, aX: 0.23, aY: -0.58, gZ: 0.05, timeS: 50092.00, heading_rad: 0.00, heading_deg: 0.25
+RAW: 6, s: 80, aX: 0.93, aY: 0.36, gZ: 0.01, timeS: 50104.00, heading_rad: 0.00, heading_deg: 0.27
+RAW: 7, s: 85, aX: -0.03, aY: -0.11, gZ: 0.00, timeS: 50116.00, heading_rad: 0.00, heading_deg: 0.27
+RAW: 8, s: 90, aX: -0.27, aY: 0.32, gZ: 0.15, timeS: 50128.00, heading_rad: 0.01, heading_deg: 0.39
+RAW: 9, s: 95, aX: 0.93, aY: -2.27, gZ: 0.42, timeS: 50140.00, heading_rad: 0.01, heading_deg: 0.69
+RAW: 10, s: 100, aX: -1.18, aY: 0.22, gZ: 0.62, timeS: 50152.00, heading_rad: 0.02, heading_deg: 1.13
+RAW: 11, s: 100, aX: 1.33, aY: 0.94, gZ: 0.67, timeS: 50164.00, heading_rad: 0.03, heading_deg: 1.61
+RAW: 12, s: 100, aX: -0.26, aY: 1.20, gZ: 0.76, timeS: 50176.00, heading_rad: 0.04, heading_deg: 2.15
+RAW: 13, s: 100, aX: 0.57, aY: -0.35, gZ: 0.83, timeS: 50188.00, heading_rad: 0.05, heading_deg: 2.73
+RAW: 14, s: 100, aX: 0.79, aY: 0.05, gZ: 0.87, timeS: 50200.00, heading_rad: 0.06, heading_deg: 3.34
+RAW: 15, s: 100, aX: -0.33, aY: 0.55, gZ: 0.88, timeS: 50212.00, heading_rad: 0.07, heading_deg: 3.96
+RAW: 16, s: 100, aX: -0.64, aY: 0.95, gZ: 0.91, timeS: 50224.00, heading_rad: 0.08, heading_deg: 4.60
+RAW: 17, s: 100, aX: -0.38, aY: 0.40, gZ: 0.94, timeS: 50236.00, heading_rad: 0.09, heading_deg: 5.26
+RAW: 18, s: 100, aX: 1.48, aY: -0.40, gZ: 0.98, timeS: 50248.00, heading_rad: 0.10, heading_deg: 5.95
+RAW: 19, s: 100, aX: 0.65, aY: -0.59, gZ: 1.00, timeS: 50260.00, heading_rad: 0.12, heading_deg: 6.65
+RAW: 20, s: 100, aX: 0.28, aY: -0.03, gZ: 1.04, timeS: 50272.00, heading_rad: 0.13, heading_deg: 7.38
+RAW: 21, s: 100, aX: 0.33, aY: 0.64, gZ: 1.06, timeS: 50284.00, heading_rad: 0.14, heading_deg: 8.12
+RAW: 22, s: 100, aX: -0.26, aY: 0.87, gZ: 1.10, timeS: 50296.00, heading_rad: 0.16, heading_deg: 8.89
+RAW: 23, s: 100, aX: 1.19, aY: 0.19, gZ: 1.08, timeS: 50308.00, heading_rad: 0.17, heading_deg: 9.65
+RAW: 24, s: 100, aX: -0.66, aY: 0.11, gZ: 1.08, timeS: 50320.00, heading_rad: 0.18, heading_deg: 10.41
+RAW: 25, s: 100, aX: 0.66, aY: -0.53, gZ: 1.08, timeS: 50332.00, heading_rad: 0.19, heading_deg: 11.16
+RAW: 26, s: 100, aX: -0.09, aY: -0.79, gZ: 1.06, timeS: 50344.00, heading_rad: 0.21, heading_deg: 11.91
+RAW: 27, s: 100, aX: 0.38, aY: -1.07, gZ: 1.01, timeS: 50356.00, heading_rad: 0.22, heading_deg: 12.62
+RAW: 28, s: 100, aX: 0.04, aY: -0.25, gZ: 1.02, timeS: 50368.00, heading_rad: 0.23, heading_deg: 13.33
+RAW: 29, s: 100, aX: 0.86, aY: -0.14, gZ: 1.01, timeS: 50380.00, heading_rad: 0.25, heading_deg: 14.04
+RAW: 30, s: 100, aX: -0.42, aY: 0.94, gZ: 1.04, timeS: 50392.00, heading_rad: 0.26, heading_deg: 14.78
+RAW: 31, s: 100, aX: 0.32, aY: 0.18, gZ: 1.10, timeS: 50404.00, heading_rad: 0.27, heading_deg: 15.55
+RAW: 32, s: 100, aX: -0.52, aY: 0.24, gZ: 1.09, timeS: 50416.00, heading_rad: 0.28, heading_deg: 16.31
+RAW: 33, s: 100, aX: -0.19, aY: -0.15, gZ: 1.09, timeS: 50428.00, heading_rad: 0.30, heading_deg: 17.08
+RAW: 34, s: 100, aX: 1.15, aY: -0.57, gZ: 1.08, timeS: 50440.00, heading_rad: 0.31, heading_deg: 17.84
+RAW: 35, s: 100, aX: -1.56, aY: 0.11, gZ: 1.06, timeS: 50452.00, heading_rad: 0.32, heading_deg: 18.58
+RAW: 36, s: 100, aX: 1.29, aY: -0.75, gZ: 1.00, timeS: 50464.00, heading_rad: 0.34, heading_deg: 19.28
+RAW: 37, s: 100, aX: -1.07, aY: 1.31, gZ: 1.01, timeS: 50476.00, heading_rad: 0.35, heading_deg: 19.99
+RAW: 38, s: 100, aX: 1.45, aY: 0.52, gZ: 1.04, timeS: 50488.00, heading_rad: 0.36, heading_deg: 20.72
+RAW: 39, s: 100, aX: 0.12, aY: 0.93, gZ: 1.05, timeS: 50500.00, heading_rad: 0.37, heading_deg: 21.46
+RAW: 40, s: 100, aX: -0.54, aY: 0.54, gZ: 1.09, timeS: 50512.00, heading_rad: 0.39, heading_deg: 22.22
+RAW: 41, s: 100, aX: 0.40, aY: -0.47, gZ: 1.13, timeS: 50524.00, heading_rad: 0.40, heading_deg: 23.01
+RAW: 42, s: 100, aX: -0.18, aY: -0.09, gZ: 1.08, timeS: 50536.00, heading_rad: 0.41, heading_deg: 23.76
+RAW: 43, s: 100, aX: 1.13, aY: -0.32, gZ: 1.06, timeS: 50548.00, heading_rad: 0.43, heading_deg: 24.50
+RAW: 44, s: 100, aX: -0.57, aY: 0.91, gZ: 1.06, timeS: 50560.00, heading_rad: 0.44, heading_deg: 25.25
+RAW: 45, s: 100, aX: 1.30, aY: -0.91, gZ: 1.08, timeS: 50572.00, heading_rad: 0.45, heading_deg: 26.00
+RAW: 46, s: 100, aX: -0.20, aY: -0.40, gZ: 1.05, timeS: 50584.00, heading_rad: 0.47, heading_deg: 26.74
+RAW: 47, s: 100, aX: 0.39, aY: -0.78, gZ: 1.07, timeS: 50596.00, heading_rad: 0.48, heading_deg: 27.49
+RAW: 48, s: 100, aX: -0.29, aY: 0.26, gZ: 1.12, timeS: 50608.00, heading_rad: 0.49, heading_deg: 28.27
+RAW: 49, s: 100, aX: 0.83, aY: -0.41, gZ: 1.09, timeS: 50620.00, heading_rad: 0.51, heading_deg: 29.04
+RAW: 50, s: 100, aX: -0.31, aY: 0.91, gZ: 1.06, timeS: 50632.00, heading_rad: 0.52, heading_deg: 29.78
+RAW: 51, s: 100, aX: 0.97, aY: -0.46, gZ: 1.07, timeS: 50644.00, heading_rad: 0.53, heading_deg: 30.53
+RAW: 52, s: 100, aX: -0.41, aY: 0.32, gZ: 1.05, timeS: 50656.00, heading_rad: 0.55, heading_deg: 31.27
+RAW: 53, s: 100, aX: 0.29, aY: -0.34, gZ: 1.04, timeS: 50668.00, heading_rad: 0.56, heading_deg: 32.00
+RAW: 54, s: 100, aX: 0.57, aY: 0.09, gZ: 1.06, timeS: 50680.00, heading_rad: 0.57, heading_deg: 32.75
+RAW: 55, s: 100, aX: 0.83, aY: 0.17, gZ: 1.09, timeS: 50692.00, heading_rad: 0.58, heading_deg: 33.51
+RAW: 56, s: 100, aX: 0.77, aY: -0.53, gZ: 1.09, timeS: 50704.00, heading_rad: 0.60, heading_deg: 34.28
+RAW: 57, s: 100, aX: 0.57, aY: -0.06, gZ: 1.06, timeS: 50716.00, heading_rad: 0.61, heading_deg: 35.02
+RAW: 58, s: 100, aX: -0.74, aY: 0.56, gZ: 1.07, timeS: 50728.00, heading_rad: 0.62, heading_deg: 35.77
+RAW: 59, s: 100, aX: -0.04, aY: -0.03, gZ: 1.05, timeS: 50740.00, heading_rad: 0.64, heading_deg: 36.51
+RAW: 60, s: 100, aX: 1.05, aY: -0.03, gZ: 1.06, timeS: 50752.00, heading_rad: 0.65, heading_deg: 37.25
+RAW: 61, s: 100, aX: -0.27, aY: -0.23, gZ: 1.06, timeS: 50764.00, heading_rad: 0.66, heading_deg: 38.00
+RAW: 62, s: 100, aX: 1.75, aY: -0.91, gZ: 1.03, timeS: 50776.00, heading_rad: 0.68, heading_deg: 38.72
+RAW: 63, s: 100, aX: 1.07, aY: 0.09, gZ: 0.99, timeS: 50788.00, heading_rad: 0.69, heading_deg: 39.42
+RAW: 64, s: 100, aX: 0.66, aY: -0.09, gZ: 1.03, timeS: 50800.00, heading_rad: 0.70, heading_deg: 40.14
+RAW: 65, s: 100, aX: -0.60, aY: 0.30, gZ: 1.04, timeS: 50812.00, heading_rad: 0.71, heading_deg: 40.87
+RAW: 66, s: 100, aX: 0.09, aY: -0.24, gZ: 1.02, timeS: 50824.00, heading_rad: 0.73, heading_deg: 41.59
+RAW: 67, s: 100, aX: 0.22, aY: 0.17, gZ: 1.04, timeS: 50836.00, heading_rad: 0.74, heading_deg: 42.32
+RAW: 68, s: 100, aX: -0.01, aY: 0.00, gZ: 1.06, timeS: 50848.00, heading_rad: 0.75, heading_deg: 43.06
+RAW: 69, s: 100, aX: 1.90, aY: -0.38, gZ: 1.04, timeS: 50860.00, heading_rad: 0.76, heading_deg: 43.79
+RAW: 70, s: 100, aX: 0.57, aY: 0.22, gZ: 1.04, timeS: 50872.00, heading_rad: 0.78, heading_deg: 44.52
+RAW: 71, s: 100, aX: 0.75, aY: -0.16, gZ: 1.04, timeS: 50884.00, heading_rad: 0.79, heading_deg: 45.25
+RAW: 72, s: 100, aX: 1.01, aY: -0.35, gZ: 1.04, timeS: 50896.00, heading_rad: 0.80, heading_deg: 45.98
+RAW: 73, s: 100, aX: -1.15, aY: 0.60, gZ: 1.04, timeS: 50908.00, heading_rad: 0.82, heading_deg: 46.71
+RAW: 74, s: 100, aX: -1.56, aY: 0.60, gZ: 1.02, timeS: 50920.00, heading_rad: 0.83, heading_deg: 47.42
+RAW: 75, s: 100, aX: 1.09, aY: -0.32, gZ: 1.00, timeS: 50932.00, heading_rad: 0.84, heading_deg: 48.13
+RAW: 76, s: 100, aX: -1.04, aY: 0.63, gZ: 1.01, timeS: 50944.00, heading_rad: 0.85, heading_deg: 48.83
+RAW: 77, s: 100, aX: 1.35, aY: -0.17, gZ: 1.03, timeS: 50956.00, heading_rad: 0.86, heading_deg: 49.56
+RAW: 78, s: 100, aX: 0.56, aY: -0.03, gZ: 1.03, timeS: 50968.00, heading_rad: 0.88, heading_deg: 50.28
+RAW: 79, s: 100, aX: 1.26, aY: -0.34, gZ: 1.04, timeS: 50980.00, heading_rad: 0.89, heading_deg: 51.01
+RAW: 80, s: 100, aX: 0.64, aY: 0.37, gZ: 1.06, timeS: 50992.00, heading_rad: 0.90, heading_deg: 51.75
+RAW: 81, s: 100, aX: 0.34, aY: -0.24, gZ: 1.06, timeS: 51004.00, heading_rad: 0.92, heading_deg: 52.49
+RAW: 82, s: 100, aX: -0.73, aY: 0.36, gZ: 1.04, timeS: 51016.00, heading_rad: 0.93, heading_deg: 53.22
+RAW: 83, s: 100, aX: 0.11, aY: 0.82, gZ: 1.06, timeS: 51028.00, heading_rad: 0.94, heading_deg: 53.96
+RAW: 84, s: 100, aX: -0.06, aY: 0.09, gZ: 1.08, timeS: 51040.00, heading_rad: 0.96, heading_deg: 54.72
+RAW: 85, s: 100, aX: 1.27, aY: -0.62, gZ: 1.05, timeS: 51052.00, heading_rad: 0.97, heading_deg: 55.46
+RAW: 86, s: 100, aX: 0.86, aY: -0.61, gZ: 1.03, timeS: 51064.00, heading_rad: 0.98, heading_deg: 56.18
+RAW: 87, s: 100, aX: 1.07, aY: -0.36, gZ: 1.01, timeS: 51076.00, heading_rad: 0.99, heading_deg: 56.89
+RAW: 88, s: 100, aX: -0.24, aY: -0.10, gZ: 1.01, timeS: 51088.00, heading_rad: 1.01, heading_deg: 57.60
+RAW: 89, s: 100, aX: 0.69, aY: -0.20, gZ: 0.99, timeS: 51100.00, heading_rad: 1.02, heading_deg: 58.29
+RAW: 90, s: 100, aX: -0.23, aY: 0.60, gZ: 0.98, timeS: 51112.00, heading_rad: 1.03, heading_deg: 58.98
+RAW: 91, s: 100, aX: 0.03, aY: 0.25, gZ: 1.01, timeS: 51124.00, heading_rad: 1.04, heading_deg: 59.68
+RAW: 92, s: 100, aX: 0.68, aY: -0.03, gZ: 1.00, timeS: 51136.00, heading_rad: 1.05, heading_deg: 60.39
+RAW: 93, s: 100, aX: 1.23, aY: -1.20, gZ: 0.97, timeS: 51148.00, heading_rad: 1.07, heading_deg: 61.07
+RAW: 94, s: 100, aX: 0.57, aY: -0.48, gZ: 0.97, timeS: 51160.00, heading_rad: 1.08, heading_deg: 61.75
+RAW: 95, s: 100, aX: 0.35, aY: -0.03, gZ: 0.99, timeS: 51172.00, heading_rad: 1.09, heading_deg: 62.45
+RAW: 96, s: 100, aX: 0.17, aY: -0.00, gZ: 0.95, timeS: 51184.00, heading_rad: 1.10, heading_deg: 63.11
+RAW: 97, s: 100, aX: -0.27, aY: 0.72, gZ: 0.93, timeS: 51196.00, heading_rad: 1.11, heading_deg: 63.76
+RAW: 98, s: 100, aX: 0.05, aY: -0.06, gZ: 0.93, timeS: 51208.00, heading_rad: 1.12, heading_deg: 64.42
+RAW: 99, s: 100, aX: -0.08, aY: -0.16, gZ: 0.94, timeS: 51220.00, heading_rad: 1.14, heading_deg: 65.08
+RAW: 100, s: 100, aX: 0.17, aY: -0.37, gZ: 0.92, timeS: 51232.00, heading_rad: 1.15, heading_deg: 65.72
+RAW: 101, s: 100, aX: 0.63, aY: -0.13, gZ: 0.92, timeS: 51244.00, heading_rad: 1.16, heading_deg: 66.37
+RAW: 102, s: 100, aX: 0.25, aY: 0.05, gZ: 0.92, timeS: 51256.00, heading_rad: 1.17, heading_deg: 67.02
+RAW: 103, s: 100, aX: 1.16, aY: -0.23, gZ: 0.91, timeS: 51268.00, heading_rad: 1.18, heading_deg: 67.66
+RAW: 104, s: 100, aX: -0.03, aY: 0.39, gZ: 0.90, timeS: 51280.00, heading_rad: 1.19, heading_deg: 68.30
+RAW: 105, s: 100, aX: 0.53, aY: -0.58, gZ: 0.92, timeS: 51292.00, heading_rad: 1.20, heading_deg: 68.94
+RAW: 106, s: 100, aX: -0.42, aY: -0.55, gZ: 0.91, timeS: 51304.00, heading_rad: 1.21, heading_deg: 69.58
+RAW: 107, s: 100, aX: 0.07, aY: 0.10, gZ: 0.94, timeS: 51316.00, heading_rad: 1.23, heading_deg: 70.25
+RAW: 108, s: 100, aX: 0.38, aY: 0.23, gZ: 0.96, timeS: 51328.00, heading_rad: 1.24, heading_deg: 70.92
+RAW: 109, s: 100, aX: 0.11, aY: 0.22, gZ: 0.92, timeS: 51340.00, heading_rad: 1.25, heading_deg: 71.57
+RAW: 110, s: 100, aX: 0.17, aY: -0.02, gZ: 0.90, timeS: 51352.00, heading_rad: 1.26, heading_deg: 72.20
+RAW: 111, s: 100, aX: 0.28, aY: -0.64, gZ: 0.87, timeS: 51364.00, heading_rad: 1.27, heading_deg: 72.81
+RAW: 112, s: 100, aX: 1.00, aY: 0.38, gZ: 0.87, timeS: 51376.00, heading_rad: 1.28, heading_deg: 73.43
+RAW: 113, s: 100, aX: 0.66, aY: 0.16, gZ: 0.89, timeS: 51388.00, heading_rad: 1.29, heading_deg: 74.06
+RAW: 114, s: 100, aX: -0.44, aY: -0.12, gZ: 0.89, timeS: 51400.00, heading_rad: 1.30, heading_deg: 74.68
+RAW: 115, s: 100, aX: -0.58, aY: -0.46, gZ: 0.86, timeS: 51412.00, heading_rad: 1.31, heading_deg: 75.29
+RAW: 116, s: 100, aX: -0.24, aY: 0.27, gZ: 0.87, timeS: 51424.00, heading_rad: 1.32, heading_deg: 75.90
+RAW: 117, s: 100, aX: 1.50, aY: -0.27, gZ: 0.87, timeS: 51436.00, heading_rad: 1.34, heading_deg: 76.51
+RAW: 118, s: 100, aX: -1.30, aY: 0.52, gZ: 0.86, timeS: 51448.00, heading_rad: 1.35, heading_deg: 77.11
+RAW: 119, s: 100, aX: 1.63, aY: -0.84, gZ: 0.83, timeS: 51460.00, heading_rad: 1.36, heading_deg: 77.70
+RAW: 120, s: 100, aX: -0.05, aY: -0.85, gZ: 0.86, timeS: 51472.00, heading_rad: 1.37, heading_deg: 78.31
+RAW: 121, s: 100, aX: 1.46, aY: -0.07, gZ: 0.84, timeS: 51484.00, heading_rad: 1.38, heading_deg: 78.90
+RAW: 122, s: 100, aX: 0.56, aY: 0.00, gZ: 0.85, timeS: 51496.00, heading_rad: 1.39, heading_deg: 79.50
+RAW: 123, s: 100, aX: 0.01, aY: 1.07, gZ: 0.83, timeS: 51508.00, heading_rad: 1.40, heading_deg: 80.08
+RAW: 124, s: 100, aX: 0.00, aY: 1.55, gZ: 0.89, timeS: 51520.00, heading_rad: 1.41, heading_deg: 80.71
+RAW: 125, s: 100, aX: -0.19, aY: 0.44, gZ: 0.90, timeS: 51532.00, heading_rad: 1.42, heading_deg: 81.34
+RAW: 126, s: 100, aX: -0.41, aY: -0.04, gZ: 0.85, timeS: 51544.00, heading_rad: 1.43, heading_deg: 81.94
+RAW: 127, s: 100, aX: 0.52, aY: -1.36, gZ: 0.84, timeS: 51556.00, heading_rad: 1.44, heading_deg: 82.53
+RAW: 128, s: 100, aX: 0.33, aY: -1.28, gZ: 0.85, timeS: 51568.00, heading_rad: 1.45, heading_deg: 83.13
+RAW: 129, s: 100, aX: -0.92, aY: 0.93, gZ: 0.87, timeS: 51580.00, heading_rad: 1.46, heading_deg: 83.74
+RAW: 130, s: 100, aX: 2.56, aY: 0.07, gZ: 0.92, timeS: 51592.00, heading_rad: 1.47, heading_deg: 84.39
+RAW: 131, s: 100, aX: -0.35, aY: 0.68, gZ: 0.90, timeS: 51604.00, heading_rad: 1.48, heading_deg: 85.02
+RAW: 132, s: 100, aX: 1.75, aY: -0.44, gZ: 0.93, timeS: 51616.00, heading_rad: 1.50, heading_deg: 85.68
+RAW: 133, s: 100, aX: -0.60, aY: 0.29, gZ: 0.97, timeS: 51628.00, heading_rad: 1.51, heading_deg: 86.36
+RAW: 134, s: 100, aX: 0.05, aY: 0.25, gZ: 0.98, timeS: 51640.00, heading_rad: 1.52, heading_deg: 87.05
+RAW: 135, s: 100, aX: 0.09, aY: 0.57, gZ: 0.95, timeS: 51652.00, heading_rad: 1.53, heading_deg: 87.71
+RAW: 136, s: 100, aX: 0.85, aY: -0.07, gZ: 1.01, timeS: 51664.00, heading_rad: 1.54, heading_deg: 88.43
+RAW: 137, s: 100, aX: 0.42, aY: 0.00, gZ: 0.97, timeS: 51688.00, heading_rad: 1.57, heading_deg: 89.79
+RAW: 138, s: 100, aX: 0.22, aY: 0.18, gZ: 0.97, timeS: 51691.00, heading_rad: 1.57, heading_deg: 89.96
+RAW: 139, s: 100, aX: 0.83, aY: -1.43, gZ: 0.89, timeS: 51703.00, heading_rad: 1.58, heading_deg: 90.59
+RAW: 140, s: 100, aX: 0.36, aY: -1.06, gZ: 0.57, timeS: 51715.00, heading_rad: 1.59, heading_deg: 91.00
+RAW: 141, s: 100, aX: 0.58, aY: -0.84, gZ: 0.17, timeS: 51727.00, heading_rad: 1.59, heading_deg: 91.13
+Heading 272.83, deg
+30, 117
+35, 116
+40, 117
+45, 117
+50, 116
+55, 117
+60, 117
+65, 0
+70, 0
+75, 0
+80, 0
+85, 0
+90, 146
+95, 0
+100, 0
+105, 0
+110, 0
+115, 0
+120, 0
+125, 0
+130, 0
+135, 0
+140, 0
+145, 0
+150, 0
+150, 0
+145, 0
+140, 0
+135, 0
+130, 0
+125, 0
+120, 0
+115, 0
+110, 0
+105, 0
+100, 0
+95, 0
+90, 0
+85, 184
+80, 185
+75, 0
+70, 0
+65, 0
+60, 0
+55, 0
+50, 116
+45, 117
+40, 116
+35, 118
+30, 116
+30, 118
+35, 117
+40, 118
+45, 115
+50, 119
+55, 119
+60, 0
+65, 0
+70, 0
+75, 184
+80, 185
+85, 185
+90, 147
+95, 147
+100, 146
+105, 0
+110, 0
+115, 0
+120, 0
+125, 0
+130, 0
+135, 0
+140, 0
+145, 0
+150, 0
+150, 0
+145, 0
+140, 0
+135, 0
+130, 0
+125, 0
+120, 0
+115, 0
+110, 0
+105, 0
+100, 0
+95, 0
+90, 145
+85, 146
+80, 0
+75, 0
+70, 0
+65, 0
+60, 0
+55, 117
+50, 118
+45, 116
+40, 117
+35, 116
+30, 116
+30, 118
+35, 118
+40, 61
+45, 61
+50, 61
+55, 55
+60, 55
+65, 57
+70, 0
+75, 0
+80, 0
+85, 0
+90, 0
+95, 0
+100, 0
+105, 0
+110, 80
+115, 79
+120, 0
+125, 0
+130, 0
+135, 0
+140, 0
+145, 0
+150, 0
+150, 0
+145, 0
+140, 0
+135, 0
+130, 0
+125, 101
+120, 100
+115, 97
+110, 0
+105, 0
+100, 0
+95, 0
+90, 184
+85, 184
+80, 185
+75, 0
+70, 0
+65, 0
+60, 0
+55, 0
+50, 117
+45, 116
+40, 116
+35, 115
+30, 117
+30, 117
+35, 116
+40, 118
+45, 118
+50, 116
+55, 0
+60, 0
+65, 118
+70, 144
+75, 185
+80, 145
+85, 0
+90, 185
+95, 0
+100, 0
+105, 0
+110, 0
+115, 0
+120, 0
+125, 0
+130, 0
+135, 0
+140, 0
+145, 0
+150, 0
+150, 0
+145, 0
+140, 0
+135, 0
+130, 0
+125, 0
+120, 0
+115, 0
+110, 0
+105, 0
+100, 0
+95, 0
+90, 185
+85, 186
+80, 184
+75, 0
+70, 146
+65, 0
+60, 0
+55, 119
+50, 0
+45, 0
+40, 119
+35, 118
+30, 118
+30, 118
+35, 117
+40, 116
+45, 117
+50, 116
+55, 117
+60, 117
+65, 0
+70, 0
+75, 145
+80, 185
+85, 185
+90, 0
+95, 0
+100, 0
+105, 0
+110, 0
+115, 0
+120, 0
+125, 0
+130, 0
+135, 0
+140, 0
+145, 0
+150, 0
+150, 0
+145, 0
+140, 0
+135, 0
+130, 0
+125, 0
+120, 0
+115, 0
+110, 0
+105, 0
+100, 0
+95, 0
+90, 147
+85, 146
+80, 0
+75, 146
+70, 144
+65, 146
+60, 0
+55, 119
+50, 117
+45, 116
+40, 116
+35, 118
+30, 117
+RAW: 0, s: 50, aX: 0.32, aY: 0.01, gZ: -0.02, timeS: 73999.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 1, s: 55, aX: 0.20, aY: -0.11, gZ: -0.02, timeS: 74011.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 2, s: 60, aX: 0.18, aY: -0.17, gZ: -0.03, timeS: 74023.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 3, s: 65, aX: 0.21, aY: -0.02, gZ: -0.02, timeS: 74035.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 4, s: 70, aX: 0.42, aY: 0.18, gZ: -0.02, timeS: 74047.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 5, s: 75, aX: 0.58, aY: 0.25, gZ: -0.03, timeS: 74059.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 6, s: 80, aX: 0.47, aY: 0.01, gZ: -0.05, timeS: 74071.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 7, s: 85, aX: 0.32, aY: 0.32, gZ: -0.12, timeS: 74083.00, heading_rad: -0.00, heading_deg: -0.07
+RAW: 8, s: 90, aX: 0.32, aY: 0.86, gZ: -0.26, timeS: 74095.00, heading_rad: -0.00, heading_deg: -0.23
+RAW: 9, s: 95, aX: 1.58, aY: -0.99, gZ: -0.35, timeS: 74107.00, heading_rad: -0.01, heading_deg: -0.45
+RAW: 10, s: 100, aX: -0.57, aY: -3.02, gZ: -0.44, timeS: 74119.00, heading_rad: -0.01, heading_deg: -0.74
+RAW: 11, s: 100, aX: -0.75, aY: -1.65, gZ: -0.53, timeS: 74131.00, heading_rad: -0.02, heading_deg: -1.09
+RAW: 12, s: 100, aX: 1.20, aY: 1.04, gZ: -0.62, timeS: 74143.00, heading_rad: -0.03, heading_deg: -1.50
+RAW: 13, s: 100, aX: -0.44, aY: 0.35, gZ: -0.78, timeS: 74155.00, heading_rad: -0.04, heading_deg: -2.03
+RAW: 14, s: 100, aX: 1.03, aY: 0.98, gZ: -0.86, timeS: 74167.00, heading_rad: -0.05, heading_deg: -2.60
+RAW: 15, s: 100, aX: 0.01, aY: 0.32, gZ: -0.95, timeS: 74179.00, heading_rad: -0.06, heading_deg: -3.24
+RAW: 16, s: 100, aX: -0.57, aY: -1.20, gZ: -0.98, timeS: 74191.00, heading_rad: -0.07, heading_deg: -3.90
+RAW: 17, s: 100, aX: 0.41, aY: -0.78, gZ: -1.04, timeS: 74203.00, heading_rad: -0.08, heading_deg: -4.60
+RAW: 18, s: 100, aX: 0.74, aY: 0.28, gZ: -1.06, timeS: 74215.00, heading_rad: -0.09, heading_deg: -5.31
+RAW: 19, s: 100, aX: 0.67, aY: 0.48, gZ: -1.05, timeS: 74227.00, heading_rad: -0.11, heading_deg: -6.02
+RAW: 20, s: 100, aX: -0.33, aY: 0.28, gZ: -1.06, timeS: 74239.00, heading_rad: -0.12, heading_deg: -6.74
+RAW: 21, s: 100, aX: 0.34, aY: -0.12, gZ: -1.09, timeS: 74251.00, heading_rad: -0.13, heading_deg: -7.47
+RAW: 22, s: 100, aX: 0.82, aY: 0.85, gZ: -1.06, timeS: 74263.00, heading_rad: -0.14, heading_deg: -8.19
+RAW: 23, s: 100, aX: -0.61, aY: -0.11, gZ: -1.08, timeS: 74275.00, heading_rad: -0.16, heading_deg: -8.92
+RAW: 24, s: 100, aX: -0.13, aY: -0.39, gZ: -1.08, timeS: 74287.00, heading_rad: -0.17, heading_deg: -9.65
+RAW: 25, s: 100, aX: 0.91, aY: -0.23, gZ: -1.10, timeS: 74299.00, heading_rad: -0.18, heading_deg: -10.39
+RAW: 26, s: 100, aX: 0.44, aY: 0.54, gZ: -1.11, timeS: 74311.00, heading_rad: -0.19, heading_deg: -11.13
+RAW: 27, s: 100, aX: 0.06, aY: 0.45, gZ: -1.09, timeS: 74323.00, heading_rad: -0.21, heading_deg: -11.87
+RAW: 28, s: 100, aX: 0.51, aY: 0.03, gZ: -1.07, timeS: 74335.00, heading_rad: -0.22, heading_deg: -12.59
+RAW: 29, s: 100, aX: 0.24, aY: 0.22, gZ: -1.08, timeS: 74347.00, heading_rad: -0.23, heading_deg: -13.32
+RAW: 30, s: 100, aX: 1.08, aY: 1.09, gZ: -1.08, timeS: 74359.00, heading_rad: -0.25, heading_deg: -14.05
+RAW: 31, s: 100, aX: 0.13, aY: -0.63, gZ: -1.09, timeS: 74371.00, heading_rad: -0.26, heading_deg: -14.78
+RAW: 32, s: 100, aX: 0.86, aY: 0.19, gZ: -1.07, timeS: 74383.00, heading_rad: -0.27, heading_deg: -15.50
+RAW: 33, s: 100, aX: 0.67, aY: 0.22, gZ: -1.08, timeS: 74395.00, heading_rad: -0.28, heading_deg: -16.22
+RAW: 34, s: 100, aX: -0.15, aY: -0.96, gZ: -1.08, timeS: 74407.00, heading_rad: -0.30, heading_deg: -16.95
+RAW: 35, s: 100, aX: -0.19, aY: 0.28, gZ: -1.08, timeS: 74419.00, heading_rad: -0.31, heading_deg: -17.68
+RAW: 36, s: 100, aX: 0.82, aY: 0.75, gZ: -1.09, timeS: 74431.00, heading_rad: -0.32, heading_deg: -18.41
+RAW: 37, s: 100, aX: 0.60, aY: 0.82, gZ: -1.11, timeS: 74443.00, heading_rad: -0.33, heading_deg: -19.16
+RAW: 38, s: 100, aX: -0.31, aY: 0.14, gZ: -1.07, timeS: 74455.00, heading_rad: -0.35, heading_deg: -19.88
+RAW: 39, s: 100, aX: 0.15, aY: 0.05, gZ: -1.10, timeS: 74467.00, heading_rad: -0.36, heading_deg: -20.63
+RAW: 40, s: 100, aX: 0.27, aY: -0.24, gZ: -1.08, timeS: 74479.00, heading_rad: -0.37, heading_deg: -21.35
+RAW: 41, s: 100, aX: 0.73, aY: -0.51, gZ: -1.08, timeS: 74491.00, heading_rad: -0.39, heading_deg: -22.09
+RAW: 42, s: 100, aX: 0.31, aY: -0.32, gZ: -1.11, timeS: 74503.00, heading_rad: -0.40, heading_deg: -22.84
+RAW: 43, s: 100, aX: 0.08, aY: -0.17, gZ: -1.13, timeS: 74515.00, heading_rad: -0.41, heading_deg: -23.60
+RAW: 44, s: 100, aX: 1.22, aY: 0.42, gZ: -1.11, timeS: 74527.00, heading_rad: -0.42, heading_deg: -24.35
+RAW: 45, s: 100, aX: -0.47, aY: -0.24, gZ: -1.14, timeS: 74539.00, heading_rad: -0.44, heading_deg: -25.11
+RAW: 46, s: 100, aX: -0.79, aY: 0.38, gZ: -1.11, timeS: 74551.00, heading_rad: -0.45, heading_deg: -25.86
+RAW: 47, s: 100, aX: 0.62, aY: 0.04, gZ: -1.11, timeS: 74563.00, heading_rad: -0.46, heading_deg: -26.61
+RAW: 48, s: 100, aX: 0.41, aY: 0.18, gZ: -1.12, timeS: 74575.00, heading_rad: -0.48, heading_deg: -27.36
+RAW: 49, s: 100, aX: 0.32, aY: 0.27, gZ: -1.10, timeS: 74587.00, heading_rad: -0.49, heading_deg: -28.10
+RAW: 50, s: 100, aX: 0.37, aY: -0.04, gZ: -1.08, timeS: 74599.00, heading_rad: -0.50, heading_deg: -28.83
+RAW: 51, s: 100, aX: -0.10, aY: -0.62, gZ: -1.04, timeS: 74611.00, heading_rad: -0.52, heading_deg: -29.53
+RAW: 52, s: 100, aX: 0.30, aY: -0.20, gZ: -1.07, timeS: 74623.00, heading_rad: -0.53, heading_deg: -30.25
+RAW: 53, s: 100, aX: 0.04, aY: 0.88, gZ: -1.07, timeS: 74635.00, heading_rad: -0.54, heading_deg: -30.97
+RAW: 54, s: 100, aX: 0.20, aY: 0.10, gZ: -1.05, timeS: 74647.00, heading_rad: -0.55, heading_deg: -31.67
+RAW: 55, s: 100, aX: 0.37, aY: 0.54, gZ: -1.08, timeS: 74659.00, heading_rad: -0.57, heading_deg: -32.40
+RAW: 56, s: 100, aX: 0.17, aY: -0.00, gZ: -1.09, timeS: 74671.00, heading_rad: -0.58, heading_deg: -33.14
+RAW: 57, s: 100, aX: 0.45, aY: 0.12, gZ: -1.05, timeS: 74683.00, heading_rad: -0.59, heading_deg: -33.84
+RAW: 58, s: 100, aX: 0.09, aY: 0.10, gZ: -1.06, timeS: 74695.00, heading_rad: -0.60, heading_deg: -34.56
+RAW: 59, s: 100, aX: -0.33, aY: -0.31, gZ: -1.07, timeS: 74707.00, heading_rad: -0.62, heading_deg: -35.28
+RAW: 60, s: 100, aX: 0.11, aY: -0.45, gZ: -1.07, timeS: 74719.00, heading_rad: -0.63, heading_deg: -36.00
+RAW: 61, s: 100, aX: 0.06, aY: -0.15, gZ: -1.06, timeS: 74731.00, heading_rad: -0.64, heading_deg: -36.72
+RAW: 62, s: 100, aX: 0.34, aY: 0.22, gZ: -1.08, timeS: 74743.00, heading_rad: -0.65, heading_deg: -37.45
+RAW: 63, s: 100, aX: 0.29, aY: 0.21, gZ: -1.05, timeS: 74755.00, heading_rad: -0.67, heading_deg: -38.16
+RAW: 64, s: 100, aX: 0.38, aY: 0.71, gZ: -1.04, timeS: 74767.00, heading_rad: -0.68, heading_deg: -38.85
+RAW: 65, s: 100, aX: 1.31, aY: 0.86, gZ: -1.07, timeS: 74779.00, heading_rad: -0.69, heading_deg: -39.57
+RAW: 66, s: 100, aX: 0.07, aY: 0.28, gZ: -1.05, timeS: 74791.00, heading_rad: -0.70, heading_deg: -40.28
+RAW: 67, s: 100, aX: 0.14, aY: -0.47, gZ: -1.06, timeS: 74803.00, heading_rad: -0.72, heading_deg: -40.99
+RAW: 68, s: 100, aX: 0.02, aY: -0.66, gZ: -1.08, timeS: 74815.00, heading_rad: -0.73, heading_deg: -41.72
+RAW: 69, s: 100, aX: 0.20, aY: -0.63, gZ: -1.09, timeS: 74827.00, heading_rad: -0.74, heading_deg: -42.45
+RAW: 70, s: 100, aX: -0.07, aY: -0.44, gZ: -1.09, timeS: 74839.00, heading_rad: -0.75, heading_deg: -43.19
+RAW: 71, s: 100, aX: 0.63, aY: 0.70, gZ: -1.07, timeS: 74851.00, heading_rad: -0.77, heading_deg: -43.91
+RAW: 72, s: 100, aX: 0.69, aY: 1.12, gZ: -1.07, timeS: 74863.00, heading_rad: -0.78, heading_deg: -44.63
+RAW: 73, s: 100, aX: 1.02, aY: 0.84, gZ: -1.10, timeS: 74875.00, heading_rad: -0.79, heading_deg: -45.37
+RAW: 74, s: 100, aX: 0.55, aY: -0.27, gZ: -1.09, timeS: 74887.00, heading_rad: -0.80, heading_deg: -46.11
+RAW: 75, s: 100, aX: 0.12, aY: -0.28, gZ: -1.09, timeS: 74899.00, heading_rad: -0.82, heading_deg: -46.84
+RAW: 76, s: 100, aX: -0.43, aY: -0.77, gZ: -1.10, timeS: 74911.00, heading_rad: -0.83, heading_deg: -47.58
+RAW: 77, s: 100, aX: -0.67, aY: -1.30, gZ: -1.11, timeS: 74923.00, heading_rad: -0.84, heading_deg: -48.33
+RAW: 78, s: 100, aX: -0.07, aY: 0.28, gZ: -1.10, timeS: 74935.00, heading_rad: -0.86, heading_deg: -49.08
+RAW: 79, s: 100, aX: 0.98, aY: 0.72, gZ: -1.10, timeS: 74947.00, heading_rad: -0.87, heading_deg: -49.82
+RAW: 80, s: 100, aX: 0.09, aY: 0.78, gZ: -1.12, timeS: 74959.00, heading_rad: -0.88, heading_deg: -50.58
+RAW: 81, s: 100, aX: 0.03, aY: 0.36, gZ: -1.13, timeS: 74971.00, heading_rad: -0.90, heading_deg: -51.34
+RAW: 82, s: 100, aX: 0.58, aY: 0.56, gZ: -1.13, timeS: 74983.00, heading_rad: -0.91, heading_deg: -52.10
+RAW: 83, s: 100, aX: -0.49, aY: -1.18, gZ: -1.11, timeS: 74995.00, heading_rad: -0.92, heading_deg: -52.85
+RAW: 84, s: 100, aX: 0.31, aY: -1.19, gZ: -1.10, timeS: 75007.00, heading_rad: -0.94, heading_deg: -53.59
+RAW: 85, s: 100, aX: 0.20, aY: -0.57, gZ: -1.11, timeS: 75019.00, heading_rad: -0.95, heading_deg: -54.34
+RAW: 86, s: 100, aX: 0.27, aY: 0.72, gZ: -1.09, timeS: 75031.00, heading_rad: -0.96, heading_deg: -55.07
+RAW: 87, s: 100, aX: 1.18, aY: 1.26, gZ: -1.08, timeS: 75043.00, heading_rad: -0.97, heading_deg: -55.80
+RAW: 88, s: 100, aX: -0.11, aY: 0.65, gZ: -1.12, timeS: 75055.00, heading_rad: -0.99, heading_deg: -56.55
+RAW: 89, s: 100, aX: 0.66, aY: 0.14, gZ: -1.14, timeS: 75067.00, heading_rad: -1.00, heading_deg: -57.32
+RAW: 90, s: 100, aX: -1.31, aY: -1.25, gZ: -1.09, timeS: 75079.00, heading_rad: -1.01, heading_deg: -58.06
+RAW: 91, s: 100, aX: -0.23, aY: -0.87, gZ: -1.10, timeS: 75091.00, heading_rad: -1.03, heading_deg: -58.80
+RAW: 92, s: 100, aX: -0.95, aY: -0.90, gZ: -1.08, timeS: 75103.00, heading_rad: -1.04, heading_deg: -59.53
+RAW: 93, s: 100, aX: 0.56, aY: 0.55, gZ: -1.03, timeS: 75115.00, heading_rad: -1.05, heading_deg: -60.22
+RAW: 94, s: 100, aX: 0.45, aY: 0.45, gZ: -1.04, timeS: 75127.00, heading_rad: -1.06, heading_deg: -60.92
+RAW: 95, s: 100, aX: 0.49, aY: 0.22, gZ: -1.05, timeS: 75139.00, heading_rad: -1.08, heading_deg: -61.63
+RAW: 96, s: 100, aX: -0.45, aY: 0.24, gZ: -1.05, timeS: 75151.00, heading_rad: -1.09, heading_deg: -62.34
+RAW: 97, s: 100, aX: 1.19, aY: 0.19, gZ: -1.08, timeS: 75163.00, heading_rad: -1.10, heading_deg: -63.06
+RAW: 98, s: 100, aX: 0.48, aY: 0.05, gZ: -1.09, timeS: 75175.00, heading_rad: -1.11, heading_deg: -63.80
+RAW: 99, s: 100, aX: -0.78, aY: -0.48, gZ: -1.07, timeS: 75187.00, heading_rad: -1.13, heading_deg: -64.53
+RAW: 100, s: 100, aX: -0.35, aY: 0.05, gZ: -1.05, timeS: 75199.00, heading_rad: -1.14, heading_deg: -65.23
+RAW: 101, s: 100, aX: -0.01, aY: -0.27, gZ: -1.05, timeS: 75211.00, heading_rad: -1.15, heading_deg: -65.94
+RAW: 102, s: 100, aX: 1.07, aY: -0.23, gZ: -1.06, timeS: 75223.00, heading_rad: -1.16, heading_deg: -66.65
+RAW: 103, s: 100, aX: -0.41, aY: 0.43, gZ: -1.04, timeS: 75235.00, heading_rad: -1.18, heading_deg: -67.35
+RAW: 104, s: 100, aX: 0.27, aY: 0.55, gZ: -1.05, timeS: 75247.00, heading_rad: -1.19, heading_deg: -68.06
+RAW: 105, s: 100, aX: 0.29, aY: 0.59, gZ: -1.08, timeS: 75259.00, heading_rad: -1.20, heading_deg: -68.79
+RAW: 106, s: 100, aX: 0.54, aY: 0.09, gZ: -1.09, timeS: 75271.00, heading_rad: -1.21, heading_deg: -69.52
+RAW: 107, s: 100, aX: 0.07, aY: 0.51, gZ: -1.09, timeS: 75283.00, heading_rad: -1.23, heading_deg: -70.26
+RAW: 108, s: 100, aX: -0.60, aY: -0.45, gZ: -1.11, timeS: 75295.00, heading_rad: -1.24, heading_deg: -71.01
+RAW: 109, s: 100, aX: 0.92, aY: -0.43, gZ: -1.10, timeS: 75307.00, heading_rad: -1.25, heading_deg: -71.75
+RAW: 110, s: 100, aX: 0.21, aY: -1.06, gZ: -1.10, timeS: 75319.00, heading_rad: -1.27, heading_deg: -72.49
+RAW: 111, s: 100, aX: 0.47, aY: -0.23, gZ: -1.11, timeS: 75331.00, heading_rad: -1.28, heading_deg: -73.24
+RAW: 112, s: 100, aX: 0.23, aY: -0.14, gZ: -1.09, timeS: 75343.00, heading_rad: -1.29, heading_deg: -73.98
+RAW: 113, s: 100, aX: -0.05, aY: 0.25, gZ: -1.11, timeS: 75355.00, heading_rad: -1.30, heading_deg: -74.73
+RAW: 114, s: 100, aX: -0.39, aY: 0.99, gZ: -1.07, timeS: 75367.00, heading_rad: -1.32, heading_deg: -75.44
+RAW: 115, s: 100, aX: 1.36, aY: 1.09, gZ: -1.04, timeS: 75379.00, heading_rad: -1.33, heading_deg: -76.15
+RAW: 116, s: 100, aX: -0.38, aY: 0.30, gZ: -1.05, timeS: 75391.00, heading_rad: -1.34, heading_deg: -76.85
+RAW: 117, s: 100, aX: 0.78, aY: -0.63, gZ: -1.03, timeS: 75403.00, heading_rad: -1.35, heading_deg: -77.55
+RAW: 118, s: 100, aX: -0.73, aY: -1.16, gZ: -1.03, timeS: 75415.00, heading_rad: -1.37, heading_deg: -78.24
+RAW: 119, s: 100, aX: 0.54, aY: -0.30, gZ: -1.08, timeS: 75427.00, heading_rad: -1.38, heading_deg: -78.97
+RAW: 120, s: 100, aX: 0.85, aY: 1.33, gZ: -1.07, timeS: 75439.00, heading_rad: -1.39, heading_deg: -79.69
+RAW: 121, s: 100, aX: -0.07, aY: 0.75, gZ: -1.09, timeS: 75451.00, heading_rad: -1.40, heading_deg: -80.42
+RAW: 122, s: 100, aX: 0.33, aY: -0.24, gZ: -1.09, timeS: 75463.00, heading_rad: -1.42, heading_deg: -81.15
+RAW: 123, s: 100, aX: 0.12, aY: 0.06, gZ: -1.11, timeS: 75475.00, heading_rad: -1.43, heading_deg: -81.90
+RAW: 124, s: 100, aX: 0.74, aY: -0.04, gZ: -1.12, timeS: 75487.00, heading_rad: -1.44, heading_deg: -82.66
+RAW: 125, s: 100, aX: -0.66, aY: -0.79, gZ: -1.10, timeS: 75499.00, heading_rad: -1.46, heading_deg: -83.40
+RAW: 126, s: 100, aX: 0.68, aY: -0.70, gZ: -1.11, timeS: 75511.00, heading_rad: -1.47, heading_deg: -84.15
+RAW: 127, s: 100, aX: 0.43, aY: 0.34, gZ: -1.11, timeS: 75523.00, heading_rad: -1.48, heading_deg: -84.90
+RAW: 128, s: 100, aX: -0.02, aY: 0.83, gZ: -1.11, timeS: 75535.00, heading_rad: -1.49, heading_deg: -85.64
+RAW: 129, s: 100, aX: 0.49, aY: 0.13, gZ: -1.11, timeS: 75547.00, heading_rad: -1.51, heading_deg: -86.39
+RAW: 130, s: 100, aX: -0.11, aY: 0.04, gZ: -1.14, timeS: 75559.00, heading_rad: -1.52, heading_deg: -87.16
+RAW: 131, s: 100, aX: 0.90, aY: 0.52, gZ: -1.12, timeS: 75571.00, heading_rad: -1.53, heading_deg: -87.91
+RAW: 132, s: 100, aX: 0.23, aY: -0.51, gZ: -1.14, timeS: 75583.00, heading_rad: -1.55, heading_deg: -88.68
+RAW: 133, s: 100, aX: 0.15, aY: 0.02, gZ: -1.16, timeS: 75595.00, heading_rad: -1.56, heading_deg: -89.46
+RAW: 134, s: 100, aX: 0.80, aY: 1.11, gZ: -1.16, timeS: 75598.00, heading_rad: -1.56, heading_deg: -89.66
+RAW: 135, s: 100, aX: -0.69, aY: 0.39, gZ: -1.04, timeS: 75610.00, heading_rad: -1.58, heading_deg: -90.36
+RAW: 136, s: 100, aX: 0.09, aY: 0.30, gZ: -0.63, timeS: 75622.00, heading_rad: -1.58, heading_deg: -90.78
+RAW: 137, s: 100, aX: 0.02, aY: 0.86, gZ: -0.20, timeS: 75634.00, heading_rad: -1.59, heading_deg: -90.90
+Heading 181.93, deg
+30, 80
+35, 81
+40, 0
+45, 0
+50, 164
+55, 162
+60, 162
+65, 162
+70, 160
+75, 161
+80, 159
+85, 161
+90, 160
+95, 161
+100, 160
+105, 161
+110, 164
+115, 164
+120, 163
+125, 120
+130, 119
+135, 120
+140, 117
+145, 118
+150, 118
+150, 117
+145, 117
+140, 117
+135, 117
+130, 117
+125, 118
+120, 119
+115, 118
+110, 164
+105, 164
+100, 166
+95, 160
+90, 160
+85, 159
+80, 160
+75, 160
+70, 161
+65, 160
+60, 161
+55, 163
+50, 164
+45, 164
+40, 0
+35, 0
+30, 0
+30, 80
+35, 81
+40, 0
+45, 0
+50, 164
+55, 163
+60, 161
+65, 161
+70, 160
+75, 160
+80, 160
+85, 160
+90, 160
+95, 161
+100, 132
+105, 165
+110, 163
+115, 163
+120, 163
+125, 122
+130, 118
+135, 117
+140, 117
+145, 117
+150, 118
+150, 118
+145, 118
+140, 119
+135, 119
+130, 119
+125, 119
+120, 119
+115, 118
+110, 118
+105, 119
+100, 164
+95, 161
+90, 160
+85, 159
+80, 160
+75, 159
+70, 161
+65, 161
+60, 161
+55, 162
+50, 162
+45, 163
+40, 0
+35, 0
+30, 0
+RAW: 0, s: 50, aX: 0.22, aY: -0.02, gZ: -0.02, timeS: 86887.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 1, s: 55, aX: 0.40, aY: 0.12, gZ: -0.02, timeS: 86900.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 2, s: 60, aX: 0.24, aY: 0.14, gZ: -0.01, timeS: 86912.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 3, s: 65, aX: 0.02, aY: -0.10, gZ: -0.02, timeS: 86924.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 4, s: 70, aX: -0.16, aY: -0.32, gZ: -0.03, timeS: 86936.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 5, s: 75, aX: -0.04, aY: -0.39, gZ: -0.02, timeS: 86948.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 6, s: 80, aX: 0.31, aY: -0.39, gZ: -0.02, timeS: 86960.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 7, s: 85, aX: 0.64, aY: 0.17, gZ: -0.01, timeS: 86972.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 8, s: 90, aX: 0.77, aY: 0.32, gZ: -0.01, timeS: 86984.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 9, s: 95, aX: 0.27, aY: 0.37, gZ: 0.00, timeS: 86996.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 10, s: 100, aX: -0.43, aY: 0.97, gZ: 0.22, timeS: 87008.00, heading_rad: 0.00, heading_deg: 0.17
+RAW: 11, s: 100, aX: -1.46, aY: 0.68, gZ: 0.51, timeS: 87020.00, heading_rad: 0.01, heading_deg: 0.53
+RAW: 12, s: 100, aX: -2.08, aY: 0.79, gZ: 0.73, timeS: 87032.00, heading_rad: 0.02, heading_deg: 1.05
+RAW: 13, s: 100, aX: 0.91, aY: 0.12, gZ: 0.91, timeS: 87044.00, heading_rad: 0.03, heading_deg: 1.69
+RAW: 14, s: 100, aX: 0.87, aY: -0.95, gZ: 0.92, timeS: 87056.00, heading_rad: 0.04, heading_deg: 2.34
+RAW: 15, s: 100, aX: 0.38, aY: 0.31, gZ: 0.95, timeS: 87068.00, heading_rad: 0.05, heading_deg: 3.00
+RAW: 16, s: 100, aX: 0.71, aY: 0.04, gZ: 0.97, timeS: 87080.00, heading_rad: 0.06, heading_deg: 3.68
+RAW: 17, s: 100, aX: -0.48, aY: 0.72, gZ: 0.98, timeS: 87092.00, heading_rad: 0.08, heading_deg: 4.37
+RAW: 18, s: 100, aX: 0.92, aY: -0.09, gZ: 0.99, timeS: 87104.00, heading_rad: 0.09, heading_deg: 5.07
+RAW: 19, s: 100, aX: -0.75, aY: -0.15, gZ: 1.02, timeS: 87116.00, heading_rad: 0.10, heading_deg: 5.78
+RAW: 20, s: 100, aX: -0.90, aY: 0.24, gZ: 1.01, timeS: 87128.00, heading_rad: 0.11, heading_deg: 6.49
+RAW: 21, s: 100, aX: -0.52, aY: 0.37, gZ: 1.00, timeS: 87140.00, heading_rad: 0.13, heading_deg: 7.19
+RAW: 22, s: 100, aX: 0.09, aY: 0.55, gZ: 1.04, timeS: 87152.00, heading_rad: 0.14, heading_deg: 7.92
+RAW: 23, s: 100, aX: -0.57, aY: 0.13, gZ: 1.06, timeS: 87164.00, heading_rad: 0.15, heading_deg: 8.67
+RAW: 24, s: 100, aX: 2.24, aY: -0.98, gZ: 1.06, timeS: 87176.00, heading_rad: 0.16, heading_deg: 9.41
+RAW: 25, s: 100, aX: 1.16, aY: -0.44, gZ: 1.09, timeS: 87188.00, heading_rad: 0.18, heading_deg: 10.17
+RAW: 26, s: 100, aX: 0.22, aY: 0.59, gZ: 1.07, timeS: 87200.00, heading_rad: 0.19, heading_deg: 10.93
+RAW: 27, s: 100, aX: -0.20, aY: 0.74, gZ: 1.10, timeS: 87212.00, heading_rad: 0.20, heading_deg: 11.70
+RAW: 28, s: 100, aX: -0.38, aY: -0.17, gZ: 1.11, timeS: 87224.00, heading_rad: 0.22, heading_deg: 12.48
+RAW: 29, s: 100, aX: -0.79, aY: 0.17, gZ: 1.09, timeS: 87236.00, heading_rad: 0.23, heading_deg: 13.24
+RAW: 30, s: 100, aX: 0.32, aY: 0.29, gZ: 1.09, timeS: 87248.00, heading_rad: 0.24, heading_deg: 14.01
+RAW: 31, s: 100, aX: -0.78, aY: -0.39, gZ: 1.13, timeS: 87260.00, heading_rad: 0.26, heading_deg: 14.80
+RAW: 32, s: 100, aX: 1.88, aY: -0.28, gZ: 1.12, timeS: 87272.00, heading_rad: 0.27, heading_deg: 15.58
+RAW: 33, s: 100, aX: 0.60, aY: -0.17, gZ: 1.13, timeS: 87284.00, heading_rad: 0.29, heading_deg: 16.37
+RAW: 34, s: 100, aX: 0.99, aY: 0.29, gZ: 1.17, timeS: 87296.00, heading_rad: 0.30, heading_deg: 17.19
+RAW: 35, s: 100, aX: 0.09, aY: 0.87, gZ: 1.11, timeS: 87308.00, heading_rad: 0.31, heading_deg: 17.97
+RAW: 36, s: 100, aX: -1.13, aY: 0.55, gZ: 1.09, timeS: 87320.00, heading_rad: 0.33, heading_deg: 18.74
+RAW: 37, s: 100, aX: 0.25, aY: -0.07, gZ: 1.12, timeS: 87332.00, heading_rad: 0.34, heading_deg: 19.52
+RAW: 38, s: 100, aX: 0.26, aY: -0.63, gZ: 1.13, timeS: 87344.00, heading_rad: 0.35, heading_deg: 20.31
+RAW: 39, s: 100, aX: -1.27, aY: -0.28, gZ: 1.10, timeS: 87356.00, heading_rad: 0.37, heading_deg: 21.09
+RAW: 40, s: 100, aX: 3.83, aY: -1.25, gZ: 1.08, timeS: 87368.00, heading_rad: 0.38, heading_deg: 21.85
+RAW: 41, s: 100, aX: 0.24, aY: 0.19, gZ: 1.12, timeS: 87380.00, heading_rad: 0.40, heading_deg: 22.63
+RAW: 42, s: 100, aX: -0.97, aY: 1.35, gZ: 1.12, timeS: 87392.00, heading_rad: 0.41, heading_deg: 23.42
+RAW: 43, s: 100, aX: 0.18, aY: 0.41, gZ: 1.09, timeS: 87404.00, heading_rad: 0.42, heading_deg: 24.18
+RAW: 44, s: 100, aX: -0.65, aY: 0.55, gZ: 1.09, timeS: 87416.00, heading_rad: 0.44, heading_deg: 24.94
+RAW: 45, s: 100, aX: -0.37, aY: -0.89, gZ: 1.08, timeS: 87428.00, heading_rad: 0.45, heading_deg: 25.70
+RAW: 46, s: 100, aX: 0.21, aY: -0.39, gZ: 1.08, timeS: 87440.00, heading_rad: 0.46, heading_deg: 26.46
+RAW: 47, s: 100, aX: 0.35, aY: -0.30, gZ: 1.08, timeS: 87452.00, heading_rad: 0.47, heading_deg: 27.21
+RAW: 48, s: 100, aX: 0.29, aY: 0.20, gZ: 1.06, timeS: 87464.00, heading_rad: 0.49, heading_deg: 27.96
+RAW: 49, s: 100, aX: 0.88, aY: 0.23, gZ: 1.04, timeS: 87476.00, heading_rad: 0.50, heading_deg: 28.68
+RAW: 50, s: 100, aX: 0.57, aY: 0.64, gZ: 1.04, timeS: 87488.00, heading_rad: 0.51, heading_deg: 29.41
+RAW: 51, s: 100, aX: 0.46, aY: 0.16, gZ: 1.09, timeS: 87500.00, heading_rad: 0.53, heading_deg: 30.18
+RAW: 52, s: 100, aX: -0.57, aY: 0.65, gZ: 1.08, timeS: 87512.00, heading_rad: 0.54, heading_deg: 30.94
+RAW: 53, s: 100, aX: -0.73, aY: 0.34, gZ: 1.06, timeS: 87524.00, heading_rad: 0.55, heading_deg: 31.68
+RAW: 54, s: 100, aX: 0.24, aY: -0.05, gZ: 1.10, timeS: 87536.00, heading_rad: 0.57, heading_deg: 32.45
+RAW: 55, s: 100, aX: -0.27, aY: -0.48, gZ: 1.09, timeS: 87548.00, heading_rad: 0.58, heading_deg: 33.22
+RAW: 56, s: 100, aX: 2.56, aY: -0.34, gZ: 1.04, timeS: 87560.00, heading_rad: 0.59, heading_deg: 33.94
+RAW: 57, s: 100, aX: -0.28, aY: 0.36, gZ: 1.03, timeS: 87572.00, heading_rad: 0.61, heading_deg: 34.67
+RAW: 58, s: 100, aX: 1.20, aY: 1.02, gZ: 1.04, timeS: 87584.00, heading_rad: 0.62, heading_deg: 35.40
+RAW: 59, s: 100, aX: 0.31, aY: 0.80, gZ: 1.06, timeS: 87596.00, heading_rad: 0.63, heading_deg: 36.14
+RAW: 60, s: 100, aX: -1.06, aY: 0.20, gZ: 1.08, timeS: 87608.00, heading_rad: 0.64, heading_deg: 36.90
+RAW: 61, s: 100, aX: -0.39, aY: 0.10, gZ: 1.07, timeS: 87620.00, heading_rad: 0.66, heading_deg: 37.65
+RAW: 62, s: 100, aX: -1.30, aY: -1.07, gZ: 1.01, timeS: 87632.00, heading_rad: 0.67, heading_deg: 38.36
+RAW: 63, s: 100, aX: 1.60, aY: -1.15, gZ: 1.03, timeS: 87644.00, heading_rad: 0.68, heading_deg: 39.08
+RAW: 64, s: 100, aX: -0.54, aY: 0.53, gZ: 1.03, timeS: 87656.00, heading_rad: 0.69, heading_deg: 39.80
+RAW: 65, s: 100, aX: 0.41, aY: 0.08, gZ: 1.00, timeS: 87668.00, heading_rad: 0.71, heading_deg: 40.50
+RAW: 66, s: 100, aX: 1.05, aY: 1.10, gZ: 1.06, timeS: 87680.00, heading_rad: 0.72, heading_deg: 41.25
+RAW: 67, s: 100, aX: 0.15, aY: 0.01, gZ: 1.07, timeS: 87692.00, heading_rad: 0.73, heading_deg: 42.00
+RAW: 68, s: 100, aX: -1.27, aY: 0.82, gZ: 1.05, timeS: 87704.00, heading_rad: 0.75, heading_deg: 42.73
+RAW: 69, s: 100, aX: 2.37, aY: -1.27, gZ: 1.05, timeS: 87716.00, heading_rad: 0.76, heading_deg: 43.47
+RAW: 70, s: 100, aX: -0.54, aY: -1.24, gZ: 1.04, timeS: 87728.00, heading_rad: 0.77, heading_deg: 44.20
+RAW: 71, s: 100, aX: -1.08, aY: -0.00, gZ: 0.98, timeS: 87740.00, heading_rad: 0.78, heading_deg: 44.89
+RAW: 72, s: 100, aX: 0.64, aY: -0.13, gZ: 1.02, timeS: 87752.00, heading_rad: 0.80, heading_deg: 45.61
+RAW: 73, s: 100, aX: 0.14, aY: 0.21, gZ: 1.06, timeS: 87764.00, heading_rad: 0.81, heading_deg: 46.35
+RAW: 74, s: 100, aX: 1.14, aY: 0.72, gZ: 1.07, timeS: 87776.00, heading_rad: 0.82, heading_deg: 47.10
+RAW: 75, s: 100, aX: 1.72, aY: -0.24, gZ: 1.06, timeS: 87788.00, heading_rad: 0.84, heading_deg: 47.85
+RAW: 76, s: 100, aX: -0.14, aY: -0.04, gZ: 1.06, timeS: 87800.00, heading_rad: 0.85, heading_deg: 48.59
+RAW: 77, s: 100, aX: 0.14, aY: 0.25, gZ: 1.05, timeS: 87812.00, heading_rad: 0.86, heading_deg: 49.33
+RAW: 78, s: 100, aX: 0.05, aY: 0.14, gZ: 1.03, timeS: 87824.00, heading_rad: 0.87, heading_deg: 50.05
+RAW: 79, s: 100, aX: -0.61, aY: 0.09, gZ: 1.05, timeS: 87836.00, heading_rad: 0.89, heading_deg: 50.78
+RAW: 80, s: 100, aX: 0.14, aY: -0.30, gZ: 1.07, timeS: 87848.00, heading_rad: 0.90, heading_deg: 51.53
+RAW: 81, s: 100, aX: 0.07, aY: -0.29, gZ: 1.06, timeS: 87860.00, heading_rad: 0.91, heading_deg: 52.27
+RAW: 82, s: 100, aX: 1.83, aY: -0.72, gZ: 1.05, timeS: 87872.00, heading_rad: 0.93, heading_deg: 53.01
+RAW: 83, s: 100, aX: 0.94, aY: 0.30, gZ: 1.08, timeS: 87884.00, heading_rad: 0.94, heading_deg: 53.77
+RAW: 84, s: 100, aX: 0.35, aY: 0.36, gZ: 1.01, timeS: 87896.00, heading_rad: 0.95, heading_deg: 54.48
+RAW: 85, s: 100, aX: 0.35, aY: 0.40, gZ: 1.01, timeS: 87908.00, heading_rad: 0.96, heading_deg: 55.18
+RAW: 86, s: 100, aX: -1.06, aY: 0.73, gZ: 1.01, timeS: 87920.00, heading_rad: 0.98, heading_deg: 55.89
+RAW: 87, s: 100, aX: -0.37, aY: -1.02, gZ: 1.03, timeS: 87932.00, heading_rad: 0.99, heading_deg: 56.61
+RAW: 88, s: 100, aX: -0.01, aY: -1.39, gZ: 1.01, timeS: 87944.00, heading_rad: 1.00, heading_deg: 57.32
+RAW: 89, s: 100, aX: 0.51, aY: -0.35, gZ: 1.01, timeS: 87956.00, heading_rad: 1.01, heading_deg: 58.03
+RAW: 90, s: 100, aX: 0.80, aY: -0.08, gZ: 1.02, timeS: 87968.00, heading_rad: 1.03, heading_deg: 58.75
+RAW: 91, s: 100, aX: 1.03, aY: 0.69, gZ: 1.04, timeS: 87980.00, heading_rad: 1.04, heading_deg: 59.48
+RAW: 92, s: 100, aX: 1.01, aY: 0.84, gZ: 1.03, timeS: 87992.00, heading_rad: 1.05, heading_deg: 60.20
+RAW: 93, s: 100, aX: -1.23, aY: 1.06, gZ: 1.01, timeS: 88004.00, heading_rad: 1.06, heading_deg: 60.91
+RAW: 94, s: 100, aX: 0.96, aY: -0.78, gZ: 1.00, timeS: 88016.00, heading_rad: 1.08, heading_deg: 61.62
+RAW: 95, s: 100, aX: -0.58, aY: -1.07, gZ: 0.99, timeS: 88028.00, heading_rad: 1.09, heading_deg: 62.31
+RAW: 96, s: 100, aX: -0.23, aY: 0.05, gZ: 0.98, timeS: 88040.00, heading_rad: 1.10, heading_deg: 63.00
+RAW: 97, s: 100, aX: 0.80, aY: -0.33, gZ: 1.02, timeS: 88052.00, heading_rad: 1.11, heading_deg: 63.72
+RAW: 98, s: 100, aX: 0.64, aY: -0.27, gZ: 1.05, timeS: 88064.00, heading_rad: 1.12, heading_deg: 64.45
+RAW: 99, s: 100, aX: 0.61, aY: -0.50, gZ: 1.03, timeS: 88076.00, heading_rad: 1.14, heading_deg: 65.17
+RAW: 100, s: 100, aX: 0.42, aY: 0.36, gZ: 0.98, timeS: 88088.00, heading_rad: 1.15, heading_deg: 65.86
+RAW: 101, s: 100, aX: 0.65, aY: 0.65, gZ: 1.01, timeS: 88100.00, heading_rad: 1.16, heading_deg: 66.56
+RAW: 102, s: 100, aX: 0.10, aY: -0.88, gZ: 0.99, timeS: 88112.00, heading_rad: 1.17, heading_deg: 67.26
+RAW: 103, s: 100, aX: -0.14, aY: 0.28, gZ: 0.99, timeS: 88124.00, heading_rad: 1.19, heading_deg: 67.95
+RAW: 104, s: 100, aX: 0.11, aY: -0.45, gZ: 0.98, timeS: 88136.00, heading_rad: 1.20, heading_deg: 68.64
+RAW: 105, s: 100, aX: -0.23, aY: -0.50, gZ: 0.95, timeS: 88148.00, heading_rad: 1.21, heading_deg: 69.31
+RAW: 106, s: 100, aX: 0.24, aY: -0.23, gZ: 0.98, timeS: 88160.00, heading_rad: 1.22, heading_deg: 70.00
+RAW: 107, s: 100, aX: -0.56, aY: 0.73, gZ: 0.99, timeS: 88172.00, heading_rad: 1.23, heading_deg: 70.69
+RAW: 108, s: 100, aX: 0.83, aY: 0.56, gZ: 0.99, timeS: 88184.00, heading_rad: 1.25, heading_deg: 71.39
+RAW: 109, s: 100, aX: 0.47, aY: 0.05, gZ: 1.01, timeS: 88196.00, heading_rad: 1.26, heading_deg: 72.10
+RAW: 110, s: 100, aX: -0.20, aY: 0.62, gZ: 1.01, timeS: 88208.00, heading_rad: 1.27, heading_deg: 72.81
+RAW: 111, s: 100, aX: 0.26, aY: -0.32, gZ: 1.01, timeS: 88220.00, heading_rad: 1.28, heading_deg: 73.52
+RAW: 112, s: 100, aX: -0.92, aY: 0.14, gZ: 1.04, timeS: 88232.00, heading_rad: 1.30, heading_deg: 74.25
+RAW: 113, s: 100, aX: -0.10, aY: -0.12, gZ: 1.05, timeS: 88244.00, heading_rad: 1.31, heading_deg: 74.98
+RAW: 114, s: 100, aX: -0.36, aY: 0.38, gZ: 1.02, timeS: 88256.00, heading_rad: 1.32, heading_deg: 75.70
+RAW: 115, s: 100, aX: 1.08, aY: 0.17, gZ: 1.05, timeS: 88268.00, heading_rad: 1.33, heading_deg: 76.43
+RAW: 116, s: 100, aX: 1.40, aY: 0.37, gZ: 1.05, timeS: 88280.00, heading_rad: 1.35, heading_deg: 77.17
+RAW: 117, s: 100, aX: 0.28, aY: -0.24, gZ: 1.05, timeS: 88292.00, heading_rad: 1.36, heading_deg: 77.91
+RAW: 118, s: 100, aX: 0.75, aY: 0.35, gZ: 1.03, timeS: 88304.00, heading_rad: 1.37, heading_deg: 78.63
+RAW: 119, s: 100, aX: -0.58, aY: 0.64, gZ: 1.05, timeS: 88316.00, heading_rad: 1.39, heading_deg: 79.37
+RAW: 120, s: 100, aX: -0.41, aY: 0.30, gZ: 1.06, timeS: 88328.00, heading_rad: 1.40, heading_deg: 80.11
+RAW: 121, s: 100, aX: -0.11, aY: -1.23, gZ: 1.06, timeS: 88340.00, heading_rad: 1.41, heading_deg: 80.86
+RAW: 122, s: 100, aX: 0.85, aY: -0.82, gZ: 1.05, timeS: 88352.00, heading_rad: 1.42, heading_deg: 81.60
+RAW: 123, s: 100, aX: 0.80, aY: -0.16, gZ: 1.05, timeS: 88364.00, heading_rad: 1.44, heading_deg: 82.33
+RAW: 124, s: 100, aX: 0.66, aY: 0.53, gZ: 1.06, timeS: 88376.00, heading_rad: 1.45, heading_deg: 83.08
+RAW: 125, s: 100, aX: 1.05, aY: 0.60, gZ: 1.04, timeS: 88388.00, heading_rad: 1.46, heading_deg: 83.81
+RAW: 126, s: 100, aX: -0.59, aY: 1.00, gZ: 1.05, timeS: 88400.00, heading_rad: 1.48, heading_deg: 84.54
+RAW: 127, s: 100, aX: -0.36, aY: 0.66, gZ: 1.03, timeS: 88412.00, heading_rad: 1.49, heading_deg: 85.27
+RAW: 128, s: 100, aX: -0.02, aY: -0.29, gZ: 1.05, timeS: 88424.00, heading_rad: 1.50, heading_deg: 86.00
+RAW: 129, s: 100, aX: 0.16, aY: -0.55, gZ: 1.05, timeS: 88436.00, heading_rad: 1.51, heading_deg: 86.73
+RAW: 130, s: 100, aX: 0.48, aY: -2.22, gZ: 1.06, timeS: 88448.00, heading_rad: 1.53, heading_deg: 87.48
+RAW: 131, s: 100, aX: 0.52, aY: -0.19, gZ: 1.03, timeS: 88460.00, heading_rad: 1.54, heading_deg: 88.20
+RAW: 132, s: 100, aX: 0.29, aY: 0.28, gZ: 1.05, timeS: 88472.00, heading_rad: 1.55, heading_deg: 88.94
+RAW: 133, s: 100, aX: 1.07, aY: 0.78, gZ: 1.05, timeS: 88496.00, heading_rad: 1.58, heading_deg: 90.42
+RAW: 134, s: 100, aX: 1.13, aY: 1.07, gZ: 1.05, timeS: 88499.00, heading_rad: 1.58, heading_deg: 90.60
+RAW: 135, s: 100, aX: -0.15, aY: -0.08, gZ: 0.98, timeS: 88511.00, heading_rad: 1.59, heading_deg: 91.29
+RAW: 136, s: 100, aX: 0.39, aY: -1.57, gZ: 0.63, timeS: 88523.00, heading_rad: 1.60, heading_deg: 91.74
+RAW: 137, s: 100, aX: 1.52, aY: -1.10, gZ: 0.25, timeS: 88535.00, heading_rad: 1.60, heading_deg: 91.93
+Heading 273.86, deg
+30, 117
+35, 118
+40, 116
+45, 117
+50, 118
+55, 118
+60, 0
+65, 0
+70, 145
+75, 144
+80, 182
+85, 183
+90, 147
+95, 178
+100, 0
+105, 0
+110, 0
+115, 0
+120, 0
+125, 0
+130, 0
+135, 0
+140, 0
+145, 0
+150, 0
+150, 0
+145, 0
+140, 0
+135, 0
+130, 0
+125, 0
+120, 0
+115, 0
+110, 0
+105, 0
+100, 0
+95, 0
+90, 185
+85, 184
+80, 184
+75, 147
+70, 145
+65, 146
+60, 0
+30, 116
+35, 118
+40, 116
+45, 118
+50, 119
+55, 0
+60, 0
+65, 147
+70, 147
+75, 145
+80, 145
+85, 184
+90, 148
+95, 0
+100, 0
+105, 0
+110, 0
+115, 0
+120, 0
+125, 0
+130, 0
+135, 0
+140, 0
+145, 0
+150, 0
+150, 0
+145, 0
+140, 0
+135, 0
+130, 0
+125, 0
+120, 0
+115, 0
+110, 0
+105, 0
+100, 0
+95, 0
+90, 185
+85, 147
+80, 184
+75, 146
+70, 146
+55, 0
+50, 118
+30, 116
+35, 116
+40, 119
+45, 118
+50, 116
+55, 119
+60, 118
+65, 149
+70, 145
+75, 145
+80, 186
+85, 0
+90, 184
+95, 0
+100, 0
+105, 0
+110, 0
+115, 0
+120, 0
+125, 0
+130, 0
+135, 0
+140, 0
+145, 0
+150, 0
+150, 0
+145, 0
+140, 0
+135, 0
+130, 0
+125, 0
+120, 0
+115, 0
+110, 0
+105, 0
+100, 0
+95, 0
+90, 0
+85, 148
+80, 184
+75, 186
+70, 144
+55, 0
+50, 117
+RAW: 0, s: 50, aX: 0.28, aY: 0.04, gZ: -0.02, timeS: 103274.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 1, s: 55, aX: 0.08, aY: 0.06, gZ: -0.02, timeS: 103286.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 2, s: 60, aX: -0.17, aY: 0.10, gZ: -0.03, timeS: 103298.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 3, s: 65, aX: -0.01, aY: -0.14, gZ: -0.03, timeS: 103310.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 4, s: 70, aX: 0.39, aY: -0.38, gZ: -0.02, timeS: 103322.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 5, s: 75, aX: 0.57, aY: -0.30, gZ: -0.04, timeS: 103334.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 6, s: 80, aX: 0.97, aY: 0.53, gZ: -0.13, timeS: 103346.00, heading_rad: -0.00, heading_deg: -0.07
+RAW: 7, s: 85, aX: 0.31, aY: 1.26, gZ: -0.14, timeS: 103358.00, heading_rad: -0.00, heading_deg: -0.16
+RAW: 8, s: 90, aX: 0.43, aY: 1.03, gZ: -0.07, timeS: 103370.00, heading_rad: -0.00, heading_deg: -0.19
+RAW: 9, s: 95, aX: -0.48, aY: -0.64, gZ: -0.07, timeS: 103382.00, heading_rad: -0.00, heading_deg: -0.22
+RAW: 10, s: 100, aX: 0.33, aY: -0.31, gZ: -0.17, timeS: 103394.00, heading_rad: -0.01, heading_deg: -0.33
+RAW: 11, s: 100, aX: 0.19, aY: -0.59, gZ: -0.32, timeS: 103406.00, heading_rad: -0.01, heading_deg: -0.53
+RAW: 12, s: 100, aX: 1.09, aY: -0.54, gZ: -0.59, timeS: 103418.00, heading_rad: -0.02, heading_deg: -0.92
+RAW: 13, s: 100, aX: 0.96, aY: -0.42, gZ: -0.73, timeS: 103430.00, heading_rad: -0.02, heading_deg: -1.41
+RAW: 14, s: 100, aX: 0.75, aY: -0.44, gZ: -0.78, timeS: 103442.00, heading_rad: -0.03, heading_deg: -1.93
+RAW: 15, s: 100, aX: 0.63, aY: -0.65, gZ: -0.79, timeS: 103454.00, heading_rad: -0.04, heading_deg: -2.46
+RAW: 16, s: 100, aX: 0.36, aY: -0.76, gZ: -0.78, timeS: 103466.00, heading_rad: -0.05, heading_deg: -2.98
+RAW: 17, s: 100, aX: -0.33, aY: 0.71, gZ: -0.84, timeS: 103478.00, heading_rad: -0.06, heading_deg: -3.55
+RAW: 18, s: 100, aX: 0.21, aY: 0.21, gZ: -0.87, timeS: 103490.00, heading_rad: -0.07, heading_deg: -4.13
+RAW: 19, s: 100, aX: 0.11, aY: -0.14, gZ: -0.92, timeS: 103502.00, heading_rad: -0.08, heading_deg: -4.75
+RAW: 20, s: 100, aX: 0.67, aY: -0.63, gZ: -0.92, timeS: 103514.00, heading_rad: -0.09, heading_deg: -5.36
+RAW: 21, s: 100, aX: 1.39, aY: -0.37, gZ: -0.96, timeS: 103526.00, heading_rad: -0.10, heading_deg: -6.01
+RAW: 22, s: 100, aX: 0.22, aY: -0.32, gZ: -0.96, timeS: 103538.00, heading_rad: -0.12, heading_deg: -6.66
+RAW: 23, s: 100, aX: 0.39, aY: -0.24, gZ: -0.90, timeS: 103550.00, heading_rad: -0.13, heading_deg: -7.26
+RAW: 24, s: 100, aX: 0.06, aY: -0.08, gZ: -0.88, timeS: 103562.00, heading_rad: -0.14, heading_deg: -7.85
+RAW: 25, s: 100, aX: 0.28, aY: -0.20, gZ: -0.87, timeS: 103574.00, heading_rad: -0.15, heading_deg: -8.43
+RAW: 26, s: 100, aX: 0.25, aY: 0.85, gZ: -0.85, timeS: 103586.00, heading_rad: -0.16, heading_deg: -9.00
+RAW: 27, s: 100, aX: 0.14, aY: 0.34, gZ: -0.88, timeS: 103598.00, heading_rad: -0.17, heading_deg: -9.60
+RAW: 28, s: 100, aX: 0.90, aY: -0.61, gZ: -0.93, timeS: 103610.00, heading_rad: -0.18, heading_deg: -10.22
+RAW: 29, s: 100, aX: 0.90, aY: -1.23, gZ: -0.96, timeS: 103622.00, heading_rad: -0.19, heading_deg: -10.86
+RAW: 30, s: 100, aX: -0.03, aY: -0.69, gZ: -0.96, timeS: 103634.00, heading_rad: -0.20, heading_deg: -11.50
+RAW: 31, s: 100, aX: 1.55, aY: 0.85, gZ: -0.98, timeS: 103646.00, heading_rad: -0.21, heading_deg: -12.16
+RAW: 32, s: 100, aX: 0.44, aY: 0.75, gZ: -0.93, timeS: 103658.00, heading_rad: -0.22, heading_deg: -12.79
+RAW: 33, s: 100, aX: 0.18, aY: 0.67, gZ: -0.96, timeS: 103670.00, heading_rad: -0.23, heading_deg: -13.43
+RAW: 34, s: 100, aX: -0.25, aY: 0.45, gZ: -0.94, timeS: 103682.00, heading_rad: -0.25, heading_deg: -14.06
+RAW: 35, s: 100, aX: 0.23, aY: 0.45, gZ: -0.91, timeS: 103694.00, heading_rad: -0.26, heading_deg: -14.68
+RAW: 36, s: 100, aX: -0.32, aY: -0.96, gZ: -0.92, timeS: 103706.00, heading_rad: -0.27, heading_deg: -15.29
+RAW: 37, s: 100, aX: 0.15, aY: -0.62, gZ: -0.92, timeS: 103718.00, heading_rad: -0.28, heading_deg: -15.91
+RAW: 38, s: 100, aX: 0.89, aY: -0.42, gZ: -0.94, timeS: 103730.00, heading_rad: -0.29, heading_deg: -16.54
+RAW: 39, s: 100, aX: 1.08, aY: 0.11, gZ: -0.95, timeS: 103742.00, heading_rad: -0.30, heading_deg: -17.18
+RAW: 40, s: 100, aX: 0.02, aY: 0.89, gZ: -0.95, timeS: 103754.00, heading_rad: -0.31, heading_deg: -17.82
+RAW: 41, s: 100, aX: 0.98, aY: 1.17, gZ: -0.98, timeS: 103766.00, heading_rad: -0.32, heading_deg: -18.48
+RAW: 42, s: 100, aX: 0.33, aY: 0.70, gZ: -0.98, timeS: 103778.00, heading_rad: -0.33, heading_deg: -19.14
+RAW: 43, s: 100, aX: -1.37, aY: -0.79, gZ: -0.96, timeS: 103790.00, heading_rad: -0.35, heading_deg: -19.78
+RAW: 44, s: 100, aX: 0.56, aY: -0.31, gZ: -0.95, timeS: 103802.00, heading_rad: -0.36, heading_deg: -20.42
+RAW: 45, s: 100, aX: 0.34, aY: -0.59, gZ: -0.96, timeS: 103814.00, heading_rad: -0.37, heading_deg: -21.06
+RAW: 46, s: 100, aX: 0.76, aY: 0.07, gZ: -0.96, timeS: 103826.00, heading_rad: -0.38, heading_deg: -21.71
+RAW: 47, s: 100, aX: 0.33, aY: 0.17, gZ: -0.96, timeS: 103838.00, heading_rad: -0.39, heading_deg: -22.35
+RAW: 48, s: 100, aX: 0.80, aY: 1.76, gZ: -1.01, timeS: 103850.00, heading_rad: -0.40, heading_deg: -23.03
+RAW: 49, s: 100, aX: -0.15, aY: 0.56, gZ: -1.03, timeS: 103862.00, heading_rad: -0.41, heading_deg: -23.72
+RAW: 50, s: 100, aX: 0.09, aY: -0.64, gZ: -1.01, timeS: 103874.00, heading_rad: -0.43, heading_deg: -24.40
+RAW: 51, s: 100, aX: 0.27, aY: -0.09, gZ: -1.01, timeS: 103886.00, heading_rad: -0.44, heading_deg: -25.08
+RAW: 52, s: 100, aX: 0.76, aY: 0.49, gZ: -1.00, timeS: 103898.00, heading_rad: -0.45, heading_deg: -25.75
+RAW: 53, s: 100, aX: 0.22, aY: -0.47, gZ: -1.01, timeS: 103910.00, heading_rad: -0.46, heading_deg: -26.43
+RAW: 54, s: 100, aX: 0.65, aY: -0.51, gZ: -1.01, timeS: 103922.00, heading_rad: -0.47, heading_deg: -27.11
+RAW: 55, s: 100, aX: 0.20, aY: -0.02, gZ: -1.06, timeS: 103934.00, heading_rad: -0.49, heading_deg: -27.82
+RAW: 56, s: 100, aX: 0.20, aY: 0.44, gZ: -1.06, timeS: 103946.00, heading_rad: -0.50, heading_deg: -28.53
+RAW: 57, s: 100, aX: -0.50, aY: 0.29, gZ: -1.02, timeS: 103958.00, heading_rad: -0.51, heading_deg: -29.22
+RAW: 58, s: 100, aX: 0.18, aY: 0.45, gZ: -1.01, timeS: 103970.00, heading_rad: -0.52, heading_deg: -29.90
+RAW: 59, s: 100, aX: 0.07, aY: 0.79, gZ: -1.01, timeS: 103982.00, heading_rad: -0.53, heading_deg: -30.58
+RAW: 60, s: 100, aX: 0.23, aY: 0.06, gZ: -1.01, timeS: 103994.00, heading_rad: -0.55, heading_deg: -31.26
+RAW: 61, s: 100, aX: 0.12, aY: -1.10, gZ: -1.01, timeS: 104006.00, heading_rad: -0.56, heading_deg: -31.94
+RAW: 62, s: 100, aX: 0.29, aY: -0.61, gZ: -1.04, timeS: 104018.00, heading_rad: -0.57, heading_deg: -32.64
+RAW: 63, s: 100, aX: -0.40, aY: -1.00, gZ: -1.06, timeS: 104030.00, heading_rad: -0.58, heading_deg: -33.35
+RAW: 64, s: 100, aX: 0.05, aY: -0.41, gZ: -1.00, timeS: 104042.00, heading_rad: -0.59, heading_deg: -34.02
+RAW: 65, s: 100, aX: 1.29, aY: 0.31, gZ: -1.01, timeS: 104054.00, heading_rad: -0.61, heading_deg: -34.70
+RAW: 66, s: 100, aX: 0.44, aY: 0.95, gZ: -1.03, timeS: 104066.00, heading_rad: -0.62, heading_deg: -35.40
+RAW: 67, s: 100, aX: -0.07, aY: 0.46, gZ: -1.04, timeS: 104078.00, heading_rad: -0.63, heading_deg: -36.10
+RAW: 68, s: 100, aX: -0.18, aY: 0.05, gZ: -1.01, timeS: 104090.00, heading_rad: -0.64, heading_deg: -36.77
+RAW: 69, s: 100, aX: -0.15, aY: -0.45, gZ: -1.03, timeS: 104102.00, heading_rad: -0.65, heading_deg: -37.47
+RAW: 70, s: 100, aX: -0.63, aY: -1.18, gZ: -1.06, timeS: 104114.00, heading_rad: -0.67, heading_deg: -38.18
+RAW: 71, s: 100, aX: 0.22, aY: -1.68, gZ: -1.00, timeS: 104126.00, heading_rad: -0.68, heading_deg: -38.85
+RAW: 72, s: 100, aX: 0.82, aY: 0.27, gZ: -1.00, timeS: 104138.00, heading_rad: -0.69, heading_deg: -39.53
+RAW: 73, s: 100, aX: 0.65, aY: 0.71, gZ: -1.01, timeS: 104150.00, heading_rad: -0.70, heading_deg: -40.20
+RAW: 74, s: 100, aX: 0.70, aY: 0.49, gZ: -1.02, timeS: 104162.00, heading_rad: -0.71, heading_deg: -40.89
+RAW: 75, s: 100, aX: 0.23, aY: 0.09, gZ: -1.00, timeS: 104174.00, heading_rad: -0.73, heading_deg: -41.56
+RAW: 76, s: 100, aX: -1.06, aY: -0.54, gZ: -1.03, timeS: 104186.00, heading_rad: -0.74, heading_deg: -42.26
+RAW: 77, s: 100, aX: -0.08, aY: -0.21, gZ: -1.03, timeS: 104198.00, heading_rad: -0.75, heading_deg: -42.95
+RAW: 78, s: 100, aX: -0.63, aY: -0.70, gZ: -0.96, timeS: 104210.00, heading_rad: -0.76, heading_deg: -43.59
+RAW: 79, s: 100, aX: 0.72, aY: -0.63, gZ: -0.98, timeS: 104222.00, heading_rad: -0.77, heading_deg: -44.25
+RAW: 80, s: 100, aX: 1.12, aY: 0.52, gZ: -0.99, timeS: 104234.00, heading_rad: -0.78, heading_deg: -44.92
+RAW: 81, s: 100, aX: 1.04, aY: 0.88, gZ: -0.98, timeS: 104246.00, heading_rad: -0.80, heading_deg: -45.58
+RAW: 82, s: 100, aX: 0.46, aY: 0.48, gZ: -0.99, timeS: 104258.00, heading_rad: -0.81, heading_deg: -46.24
+RAW: 83, s: 100, aX: 0.04, aY: 0.13, gZ: -0.98, timeS: 104270.00, heading_rad: -0.82, heading_deg: -46.89
+RAW: 84, s: 100, aX: -0.66, aY: -0.11, gZ: -0.99, timeS: 104282.00, heading_rad: -0.83, heading_deg: -47.56
+RAW: 85, s: 100, aX: -0.33, aY: -0.53, gZ: -1.00, timeS: 104294.00, heading_rad: -0.84, heading_deg: -48.23
+RAW: 86, s: 100, aX: -0.12, aY: -0.66, gZ: -1.00, timeS: 104306.00, heading_rad: -0.85, heading_deg: -48.90
+RAW: 87, s: 100, aX: 0.88, aY: -0.59, gZ: -1.01, timeS: 104318.00, heading_rad: -0.87, heading_deg: -49.59
+RAW: 88, s: 100, aX: 0.31, aY: -0.28, gZ: -1.01, timeS: 104330.00, heading_rad: -0.88, heading_deg: -50.27
+RAW: 89, s: 100, aX: 1.50, aY: 1.31, gZ: -0.98, timeS: 104342.00, heading_rad: -0.89, heading_deg: -50.92
+RAW: 90, s: 100, aX: 0.27, aY: 0.30, gZ: -1.01, timeS: 104354.00, heading_rad: -0.90, heading_deg: -51.60
+RAW: 91, s: 100, aX: 0.08, aY: 0.24, gZ: -1.02, timeS: 104366.00, heading_rad: -0.91, heading_deg: -52.29
+RAW: 92, s: 100, aX: -0.09, aY: -0.23, gZ: -1.00, timeS: 104378.00, heading_rad: -0.92, heading_deg: -52.96
+RAW: 93, s: 100, aX: -0.95, aY: -0.34, gZ: -1.02, timeS: 104390.00, heading_rad: -0.94, heading_deg: -53.65
+RAW: 94, s: 100, aX: 0.08, aY: -0.42, gZ: -1.00, timeS: 104402.00, heading_rad: -0.95, heading_deg: -54.32
+RAW: 95, s: 100, aX: 0.34, aY: 0.12, gZ: -1.01, timeS: 104414.00, heading_rad: -0.96, heading_deg: -55.00
+RAW: 96, s: 100, aX: 0.75, aY: 0.25, gZ: -1.03, timeS: 104426.00, heading_rad: -0.97, heading_deg: -55.69
+RAW: 97, s: 100, aX: 0.90, aY: 0.83, gZ: -0.99, timeS: 104438.00, heading_rad: -0.98, heading_deg: -56.35
+RAW: 98, s: 100, aX: 0.79, aY: 0.95, gZ: -0.98, timeS: 104450.00, heading_rad: -1.00, heading_deg: -57.01
+RAW: 99, s: 100, aX: 0.47, aY: 0.57, gZ: -0.99, timeS: 104462.00, heading_rad: -1.01, heading_deg: -57.68
+RAW: 100, s: 100, aX: 0.03, aY: -0.78, gZ: -1.01, timeS: 104474.00, heading_rad: -1.02, heading_deg: -58.36
+RAW: 101, s: 100, aX: 0.16, aY: -0.06, gZ: -1.01, timeS: 104486.00, heading_rad: -1.03, heading_deg: -59.04
+RAW: 102, s: 100, aX: -1.09, aY: -0.08, gZ: -0.99, timeS: 104498.00, heading_rad: -1.04, heading_deg: -59.71
+RAW: 103, s: 100, aX: 0.09, aY: -0.87, gZ: -1.00, timeS: 104510.00, heading_rad: -1.05, heading_deg: -60.38
+RAW: 104, s: 100, aX: -0.04, aY: 0.30, gZ: -1.02, timeS: 104522.00, heading_rad: -1.07, heading_deg: -61.07
+RAW: 105, s: 100, aX: 0.97, aY: 0.85, gZ: -0.98, timeS: 104534.00, heading_rad: -1.08, heading_deg: -61.73
+RAW: 106, s: 100, aX: 0.78, aY: 1.15, gZ: -0.97, timeS: 104546.00, heading_rad: -1.09, heading_deg: -62.38
+RAW: 107, s: 100, aX: -0.01, aY: 0.09, gZ: -0.95, timeS: 104558.00, heading_rad: -1.10, heading_deg: -63.02
+RAW: 108, s: 100, aX: -0.33, aY: -0.19, gZ: -0.95, timeS: 104570.00, heading_rad: -1.11, heading_deg: -63.65
+RAW: 109, s: 100, aX: 0.74, aY: 0.15, gZ: -0.95, timeS: 104582.00, heading_rad: -1.12, heading_deg: -64.29
+RAW: 110, s: 100, aX: 0.52, aY: 0.10, gZ: -0.96, timeS: 104594.00, heading_rad: -1.13, heading_deg: -64.94
+RAW: 111, s: 100, aX: -0.65, aY: -0.32, gZ: -0.98, timeS: 104606.00, heading_rad: -1.14, heading_deg: -65.60
+RAW: 112, s: 100, aX: -0.12, aY: 0.08, gZ: -1.00, timeS: 104618.00, heading_rad: -1.16, heading_deg: -66.27
+RAW: 113, s: 100, aX: 0.24, aY: -0.62, gZ: -0.98, timeS: 104630.00, heading_rad: -1.17, heading_deg: -66.93
+RAW: 114, s: 100, aX: -0.17, aY: -0.05, gZ: -0.99, timeS: 104642.00, heading_rad: -1.18, heading_deg: -67.60
+RAW: 115, s: 100, aX: 0.82, aY: 0.94, gZ: -0.99, timeS: 104654.00, heading_rad: -1.19, heading_deg: -68.27
+RAW: 116, s: 100, aX: 0.28, aY: 0.56, gZ: -0.98, timeS: 104666.00, heading_rad: -1.20, heading_deg: -68.93
+RAW: 117, s: 100, aX: 0.46, aY: 0.22, gZ: -0.99, timeS: 104678.00, heading_rad: -1.21, heading_deg: -69.59
+RAW: 118, s: 100, aX: -0.57, aY: -0.26, gZ: -0.99, timeS: 104690.00, heading_rad: -1.23, heading_deg: -70.26
+RAW: 119, s: 100, aX: -0.52, aY: -0.08, gZ: -0.93, timeS: 104702.00, heading_rad: -1.24, heading_deg: -70.89
+RAW: 120, s: 100, aX: 1.34, aY: 0.50, gZ: -0.95, timeS: 104714.00, heading_rad: -1.25, heading_deg: -71.53
+RAW: 121, s: 100, aX: -0.18, aY: -0.23, gZ: -0.96, timeS: 104726.00, heading_rad: -1.26, heading_deg: -72.17
+RAW: 122, s: 100, aX: 1.47, aY: 0.43, gZ: -0.95, timeS: 104738.00, heading_rad: -1.27, heading_deg: -72.81
+RAW: 123, s: 100, aX: 0.06, aY: 0.51, gZ: -0.95, timeS: 104750.00, heading_rad: -1.28, heading_deg: -73.45
+RAW: 124, s: 100, aX: 0.52, aY: 0.10, gZ: -0.96, timeS: 104762.00, heading_rad: -1.29, heading_deg: -74.09
+RAW: 125, s: 100, aX: -0.55, aY: 0.52, gZ: -0.99, timeS: 104774.00, heading_rad: -1.30, heading_deg: -74.76
+RAW: 126, s: 100, aX: -0.50, aY: -0.21, gZ: -0.98, timeS: 104786.00, heading_rad: -1.32, heading_deg: -75.42
+RAW: 127, s: 100, aX: -0.14, aY: -0.87, gZ: -0.98, timeS: 104798.00, heading_rad: -1.33, heading_deg: -76.07
+RAW: 128, s: 100, aX: -0.77, aY: -0.98, gZ: -0.92, timeS: 104810.00, heading_rad: -1.34, heading_deg: -76.69
+RAW: 129, s: 100, aX: 1.22, aY: 0.74, gZ: -0.91, timeS: 104822.00, heading_rad: -1.35, heading_deg: -77.30
+RAW: 130, s: 100, aX: 0.91, aY: 0.91, gZ: -0.90, timeS: 104834.00, heading_rad: -1.36, heading_deg: -77.91
+RAW: 131, s: 100, aX: 0.17, aY: 0.09, gZ: -0.91, timeS: 104846.00, heading_rad: -1.37, heading_deg: -78.52
+RAW: 132, s: 100, aX: 0.98, aY: 0.69, gZ: -0.93, timeS: 104858.00, heading_rad: -1.38, heading_deg: -79.15
+RAW: 133, s: 100, aX: -0.53, aY: 0.16, gZ: -0.94, timeS: 104870.00, heading_rad: -1.39, heading_deg: -79.78
+RAW: 134, s: 100, aX: 0.18, aY: -0.16, gZ: -0.96, timeS: 104882.00, heading_rad: -1.40, heading_deg: -80.42
+RAW: 135, s: 100, aX: 0.10, aY: 0.01, gZ: -0.97, timeS: 104894.00, heading_rad: -1.42, heading_deg: -81.08
+RAW: 136, s: 100, aX: -0.89, aY: -0.62, gZ: -0.96, timeS: 104906.00, heading_rad: -1.43, heading_deg: -81.73
+RAW: 137, s: 100, aX: 0.65, aY: -0.26, gZ: -0.96, timeS: 104918.00, heading_rad: -1.44, heading_deg: -82.37
+RAW: 138, s: 100, aX: 0.74, aY: -0.30, gZ: -0.97, timeS: 104930.00, heading_rad: -1.45, heading_deg: -83.02
+RAW: 139, s: 100, aX: 1.00, aY: 0.51, gZ: -0.93, timeS: 104942.00, heading_rad: -1.46, heading_deg: -83.65
+RAW: 140, s: 100, aX: 0.18, aY: 0.73, gZ: -0.94, timeS: 104954.00, heading_rad: -1.47, heading_deg: -84.28
+RAW: 141, s: 100, aX: -0.17, aY: 0.12, gZ: -0.93, timeS: 104966.00, heading_rad: -1.48, heading_deg: -84.90
+RAW: 142, s: 100, aX: -0.24, aY: -0.12, gZ: -0.92, timeS: 104978.00, heading_rad: -1.49, heading_deg: -85.52
+RAW: 143, s: 100, aX: -0.28, aY: -0.06, gZ: -0.95, timeS: 104990.00, heading_rad: -1.50, heading_deg: -86.15
+RAW: 144, s: 100, aX: 0.49, aY: 0.27, gZ: -0.97, timeS: 105002.00, heading_rad: -1.52, heading_deg: -86.81
+RAW: 145, s: 100, aX: 0.37, aY: 0.04, gZ: -1.00, timeS: 105014.00, heading_rad: -1.53, heading_deg: -87.48
+RAW: 146, s: 100, aX: 1.07, aY: -0.22, gZ: -1.01, timeS: 105026.00, heading_rad: -1.54, heading_deg: -88.16
+RAW: 147, s: 100, aX: 0.95, aY: 0.21, gZ: -1.02, timeS: 105038.00, heading_rad: -1.55, heading_deg: -88.85
+RAW: 148, s: 100, aX: 0.71, aY: 0.59, gZ: -0.99, timeS: 105050.00, heading_rad: -1.56, heading_deg: -89.51
+RAW: 149, s: 100, aX: 0.44, aY: 0.40, gZ: -0.99, timeS: 105053.00, heading_rad: -1.57, heading_deg: -89.67
+RAW: 150, s: 100, aX: 0.04, aY: 0.31, gZ: -0.88, timeS: 105065.00, heading_rad: -1.58, heading_deg: -90.26
+RAW: 151, s: 100, aX: -0.18, aY: 0.77, gZ: -0.47, timeS: 105077.00, heading_rad: -1.58, heading_deg: -90.57
+RAW: 152, s: 100, aX: -0.19, aY: 0.66, gZ: -0.05, timeS: 105089.00, heading_rad: -1.58, heading_deg: -90.57
+Heading 183.29, deg
+30, 81
+35, 0
+40, 0
+45, 172
+50, 165
+55, 163
+60, 161
+65, 161
+70, 160
+75, 161
+80, 161
+85, 160
+90, 160
+95, 163
+100, 163
+105, 162
+110, 162
+115, 161
+120, 120
+125, 119
+130, 118
+135, 119
+140, 119
+145, 117
+150, 117
+150, 117
+145, 119
+140, 119
+135, 117
+130, 118
+125, 119
+120, 119
+115, 120
+110, 163
+105, 162
+100, 163
+95, 163
+90, 160
+30, 81
+35, 0
+40, 0
+45, 0
+50, 164
+55, 163
+60, 161
+65, 161
+70, 160
+75, 161
+80, 160
+85, 161
+90, 160
+95, 161
+100, 164
+105, 162
+110, 162
+115, 161
+120, 120
+125, 118
+130, 119
+135, 118
+140, 118
+145, 117
+150, 117
+150, 118
+145, 118
+140, 117
+135, 118
+130, 117
+125, 117
+120, 118
+115, 119
+110, 120
+105, 161
+100, 163
+95, 162
+90, 160
+RAW: 0, s: 50, aX: 0.28, aY: -0.00, gZ: -0.02, timeS: 115357.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 1, s: 55, aX: 0.12, aY: 0.12, gZ: -0.02, timeS: 115369.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 2, s: 60, aX: 0.14, aY: -0.29, gZ: -0.00, timeS: 115381.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 3, s: 65, aX: 0.25, aY: -0.27, gZ: -0.02, timeS: 115393.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 4, s: 70, aX: 0.52, aY: -0.14, gZ: -0.03, timeS: 115405.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 5, s: 75, aX: 0.61, aY: -0.00, gZ: -0.01, timeS: 115417.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 6, s: 80, aX: 0.37, aY: 0.07, gZ: 0.01, timeS: 115429.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 7, s: 85, aX: 0.14, aY: 0.13, gZ: -0.01, timeS: 115441.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 8, s: 90, aX: -0.07, aY: 0.06, gZ: -0.02, timeS: 115453.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 9, s: 95, aX: -0.16, aY: 0.79, gZ: 0.21, timeS: 115465.00, heading_rad: 0.00, heading_deg: 0.16
+RAW: 10, s: 100, aX: -2.04, aY: 0.36, gZ: 0.63, timeS: 115477.00, heading_rad: 0.01, heading_deg: 0.60
+RAW: 11, s: 100, aX: 0.34, aY: -0.40, gZ: 0.82, timeS: 115489.00, heading_rad: 0.02, heading_deg: 1.18
+RAW: 12, s: 100, aX: 1.57, aY: 0.49, gZ: 0.84, timeS: 115501.00, heading_rad: 0.03, heading_deg: 1.78
+RAW: 13, s: 100, aX: -0.23, aY: -0.68, gZ: 0.89, timeS: 115513.00, heading_rad: 0.04, heading_deg: 2.40
+RAW: 14, s: 100, aX: 0.85, aY: 0.43, gZ: 0.93, timeS: 115525.00, heading_rad: 0.05, heading_deg: 3.06
+RAW: 15, s: 100, aX: -0.40, aY: -0.32, gZ: 0.98, timeS: 115537.00, heading_rad: 0.07, heading_deg: 3.75
+RAW: 16, s: 100, aX: 0.53, aY: 0.16, gZ: 1.02, timeS: 115549.00, heading_rad: 0.08, heading_deg: 4.46
+RAW: 17, s: 100, aX: -0.52, aY: -0.02, gZ: 1.06, timeS: 115561.00, heading_rad: 0.09, heading_deg: 5.21
+RAW: 18, s: 100, aX: -0.23, aY: -0.44, gZ: 1.06, timeS: 115573.00, heading_rad: 0.10, heading_deg: 5.95
+RAW: 19, s: 100, aX: 1.11, aY: -0.03, gZ: 1.10, timeS: 115585.00, heading_rad: 0.12, heading_deg: 6.72
+RAW: 20, s: 100, aX: 0.09, aY: 0.25, gZ: 1.09, timeS: 115597.00, heading_rad: 0.13, heading_deg: 7.49
+RAW: 21, s: 100, aX: -0.11, aY: 0.30, gZ: 1.11, timeS: 115609.00, heading_rad: 0.14, heading_deg: 8.26
+RAW: 22, s: 100, aX: 0.44, aY: -0.05, gZ: 1.11, timeS: 115621.00, heading_rad: 0.16, heading_deg: 9.04
+RAW: 23, s: 100, aX: 0.62, aY: -0.26, gZ: 1.13, timeS: 115633.00, heading_rad: 0.17, heading_deg: 9.84
+RAW: 24, s: 100, aX: -0.16, aY: -0.25, gZ: 1.12, timeS: 115645.00, heading_rad: 0.19, heading_deg: 10.62
+RAW: 25, s: 100, aX: -0.68, aY: 0.59, gZ: 1.13, timeS: 115657.00, heading_rad: 0.20, heading_deg: 11.41
+RAW: 26, s: 100, aX: 0.64, aY: 0.17, gZ: 1.12, timeS: 115669.00, heading_rad: 0.21, heading_deg: 12.20
+RAW: 27, s: 100, aX: -0.15, aY: 0.47, gZ: 1.13, timeS: 115681.00, heading_rad: 0.23, heading_deg: 12.99
+RAW: 28, s: 100, aX: 0.76, aY: 0.11, gZ: 1.13, timeS: 115693.00, heading_rad: 0.24, heading_deg: 13.78
+RAW: 29, s: 100, aX: 1.30, aY: -0.57, gZ: 1.11, timeS: 115705.00, heading_rad: 0.25, heading_deg: 14.56
+RAW: 30, s: 100, aX: 0.46, aY: -0.45, gZ: 1.12, timeS: 115717.00, heading_rad: 0.27, heading_deg: 15.34
+RAW: 31, s: 100, aX: 0.20, aY: -0.10, gZ: 1.11, timeS: 115729.00, heading_rad: 0.28, heading_deg: 16.12
+RAW: 32, s: 100, aX: 0.10, aY: 0.21, gZ: 1.11, timeS: 115741.00, heading_rad: 0.29, heading_deg: 16.90
+RAW: 33, s: 100, aX: 0.33, aY: -0.02, gZ: 1.13, timeS: 115753.00, heading_rad: 0.31, heading_deg: 17.69
+RAW: 34, s: 100, aX: -0.72, aY: 1.02, gZ: 1.12, timeS: 115765.00, heading_rad: 0.32, heading_deg: 18.48
+RAW: 35, s: 100, aX: -0.11, aY: 0.23, gZ: 1.13, timeS: 115777.00, heading_rad: 0.34, heading_deg: 19.27
+RAW: 36, s: 100, aX: 0.73, aY: 0.07, gZ: 1.14, timeS: 115789.00, heading_rad: 0.35, heading_deg: 20.07
+RAW: 37, s: 100, aX: 2.52, aY: -1.17, gZ: 1.12, timeS: 115801.00, heading_rad: 0.36, heading_deg: 20.86
+RAW: 38, s: 100, aX: -0.33, aY: -0.39, gZ: 1.11, timeS: 115813.00, heading_rad: 0.38, heading_deg: 21.64
+RAW: 39, s: 100, aX: 1.57, aY: -0.11, gZ: 1.10, timeS: 115825.00, heading_rad: 0.39, heading_deg: 22.41
+RAW: 40, s: 100, aX: -0.20, aY: 0.13, gZ: 1.07, timeS: 115837.00, heading_rad: 0.40, heading_deg: 23.16
+RAW: 41, s: 100, aX: -0.02, aY: 0.27, gZ: 1.09, timeS: 115849.00, heading_rad: 0.42, heading_deg: 23.92
+RAW: 42, s: 100, aX: -0.22, aY: 0.34, gZ: 1.12, timeS: 115861.00, heading_rad: 0.43, heading_deg: 24.71
+RAW: 43, s: 100, aX: -0.83, aY: 0.85, gZ: 1.10, timeS: 115873.00, heading_rad: 0.44, heading_deg: 25.48
+RAW: 44, s: 100, aX: 0.26, aY: -0.24, gZ: 1.07, timeS: 115885.00, heading_rad: 0.46, heading_deg: 26.23
+RAW: 45, s: 100, aX: 1.22, aY: 0.11, gZ: 1.05, timeS: 115897.00, heading_rad: 0.47, heading_deg: 26.97
+RAW: 46, s: 100, aX: 0.11, aY: 0.37, gZ: 1.07, timeS: 115909.00, heading_rad: 0.48, heading_deg: 27.72
+RAW: 47, s: 100, aX: 0.80, aY: -0.05, gZ: 1.05, timeS: 115921.00, heading_rad: 0.50, heading_deg: 28.45
+RAW: 48, s: 100, aX: 0.65, aY: -0.22, gZ: 1.06, timeS: 115933.00, heading_rad: 0.51, heading_deg: 29.20
+RAW: 49, s: 100, aX: -0.25, aY: -0.05, gZ: 1.05, timeS: 115945.00, heading_rad: 0.52, heading_deg: 29.94
+RAW: 50, s: 100, aX: -0.12, aY: -0.02, gZ: 1.02, timeS: 115957.00, heading_rad: 0.54, heading_deg: 30.66
+RAW: 51, s: 100, aX: -0.25, aY: 0.51, gZ: 1.03, timeS: 115969.00, heading_rad: 0.55, heading_deg: 31.38
+RAW: 52, s: 100, aX: -0.14, aY: 0.56, gZ: 1.02, timeS: 115981.00, heading_rad: 0.56, heading_deg: 32.10
+RAW: 53, s: 100, aX: 0.81, aY: -0.12, gZ: 1.03, timeS: 115993.00, heading_rad: 0.57, heading_deg: 32.82
+RAW: 54, s: 100, aX: 0.63, aY: 0.05, gZ: 1.06, timeS: 116005.00, heading_rad: 0.59, heading_deg: 33.56
+RAW: 55, s: 100, aX: 0.81, aY: -0.55, gZ: 1.02, timeS: 116017.00, heading_rad: 0.60, heading_deg: 34.28
+RAW: 56, s: 100, aX: 0.67, aY: -0.37, gZ: 1.02, timeS: 116029.00, heading_rad: 0.61, heading_deg: 34.99
+RAW: 57, s: 100, aX: -0.63, aY: 0.44, gZ: 1.02, timeS: 116041.00, heading_rad: 0.62, heading_deg: 35.71
+RAW: 58, s: 100, aX: -0.15, aY: -0.29, gZ: 0.99, timeS: 116053.00, heading_rad: 0.64, heading_deg: 36.41
+RAW: 59, s: 100, aX: -0.14, aY: 0.11, gZ: 1.00, timeS: 116065.00, heading_rad: 0.65, heading_deg: 37.11
+RAW: 60, s: 100, aX: 0.13, aY: 0.04, gZ: 0.99, timeS: 116077.00, heading_rad: 0.66, heading_deg: 37.80
+RAW: 61, s: 100, aX: 0.60, aY: -0.09, gZ: 0.98, timeS: 116089.00, heading_rad: 0.67, heading_deg: 38.49
+RAW: 62, s: 100, aX: -0.20, aY: -0.27, gZ: 0.97, timeS: 116101.00, heading_rad: 0.68, heading_deg: 39.18
+RAW: 63, s: 100, aX: 2.83, aY: -0.47, gZ: 0.99, timeS: 116113.00, heading_rad: 0.70, heading_deg: 39.87
+RAW: 64, s: 100, aX: -0.06, aY: 0.97, gZ: 0.98, timeS: 116125.00, heading_rad: 0.71, heading_deg: 40.56
+RAW: 65, s: 100, aX: -0.44, aY: -0.15, gZ: 0.97, timeS: 116137.00, heading_rad: 0.72, heading_deg: 41.24
+RAW: 66, s: 100, aX: -0.04, aY: 0.29, gZ: 0.99, timeS: 116149.00, heading_rad: 0.73, heading_deg: 41.94
+RAW: 67, s: 100, aX: -0.14, aY: -0.11, gZ: 0.99, timeS: 116161.00, heading_rad: 0.74, heading_deg: 42.64
+RAW: 68, s: 100, aX: 0.19, aY: -0.09, gZ: 0.99, timeS: 116173.00, heading_rad: 0.76, heading_deg: 43.33
+RAW: 69, s: 100, aX: 0.10, aY: -0.28, gZ: 0.97, timeS: 116185.00, heading_rad: 0.77, heading_deg: 44.01
+RAW: 70, s: 100, aX: 1.74, aY: -0.94, gZ: 0.97, timeS: 116197.00, heading_rad: 0.78, heading_deg: 44.69
+RAW: 71, s: 100, aX: 0.26, aY: 0.03, gZ: 0.97, timeS: 116209.00, heading_rad: 0.79, heading_deg: 45.37
+RAW: 72, s: 100, aX: 0.84, aY: 0.27, gZ: 0.98, timeS: 116221.00, heading_rad: 0.80, heading_deg: 46.06
+RAW: 73, s: 100, aX: -0.27, aY: -0.07, gZ: 1.00, timeS: 116233.00, heading_rad: 0.82, heading_deg: 46.77
+RAW: 74, s: 100, aX: -0.75, aY: 0.78, gZ: 0.97, timeS: 116245.00, heading_rad: 0.83, heading_deg: 47.45
+RAW: 75, s: 100, aX: -1.12, aY: -0.01, gZ: 0.95, timeS: 116257.00, heading_rad: 0.84, heading_deg: 48.12
+RAW: 76, s: 100, aX: 1.67, aY: -1.02, gZ: 0.93, timeS: 116269.00, heading_rad: 0.85, heading_deg: 48.77
+RAW: 77, s: 100, aX: -0.38, aY: -0.23, gZ: 0.91, timeS: 116281.00, heading_rad: 0.86, heading_deg: 49.42
+RAW: 78, s: 100, aX: 0.28, aY: 2.16, gZ: 0.94, timeS: 116293.00, heading_rad: 0.87, heading_deg: 50.08
+RAW: 79, s: 100, aX: 1.29, aY: -0.20, gZ: 0.96, timeS: 116305.00, heading_rad: 0.89, heading_deg: 50.76
+RAW: 80, s: 100, aX: 0.54, aY: -0.35, gZ: 0.92, timeS: 116317.00, heading_rad: 0.90, heading_deg: 51.40
+RAW: 81, s: 100, aX: -0.47, aY: 0.12, gZ: 0.93, timeS: 116329.00, heading_rad: 0.91, heading_deg: 52.06
+RAW: 82, s: 100, aX: 0.67, aY: 0.00, gZ: 0.96, timeS: 116341.00, heading_rad: 0.92, heading_deg: 52.74
+RAW: 83, s: 100, aX: 0.22, aY: 0.12, gZ: 0.96, timeS: 116353.00, heading_rad: 0.93, heading_deg: 53.41
+RAW: 84, s: 100, aX: -2.56, aY: 1.31, gZ: 0.94, timeS: 116365.00, heading_rad: 0.94, heading_deg: 54.07
+RAW: 85, s: 100, aX: 2.38, aY: -0.60, gZ: 0.99, timeS: 116377.00, heading_rad: 0.96, heading_deg: 54.77
+RAW: 86, s: 100, aX: -1.65, aY: 0.82, gZ: 0.93, timeS: 116389.00, heading_rad: 0.97, heading_deg: 55.43
+RAW: 87, s: 100, aX: 3.42, aY: -1.55, gZ: 0.90, timeS: 116401.00, heading_rad: 0.98, heading_deg: 56.06
+RAW: 88, s: 100, aX: -0.99, aY: -0.23, gZ: 0.92, timeS: 116413.00, heading_rad: 0.99, heading_deg: 56.71
+RAW: 89, s: 100, aX: 0.40, aY: 1.06, gZ: 0.91, timeS: 116425.00, heading_rad: 1.00, heading_deg: 57.35
+RAW: 90, s: 100, aX: -0.58, aY: 1.08, gZ: 0.94, timeS: 116437.00, heading_rad: 1.01, heading_deg: 58.02
+RAW: 91, s: 100, aX: 0.15, aY: 0.53, gZ: 1.00, timeS: 116449.00, heading_rad: 1.02, heading_deg: 58.72
+RAW: 92, s: 100, aX: -0.91, aY: 0.31, gZ: 1.02, timeS: 116461.00, heading_rad: 1.04, heading_deg: 59.44
+RAW: 93, s: 100, aX: 1.97, aY: -0.94, gZ: 0.98, timeS: 116473.00, heading_rad: 1.05, heading_deg: 60.13
+RAW: 94, s: 100, aX: 0.35, aY: -0.71, gZ: 1.03, timeS: 116485.00, heading_rad: 1.06, heading_deg: 60.85
+RAW: 95, s: 100, aX: 0.84, aY: 0.18, gZ: 1.00, timeS: 116497.00, heading_rad: 1.07, heading_deg: 61.55
+RAW: 96, s: 100, aX: 1.06, aY: 0.23, gZ: 1.04, timeS: 116509.00, heading_rad: 1.09, heading_deg: 62.28
+RAW: 97, s: 100, aX: 0.03, aY: 0.53, gZ: 1.03, timeS: 116521.00, heading_rad: 1.10, heading_deg: 63.00
+RAW: 98, s: 100, aX: 0.01, aY: 0.48, gZ: 1.06, timeS: 116533.00, heading_rad: 1.11, heading_deg: 63.74
+RAW: 99, s: 100, aX: 0.67, aY: -0.76, gZ: 1.04, timeS: 116545.00, heading_rad: 1.13, heading_deg: 64.47
+RAW: 100, s: 100, aX: -0.29, aY: -0.59, gZ: 1.04, timeS: 116557.00, heading_rad: 1.14, heading_deg: 65.20
+RAW: 101, s: 100, aX: -0.02, aY: 0.34, gZ: 1.03, timeS: 116569.00, heading_rad: 1.15, heading_deg: 65.93
+RAW: 102, s: 100, aX: 1.01, aY: -0.31, gZ: 1.06, timeS: 116581.00, heading_rad: 1.16, heading_deg: 66.67
+RAW: 103, s: 100, aX: 0.24, aY: -0.09, gZ: 1.05, timeS: 116593.00, heading_rad: 1.18, heading_deg: 67.40
+RAW: 104, s: 100, aX: 0.58, aY: 0.06, gZ: 1.03, timeS: 116605.00, heading_rad: 1.19, heading_deg: 68.13
+RAW: 105, s: 100, aX: -0.21, aY: 0.64, gZ: 1.07, timeS: 116617.00, heading_rad: 1.20, heading_deg: 68.87
+RAW: 106, s: 100, aX: 0.19, aY: -0.59, gZ: 1.04, timeS: 116629.00, heading_rad: 1.21, heading_deg: 69.60
+RAW: 107, s: 100, aX: -0.22, aY: -0.39, gZ: 1.04, timeS: 116641.00, heading_rad: 1.23, heading_deg: 70.33
+RAW: 108, s: 100, aX: -0.45, aY: 1.02, gZ: 1.03, timeS: 116653.00, heading_rad: 1.24, heading_deg: 71.05
+RAW: 109, s: 100, aX: -0.06, aY: -0.12, gZ: 1.03, timeS: 116665.00, heading_rad: 1.25, heading_deg: 71.77
+RAW: 110, s: 100, aX: 0.46, aY: -0.80, gZ: 1.01, timeS: 116677.00, heading_rad: 1.27, heading_deg: 72.48
+RAW: 111, s: 100, aX: 0.71, aY: -0.42, gZ: 1.01, timeS: 116689.00, heading_rad: 1.28, heading_deg: 73.20
+RAW: 112, s: 100, aX: 0.59, aY: 0.38, gZ: 1.02, timeS: 116701.00, heading_rad: 1.29, heading_deg: 73.91
+RAW: 113, s: 100, aX: 0.65, aY: 0.70, gZ: 1.02, timeS: 116713.00, heading_rad: 1.30, heading_deg: 74.63
+RAW: 114, s: 100, aX: -0.82, aY: 0.55, gZ: 1.02, timeS: 116725.00, heading_rad: 1.32, heading_deg: 75.35
+RAW: 115, s: 100, aX: -0.17, aY: 0.03, gZ: 1.01, timeS: 116737.00, heading_rad: 1.33, heading_deg: 76.06
+RAW: 116, s: 100, aX: 0.35, aY: -0.68, gZ: 1.00, timeS: 116749.00, heading_rad: 1.34, heading_deg: 76.76
+RAW: 117, s: 100, aX: -0.01, aY: -0.16, gZ: 1.00, timeS: 116761.00, heading_rad: 1.35, heading_deg: 77.46
+RAW: 118, s: 100, aX: 0.33, aY: 0.05, gZ: 1.01, timeS: 116773.00, heading_rad: 1.36, heading_deg: 78.17
+RAW: 119, s: 100, aX: 0.09, aY: 0.31, gZ: 1.03, timeS: 116785.00, heading_rad: 1.38, heading_deg: 78.89
+RAW: 120, s: 100, aX: 0.26, aY: 0.56, gZ: 1.03, timeS: 116797.00, heading_rad: 1.39, heading_deg: 79.62
+RAW: 121, s: 100, aX: 0.51, aY: 0.60, gZ: 1.04, timeS: 116809.00, heading_rad: 1.40, heading_deg: 80.35
+RAW: 122, s: 100, aX: 1.19, aY: -0.98, gZ: 1.04, timeS: 116821.00, heading_rad: 1.42, heading_deg: 81.08
+RAW: 123, s: 100, aX: 0.47, aY: -0.99, gZ: 1.02, timeS: 116833.00, heading_rad: 1.43, heading_deg: 81.79
+RAW: 124, s: 100, aX: 0.94, aY: -0.64, gZ: 1.03, timeS: 116845.00, heading_rad: 1.44, heading_deg: 82.51
+RAW: 125, s: 100, aX: -0.51, aY: 0.31, gZ: 1.05, timeS: 116857.00, heading_rad: 1.45, heading_deg: 83.25
+RAW: 126, s: 100, aX: -0.22, aY: 0.80, gZ: 1.04, timeS: 116869.00, heading_rad: 1.47, heading_deg: 83.98
+RAW: 127, s: 100, aX: 0.73, aY: 0.19, gZ: 1.04, timeS: 116881.00, heading_rad: 1.48, heading_deg: 84.71
+RAW: 128, s: 100, aX: 0.21, aY: -0.30, gZ: 1.02, timeS: 116893.00, heading_rad: 1.49, heading_deg: 85.42
+RAW: 129, s: 100, aX: 1.54, aY: -0.68, gZ: 0.98, timeS: 116905.00, heading_rad: 1.50, heading_deg: 86.11
+RAW: 130, s: 100, aX: 0.23, aY: -0.16, gZ: 1.01, timeS: 116917.00, heading_rad: 1.52, heading_deg: 86.82
+RAW: 131, s: 100, aX: 0.16, aY: -0.12, gZ: 1.00, timeS: 116929.00, heading_rad: 1.53, heading_deg: 87.52
+RAW: 132, s: 100, aX: 0.09, aY: -0.12, gZ: 0.95, timeS: 116941.00, heading_rad: 1.54, heading_deg: 88.19
+RAW: 133, s: 100, aX: -0.74, aY: 0.35, gZ: 0.93, timeS: 116953.00, heading_rad: 1.55, heading_deg: 88.84
+RAW: 134, s: 100, aX: 0.34, aY: 1.28, gZ: 0.91, timeS: 116977.00, heading_rad: 1.57, heading_deg: 90.12
+RAW: 135, s: 100, aX: -0.09, aY: 0.62, gZ: 0.90, timeS: 116980.00, heading_rad: 1.58, heading_deg: 90.28
+RAW: 136, s: 100, aX: 1.45, aY: -0.49, gZ: 0.88, timeS: 116992.00, heading_rad: 1.59, heading_deg: 90.90
+RAW: 137, s: 100, aX: 0.64, aY: -1.26, gZ: 0.57, timeS: 117004.00, heading_rad: 1.59, heading_deg: 91.30
+RAW: 138, s: 100, aX: 0.88, aY: -0.43, gZ: 0.25, timeS: 117016.00, heading_rad: 1.60, heading_deg: 91.49
+Heading 274.78, deg
+30, 117
+35, 116
+40, 119
+45, 118
+50, 117
+55, 117
+60, 185
+65, 184
+70, 184
+75, 184
+80, 148
+85, 184
+90, 183
+95, 184
+100, 0
+105, 0
+110, 0
+115, 0
+120, 0
+125, 0
+130, 0
+135, 0
+140, 0
+145, 0
+150, 0
+150, 0
+145, 0
+140, 0
+135, 0
+130, 0
+125, 0
+120, 0
+115, 0
+110, 0
+105, 0
+100, 0
+95, 0
+90, 185
+85, 183
+80, 178
+75, 184
+30, 117
+35, 117
+40, 116
+45, 118
+50, 116
+55, 119
+60, 145
+65, 185
+70, 184
+75, 183
+80, 148
+85, 183
+90, 184
+95, 0
+100, 0
+105, 0
+110, 0
+115, 0
+120, 0
+125, 0
+130, 0
+135, 0
+140, 0
+145, 0
+150, 0
+150, 0
+145, 0
+140, 0
+135, 0
+130, 0
+125, 0
+120, 0
+115, 0
+110, 0
+105, 0
+100, 0
+95, 0
+90, 183
+85, 182
+80, 178
+75, 182
+70, 183
+65, 183
+RAW: 0, s: 50, aX: 0.28, aY: 0.00, gZ: -0.02, timeS: 128874.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 1, s: 55, aX: 0.34, aY: -0.16, gZ: -0.02, timeS: 128886.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 2, s: 60, aX: 0.40, aY: -0.11, gZ: 0.01, timeS: 128898.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 3, s: 65, aX: 0.19, aY: -0.15, gZ: -0.03, timeS: 128910.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 4, s: 70, aX: 0.12, aY: 0.18, gZ: -0.04, timeS: 128922.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 5, s: 75, aX: 0.21, aY: 0.26, gZ: -0.01, timeS: 128934.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 6, s: 80, aX: 0.20, aY: 0.09, gZ: -0.01, timeS: 128946.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 7, s: 85, aX: 0.46, aY: -0.05, gZ: -0.03, timeS: 128958.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 8, s: 90, aX: 0.50, aY: -0.02, gZ: -0.00, timeS: 128970.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 9, s: 95, aX: 0.23, aY: 0.08, gZ: 0.03, timeS: 128982.00, heading_rad: 0.00, heading_deg: 0.03
+RAW: 10, s: 100, aX: 0.16, aY: 0.81, gZ: 0.22, timeS: 128994.00, heading_rad: 0.00, heading_deg: 0.20
+RAW: 11, s: 100, aX: -2.15, aY: 1.73, gZ: 0.36, timeS: 129006.00, heading_rad: 0.01, heading_deg: 0.47
+RAW: 12, s: 100, aX: 2.22, aY: 0.95, gZ: 0.52, timeS: 129018.00, heading_rad: 0.01, heading_deg: 0.84
+RAW: 13, s: 100, aX: -0.85, aY: 0.48, gZ: 0.56, timeS: 129030.00, heading_rad: 0.02, heading_deg: 1.24
+RAW: 14, s: 100, aX: 0.55, aY: -0.20, gZ: 0.60, timeS: 129042.00, heading_rad: 0.03, heading_deg: 1.66
+RAW: 15, s: 100, aX: -0.14, aY: -0.35, gZ: 0.64, timeS: 129054.00, heading_rad: 0.04, heading_deg: 2.12
+RAW: 16, s: 100, aX: -0.51, aY: -0.34, gZ: 0.67, timeS: 129066.00, heading_rad: 0.05, heading_deg: 2.60
+RAW: 17, s: 100, aX: 0.09, aY: 0.25, gZ: 0.72, timeS: 129078.00, heading_rad: 0.05, heading_deg: 3.11
+RAW: 18, s: 100, aX: 0.58, aY: 0.08, gZ: 0.77, timeS: 129090.00, heading_rad: 0.06, heading_deg: 3.65
+RAW: 19, s: 100, aX: 0.34, aY: 0.79, gZ: 0.78, timeS: 129102.00, heading_rad: 0.07, heading_deg: 4.21
+RAW: 20, s: 100, aX: 1.09, aY: 0.16, gZ: 0.82, timeS: 129114.00, heading_rad: 0.08, heading_deg: 4.79
+RAW: 21, s: 100, aX: -0.68, aY: 0.64, gZ: 0.84, timeS: 129126.00, heading_rad: 0.09, heading_deg: 5.38
+RAW: 22, s: 100, aX: 1.39, aY: 0.30, gZ: 0.79, timeS: 129138.00, heading_rad: 0.10, heading_deg: 5.94
+RAW: 23, s: 100, aX: -1.13, aY: 0.12, gZ: 0.83, timeS: 129150.00, heading_rad: 0.11, heading_deg: 6.52
+RAW: 24, s: 100, aX: 0.88, aY: -0.89, gZ: 0.84, timeS: 129162.00, heading_rad: 0.12, heading_deg: 7.11
+RAW: 25, s: 100, aX: 0.85, aY: -0.58, gZ: 0.78, timeS: 129174.00, heading_rad: 0.13, heading_deg: 7.66
+RAW: 26, s: 100, aX: 0.70, aY: -0.34, gZ: 0.78, timeS: 129186.00, heading_rad: 0.14, heading_deg: 8.21
+RAW: 27, s: 100, aX: 0.65, aY: -0.14, gZ: 0.76, timeS: 129198.00, heading_rad: 0.15, heading_deg: 8.75
+RAW: 28, s: 100, aX: 1.39, aY: 0.48, gZ: 0.79, timeS: 129210.00, heading_rad: 0.16, heading_deg: 9.31
+RAW: 29, s: 100, aX: -1.72, aY: 1.08, gZ: 0.84, timeS: 129222.00, heading_rad: 0.17, heading_deg: 9.90
+RAW: 30, s: 100, aX: 0.47, aY: 0.86, gZ: 0.84, timeS: 129234.00, heading_rad: 0.18, heading_deg: 10.49
+RAW: 31, s: 100, aX: -0.69, aY: -0.14, gZ: 0.84, timeS: 129246.00, heading_rad: 0.19, heading_deg: 11.09
+RAW: 32, s: 100, aX: -0.67, aY: -0.70, gZ: 0.84, timeS: 129258.00, heading_rad: 0.20, heading_deg: 11.68
+RAW: 33, s: 100, aX: 1.65, aY: -1.65, gZ: 0.79, timeS: 129270.00, heading_rad: 0.21, heading_deg: 12.24
+RAW: 34, s: 100, aX: -0.13, aY: -0.71, gZ: 0.77, timeS: 129282.00, heading_rad: 0.22, heading_deg: 12.78
+RAW: 35, s: 100, aX: 0.83, aY: 0.68, gZ: 0.78, timeS: 129294.00, heading_rad: 0.23, heading_deg: 13.33
+RAW: 36, s: 100, aX: 1.22, aY: 0.22, gZ: 0.80, timeS: 129306.00, heading_rad: 0.24, heading_deg: 13.90
+RAW: 37, s: 100, aX: -0.50, aY: 0.35, gZ: 0.84, timeS: 129318.00, heading_rad: 0.25, heading_deg: 14.49
+RAW: 38, s: 100, aX: 0.77, aY: -0.18, gZ: 0.85, timeS: 129330.00, heading_rad: 0.26, heading_deg: 15.09
+RAW: 39, s: 100, aX: -0.28, aY: 0.28, gZ: 0.88, timeS: 129342.00, heading_rad: 0.27, heading_deg: 15.71
+RAW: 40, s: 100, aX: 0.12, aY: 0.34, gZ: 0.92, timeS: 129354.00, heading_rad: 0.29, heading_deg: 16.35
+RAW: 41, s: 100, aX: 1.07, aY: -0.38, gZ: 0.91, timeS: 129366.00, heading_rad: 0.30, heading_deg: 17.00
+RAW: 42, s: 100, aX: -0.64, aY: 0.21, gZ: 0.88, timeS: 129378.00, heading_rad: 0.31, heading_deg: 17.62
+RAW: 43, s: 100, aX: 1.57, aY: 0.28, gZ: 0.94, timeS: 129390.00, heading_rad: 0.32, heading_deg: 18.28
+RAW: 44, s: 100, aX: -0.04, aY: -0.33, gZ: 0.93, timeS: 129402.00, heading_rad: 0.33, heading_deg: 18.93
+RAW: 45, s: 100, aX: 0.63, aY: 0.07, gZ: 0.90, timeS: 129414.00, heading_rad: 0.34, heading_deg: 19.56
+RAW: 46, s: 100, aX: -0.81, aY: 0.27, gZ: 0.85, timeS: 129426.00, heading_rad: 0.35, heading_deg: 20.16
+RAW: 47, s: 100, aX: 0.17, aY: 0.63, gZ: 0.86, timeS: 129438.00, heading_rad: 0.36, heading_deg: 20.77
+RAW: 48, s: 100, aX: 0.08, aY: 0.97, gZ: 0.90, timeS: 129450.00, heading_rad: 0.37, heading_deg: 21.40
+RAW: 49, s: 100, aX: -0.15, aY: 0.28, gZ: 0.93, timeS: 129462.00, heading_rad: 0.38, heading_deg: 22.05
+RAW: 50, s: 100, aX: 1.57, aY: 0.12, gZ: 0.94, timeS: 129474.00, heading_rad: 0.40, heading_deg: 22.71
+RAW: 51, s: 100, aX: 0.59, aY: 0.20, gZ: 0.96, timeS: 129486.00, heading_rad: 0.41, heading_deg: 23.38
+RAW: 52, s: 100, aX: -0.70, aY: -0.75, gZ: 0.97, timeS: 129498.00, heading_rad: 0.42, heading_deg: 24.07
+RAW: 53, s: 100, aX: 1.13, aY: -0.69, gZ: 0.92, timeS: 129510.00, heading_rad: 0.43, heading_deg: 24.72
+RAW: 54, s: 100, aX: -1.12, aY: 0.66, gZ: 0.89, timeS: 129522.00, heading_rad: 0.44, heading_deg: 25.34
+RAW: 55, s: 100, aX: -0.14, aY: -0.19, gZ: 0.89, timeS: 129534.00, heading_rad: 0.45, heading_deg: 25.97
+RAW: 56, s: 100, aX: 0.25, aY: -0.41, gZ: 0.89, timeS: 129546.00, heading_rad: 0.46, heading_deg: 26.60
+RAW: 57, s: 100, aX: -0.35, aY: -0.39, gZ: 0.90, timeS: 129558.00, heading_rad: 0.48, heading_deg: 27.24
+RAW: 58, s: 100, aX: 0.34, aY: -0.92, gZ: 0.90, timeS: 129570.00, heading_rad: 0.49, heading_deg: 27.87
+RAW: 59, s: 100, aX: 1.06, aY: -0.32, gZ: 0.92, timeS: 129582.00, heading_rad: 0.50, heading_deg: 28.52
+RAW: 60, s: 100, aX: 0.99, aY: 0.18, gZ: 0.92, timeS: 129594.00, heading_rad: 0.51, heading_deg: 29.17
+RAW: 61, s: 100, aX: 1.33, aY: 0.55, gZ: 0.94, timeS: 129606.00, heading_rad: 0.52, heading_deg: 29.83
+RAW: 62, s: 100, aX: -0.21, aY: -0.18, gZ: 0.88, timeS: 129618.00, heading_rad: 0.53, heading_deg: 30.44
+RAW: 63, s: 100, aX: 0.00, aY: -0.96, gZ: 0.90, timeS: 129630.00, heading_rad: 0.54, heading_deg: 31.08
+RAW: 64, s: 100, aX: -0.33, aY: 0.73, gZ: 0.93, timeS: 129642.00, heading_rad: 0.55, heading_deg: 31.73
+RAW: 65, s: 100, aX: 0.39, aY: -0.37, gZ: 0.92, timeS: 129654.00, heading_rad: 0.57, heading_deg: 32.38
+RAW: 66, s: 100, aX: 1.22, aY: 0.36, gZ: 0.90, timeS: 129666.00, heading_rad: 0.58, heading_deg: 33.01
+RAW: 67, s: 100, aX: 0.26, aY: 0.40, gZ: 0.93, timeS: 129678.00, heading_rad: 0.59, heading_deg: 33.67
+RAW: 68, s: 100, aX: 1.69, aY: 0.43, gZ: 0.96, timeS: 129690.00, heading_rad: 0.60, heading_deg: 34.34
+RAW: 69, s: 100, aX: 0.06, aY: -0.46, gZ: 0.92, timeS: 129702.00, heading_rad: 0.61, heading_deg: 34.99
+RAW: 70, s: 100, aX: -0.17, aY: -0.20, gZ: 0.93, timeS: 129714.00, heading_rad: 0.62, heading_deg: 35.64
+RAW: 71, s: 100, aX: 0.72, aY: -0.43, gZ: 0.98, timeS: 129726.00, heading_rad: 0.63, heading_deg: 36.33
+RAW: 72, s: 100, aX: -0.15, aY: 0.42, gZ: 0.95, timeS: 129738.00, heading_rad: 0.65, heading_deg: 37.00
+RAW: 73, s: 100, aX: -0.40, aY: -0.71, gZ: 0.96, timeS: 129750.00, heading_rad: 0.66, heading_deg: 37.68
+RAW: 74, s: 100, aX: 0.55, aY: -1.06, gZ: 1.00, timeS: 129762.00, heading_rad: 0.67, heading_deg: 38.38
+RAW: 75, s: 100, aX: 0.03, aY: 0.07, gZ: 1.03, timeS: 129774.00, heading_rad: 0.68, heading_deg: 39.10
+RAW: 76, s: 100, aX: 0.11, aY: 0.09, gZ: 1.01, timeS: 129786.00, heading_rad: 0.69, heading_deg: 39.81
+RAW: 77, s: 100, aX: 0.93, aY: 0.41, gZ: 1.01, timeS: 129798.00, heading_rad: 0.71, heading_deg: 40.52
+RAW: 78, s: 100, aX: -0.51, aY: 0.77, gZ: 1.02, timeS: 129810.00, heading_rad: 0.72, heading_deg: 41.23
+RAW: 79, s: 100, aX: 0.66, aY: -0.53, gZ: 1.00, timeS: 129822.00, heading_rad: 0.73, heading_deg: 41.94
+RAW: 80, s: 100, aX: 0.14, aY: 0.43, gZ: 1.04, timeS: 129834.00, heading_rad: 0.74, heading_deg: 42.67
+RAW: 81, s: 100, aX: 0.34, aY: -0.30, gZ: 1.03, timeS: 129846.00, heading_rad: 0.76, heading_deg: 43.39
+RAW: 82, s: 100, aX: 0.45, aY: 0.34, gZ: 1.06, timeS: 129858.00, heading_rad: 0.77, heading_deg: 44.13
+RAW: 83, s: 100, aX: 0.24, aY: -0.30, gZ: 1.04, timeS: 129870.00, heading_rad: 0.78, heading_deg: 44.86
+RAW: 84, s: 100, aX: 0.31, aY: -0.12, gZ: 1.05, timeS: 129882.00, heading_rad: 0.80, heading_deg: 45.60
+RAW: 85, s: 100, aX: 1.27, aY: -0.17, gZ: 1.06, timeS: 129894.00, heading_rad: 0.81, heading_deg: 46.34
+RAW: 86, s: 100, aX: -0.65, aY: 0.29, gZ: 1.06, timeS: 129906.00, heading_rad: 0.82, heading_deg: 47.09
+RAW: 87, s: 100, aX: -0.05, aY: -0.42, gZ: 1.06, timeS: 129918.00, heading_rad: 0.83, heading_deg: 47.83
+RAW: 88, s: 100, aX: 0.51, aY: -1.02, gZ: 1.09, timeS: 129930.00, heading_rad: 0.85, heading_deg: 48.59
+RAW: 89, s: 100, aX: 0.03, aY: -0.39, gZ: 1.05, timeS: 129942.00, heading_rad: 0.86, heading_deg: 49.33
+RAW: 90, s: 100, aX: -0.44, aY: -2.01, gZ: 1.04, timeS: 129954.00, heading_rad: 0.87, heading_deg: 50.07
+RAW: 91, s: 100, aX: 1.37, aY: -0.50, gZ: 1.03, timeS: 129966.00, heading_rad: 0.89, heading_deg: 50.79
+RAW: 92, s: 100, aX: -0.78, aY: 0.76, gZ: 1.01, timeS: 129978.00, heading_rad: 0.90, heading_deg: 51.50
+RAW: 93, s: 100, aX: 0.74, aY: 0.70, gZ: 1.02, timeS: 129990.00, heading_rad: 0.91, heading_deg: 52.21
+RAW: 94, s: 100, aX: -0.16, aY: 0.16, gZ: 1.01, timeS: 130002.00, heading_rad: 0.92, heading_deg: 52.92
+RAW: 95, s: 100, aX: 1.20, aY: -0.68, gZ: 0.99, timeS: 130014.00, heading_rad: 0.94, heading_deg: 53.61
+RAW: 96, s: 100, aX: 0.40, aY: -0.93, gZ: 1.01, timeS: 130026.00, heading_rad: 0.95, heading_deg: 54.32
+RAW: 97, s: 100, aX: -0.13, aY: -0.76, gZ: 1.01, timeS: 130038.00, heading_rad: 0.96, heading_deg: 55.03
+RAW: 98, s: 100, aX: 0.13, aY: -0.85, gZ: 1.00, timeS: 130050.00, heading_rad: 0.97, heading_deg: 55.73
+RAW: 99, s: 100, aX: 0.73, aY: 0.26, gZ: 1.04, timeS: 130062.00, heading_rad: 0.99, heading_deg: 56.46
+RAW: 100, s: 100, aX: -0.48, aY: -1.16, gZ: 1.01, timeS: 130074.00, heading_rad: 1.00, heading_deg: 57.17
+RAW: 101, s: 100, aX: 0.90, aY: -0.60, gZ: 0.99, timeS: 130086.00, heading_rad: 1.01, heading_deg: 57.87
+RAW: 102, s: 100, aX: -0.51, aY: 0.04, gZ: 1.00, timeS: 130098.00, heading_rad: 1.02, heading_deg: 58.57
+RAW: 103, s: 100, aX: 0.82, aY: -0.31, gZ: 1.00, timeS: 130110.00, heading_rad: 1.03, heading_deg: 59.28
+RAW: 104, s: 100, aX: 0.04, aY: 1.19, gZ: 0.98, timeS: 130122.00, heading_rad: 1.05, heading_deg: 59.96
+RAW: 105, s: 100, aX: -0.45, aY: 1.17, gZ: 0.98, timeS: 130134.00, heading_rad: 1.06, heading_deg: 60.65
+RAW: 106, s: 100, aX: 1.02, aY: 0.18, gZ: 1.01, timeS: 130146.00, heading_rad: 1.07, heading_deg: 61.36
+RAW: 107, s: 100, aX: 0.33, aY: -0.31, gZ: 1.01, timeS: 130158.00, heading_rad: 1.08, heading_deg: 62.07
+RAW: 108, s: 100, aX: 1.22, aY: -0.83, gZ: 0.94, timeS: 130170.00, heading_rad: 1.09, heading_deg: 62.73
+RAW: 109, s: 100, aX: 0.17, aY: -0.25, gZ: 0.91, timeS: 130182.00, heading_rad: 1.11, heading_deg: 63.37
+RAW: 110, s: 100, aX: 1.96, aY: 0.25, gZ: 0.90, timeS: 130194.00, heading_rad: 1.12, heading_deg: 64.01
+RAW: 111, s: 100, aX: -0.35, aY: 1.77, gZ: 0.89, timeS: 130206.00, heading_rad: 1.13, heading_deg: 64.63
+RAW: 112, s: 100, aX: 1.01, aY: -0.43, gZ: 0.94, timeS: 130218.00, heading_rad: 1.14, heading_deg: 65.29
+RAW: 113, s: 100, aX: -0.21, aY: 0.87, gZ: 0.94, timeS: 130230.00, heading_rad: 1.15, heading_deg: 65.95
+RAW: 114, s: 100, aX: -0.21, aY: -0.10, gZ: 0.95, timeS: 130242.00, heading_rad: 1.16, heading_deg: 66.62
+RAW: 115, s: 100, aX: -0.05, aY: 0.14, gZ: 0.90, timeS: 130254.00, heading_rad: 1.17, heading_deg: 67.25
+RAW: 116, s: 100, aX: 1.55, aY: 1.02, gZ: 0.87, timeS: 130266.00, heading_rad: 1.18, heading_deg: 67.86
+RAW: 117, s: 100, aX: -1.73, aY: 1.99, gZ: 0.96, timeS: 130278.00, heading_rad: 1.20, heading_deg: 68.53
+RAW: 118, s: 100, aX: 2.13, aY: 0.06, gZ: 0.95, timeS: 130290.00, heading_rad: 1.21, heading_deg: 69.20
+RAW: 119, s: 100, aX: -0.65, aY: 0.53, gZ: 0.92, timeS: 130302.00, heading_rad: 1.22, heading_deg: 69.85
+RAW: 120, s: 100, aX: 0.25, aY: 0.74, gZ: 0.90, timeS: 130314.00, heading_rad: 1.23, heading_deg: 70.49
+RAW: 121, s: 100, aX: 0.31, aY: 1.75, gZ: 0.91, timeS: 130326.00, heading_rad: 1.24, heading_deg: 71.13
+RAW: 122, s: 100, aX: 0.37, aY: 0.24, gZ: 0.91, timeS: 130338.00, heading_rad: 1.25, heading_deg: 71.77
+RAW: 123, s: 100, aX: -0.32, aY: -0.33, gZ: 0.94, timeS: 130350.00, heading_rad: 1.26, heading_deg: 72.43
+RAW: 124, s: 100, aX: 0.94, aY: -0.67, gZ: 0.98, timeS: 130362.00, heading_rad: 1.28, heading_deg: 73.12
+RAW: 125, s: 100, aX: -0.15, aY: -0.51, gZ: 0.99, timeS: 130374.00, heading_rad: 1.29, heading_deg: 73.81
+RAW: 126, s: 100, aX: 0.48, aY: 0.16, gZ: 0.99, timeS: 130386.00, heading_rad: 1.30, heading_deg: 74.50
+RAW: 127, s: 100, aX: 0.68, aY: 0.55, gZ: 1.00, timeS: 130398.00, heading_rad: 1.31, heading_deg: 75.21
+RAW: 128, s: 100, aX: 0.22, aY: 0.71, gZ: 1.00, timeS: 130410.00, heading_rad: 1.32, heading_deg: 75.91
+RAW: 129, s: 100, aX: 1.06, aY: -1.08, gZ: 1.03, timeS: 130422.00, heading_rad: 1.34, heading_deg: 76.63
+RAW: 130, s: 100, aX: -0.28, aY: -1.02, gZ: 1.02, timeS: 130434.00, heading_rad: 1.35, heading_deg: 77.35
+RAW: 131, s: 100, aX: 0.77, aY: -1.76, gZ: 1.00, timeS: 130446.00, heading_rad: 1.36, heading_deg: 78.05
+RAW: 132, s: 100, aX: 0.03, aY: -0.85, gZ: 1.01, timeS: 130458.00, heading_rad: 1.37, heading_deg: 78.76
+RAW: 133, s: 100, aX: 0.06, aY: -1.01, gZ: 1.00, timeS: 130470.00, heading_rad: 1.39, heading_deg: 79.46
+RAW: 134, s: 100, aX: 1.52, aY: -0.13, gZ: 0.97, timeS: 130482.00, heading_rad: 1.40, heading_deg: 80.14
+RAW: 135, s: 100, aX: 0.11, aY: 0.04, gZ: 0.99, timeS: 130494.00, heading_rad: 1.41, heading_deg: 80.83
+RAW: 136, s: 100, aX: 0.45, aY: -0.13, gZ: 0.99, timeS: 130506.00, heading_rad: 1.42, heading_deg: 81.52
+RAW: 137, s: 100, aX: 0.35, aY: -0.16, gZ: 1.00, timeS: 130518.00, heading_rad: 1.44, heading_deg: 82.23
+RAW: 138, s: 100, aX: 0.79, aY: 0.00, gZ: 1.00, timeS: 130530.00, heading_rad: 1.45, heading_deg: 82.93
+RAW: 139, s: 100, aX: 1.04, aY: -0.76, gZ: 0.98, timeS: 130542.00, heading_rad: 1.46, heading_deg: 83.62
+RAW: 140, s: 100, aX: -1.47, aY: 1.02, gZ: 1.02, timeS: 130554.00, heading_rad: 1.47, heading_deg: 84.34
+RAW: 141, s: 100, aX: 0.54, aY: 0.11, gZ: 1.04, timeS: 130566.00, heading_rad: 1.48, heading_deg: 85.07
+RAW: 142, s: 100, aX: -0.19, aY: 0.09, gZ: 1.02, timeS: 130578.00, heading_rad: 1.50, heading_deg: 85.78
+RAW: 143, s: 100, aX: 0.03, aY: 0.04, gZ: 0.98, timeS: 130590.00, heading_rad: 1.51, heading_deg: 86.47
+RAW: 144, s: 100, aX: 0.14, aY: -0.81, gZ: 0.97, timeS: 130602.00, heading_rad: 1.52, heading_deg: 87.16
+RAW: 145, s: 100, aX: 1.06, aY: -0.21, gZ: 1.01, timeS: 130614.00, heading_rad: 1.53, heading_deg: 87.86
+RAW: 146, s: 100, aX: -0.86, aY: 0.83, gZ: 1.00, timeS: 130626.00, heading_rad: 1.55, heading_deg: 88.57
+RAW: 147, s: 100, aX: 0.32, aY: 0.09, gZ: 1.04, timeS: 130650.00, heading_rad: 1.57, heading_deg: 90.03
+RAW: 148, s: 100, aX: -0.10, aY: -0.37, gZ: 1.04, timeS: 130653.00, heading_rad: 1.57, heading_deg: 90.21
+RAW: 149, s: 100, aX: -0.85, aY: -0.66, gZ: 0.96, timeS: 130665.00, heading_rad: 1.59, heading_deg: 90.88
+RAW: 150, s: 100, aX: 0.80, aY: -1.30, gZ: 0.57, timeS: 130677.00, heading_rad: 1.59, heading_deg: 91.29
+RAW: 151, s: 100, aX: 0.99, aY: -1.75, gZ: 0.15, timeS: 130689.00, heading_rad: 1.60, heading_deg: 91.41
+Heading 6.19, deg
+30, 0
+35, 0
+40, 0
+45, 0
+50, 0
+55, 0
+60, 0
+65, 0
+70, 135
+75, 135
+80, 135
+85, 134
+90, 122
+95, 123
+100, 122
+105, 123
+110, 122
+115, 122
+120, 122
+125, 122
+130, 123
+135, 123
+140, 0
+145, 0
+150, 0
+150, 0
+145, 0
+140, 0
+135, 0
+130, 0
+125, 125
+120, 123
+115, 122
+110, 122
+105, 121
+100, 122
+95, 121
+90, 124
+85, 122
+80, 124
+75, 134
+30, 0
+35, 0
+40, 0
+45, 0
+50, 0
+55, 0
+60, 0
+65, 0
+70, 135
+75, 135
+80, 135
+85, 134
+90, 123
+95, 123
+100, 122
+105, 122
+110, 121
+115, 123
+120, 123
+125, 122
+130, 123
+135, 127
+140, 0
+145, 0
+150, 0
+150, 0
+145, 0
+140, 0
+135, 0
+130, 0
+125, 124
+120, 128
+115, 121
+110, 121
+105, 122
+100, 122
+95, 123
+90, 122
+85, 123
+80, 135
+75, 138
+30, 0
+35, 0
+40, 0
+45, 0
+50, 0
+55, 0
+60, 0
+65, 0
+70, 0
+75, 0
+80, 136
+85, 135
+90, 124
+95, 122
+100, 85
+105, 123
+110, 123
+115, 123
+120, 121
+125, 123
+130, 123
+135, 123
+140, 0
+145, 0
+150, 0
+150, 0
+145, 0
+140, 0
+135, 0
+130, 0
+125, 124
+120, 123
+115, 124
+110, 121
+105, 122
+100, 121
+95, 122
+90, 124
+85, 135
+80, 134
+75, 137
+70, 0
+30, 0
+35, 0
+40, 0
+45, 0
+50, 0
+55, 0
+60, 0
+65, 0
+70, 0
+75, 0
+80, 136
+85, 123
+90, 123
+95, 122
+100, 121
+105, 121
+110, 123
+115, 121
+120, 123
+125, 122
+130, 122
+135, 122
+140, 0
+145, 0
+150, 0
+150, 0
+145, 0
+140, 0
+135, 0
+130, 0
+125, 122
+120, 121
+115, 122
+110, 121
+105, 122
+100, 121
+95, 121
+90, 121
+85, 123
+80, 125
+60, 0
+55, 0
+30, 0
+35, 0
+40, 0
+45, 0
+50, 0
+55, 0
+60, 0
+65, 0
+70, 0
+75, 0
+80, 136
+85, 134
+90, 123
+95, 124
+100, 124
+105, 122
+110, 121
+115, 123
+120, 122
+125, 122
+130, 124
+135, 125
+140, 0
+145, 0
+150, 0
+150, 0
+145, 0
+140, 0
+135, 0
+130, 0
+125, 125
+120, 121
+115, 123
+110, 122
+105, 121
+100, 122
+95, 121
+90, 123
+85, 121
+80, 125
+65, 0
+60, 0
+RAW: 0, s: 50, aX: 0.32, aY: -0.04, gZ: -0.02, timeS: 152417.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 1, s: 55, aX: 0.07, aY: -0.17, gZ: -0.02, timeS: 152429.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 2, s: 60, aX: 0.19, aY: -0.38, gZ: -0.03, timeS: 152441.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 3, s: 65, aX: 0.22, aY: -0.31, gZ: -0.03, timeS: 152453.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 4, s: 70, aX: 0.43, aY: -0.07, gZ: -0.02, timeS: 152465.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 5, s: 75, aX: 0.56, aY: -0.53, gZ: -0.09, timeS: 152477.00, heading_rad: -0.00, heading_deg: -0.04
+RAW: 6, s: 80, aX: 0.54, aY: -0.26, gZ: -0.11, timeS: 152489.00, heading_rad: -0.00, heading_deg: -0.11
+RAW: 7, s: 85, aX: 0.37, aY: 0.01, gZ: -0.06, timeS: 152501.00, heading_rad: -0.00, heading_deg: -0.13
+RAW: 8, s: 90, aX: 1.04, aY: 0.06, gZ: -0.15, timeS: 152513.00, heading_rad: -0.00, heading_deg: -0.22
+RAW: 9, s: 95, aX: -1.50, aY: 0.66, gZ: -0.23, timeS: 152525.00, heading_rad: -0.01, heading_deg: -0.36
+RAW: 10, s: 100, aX: 1.79, aY: -0.54, gZ: -0.28, timeS: 152537.00, heading_rad: -0.01, heading_deg: -0.54
+RAW: 11, s: 100, aX: -0.61, aY: -2.62, gZ: -0.37, timeS: 152549.00, heading_rad: -0.01, heading_deg: -0.78
+RAW: 12, s: 100, aX: 0.97, aY: -0.80, gZ: -0.74, timeS: 152561.00, heading_rad: -0.02, heading_deg: -1.28
+RAW: 13, s: 100, aX: 1.51, aY: 0.04, gZ: -0.90, timeS: 152573.00, heading_rad: -0.03, heading_deg: -1.88
+RAW: 14, s: 100, aX: 0.64, aY: 0.23, gZ: -0.97, timeS: 152585.00, heading_rad: -0.04, heading_deg: -2.53
+RAW: 15, s: 100, aX: 0.55, aY: -0.53, gZ: -1.04, timeS: 152597.00, heading_rad: -0.06, heading_deg: -3.23
+RAW: 16, s: 100, aX: 0.86, aY: 0.11, gZ: -1.11, timeS: 152609.00, heading_rad: -0.07, heading_deg: -3.98
+RAW: 17, s: 100, aX: -0.21, aY: -0.00, gZ: -1.10, timeS: 152621.00, heading_rad: -0.08, heading_deg: -4.72
+RAW: 18, s: 100, aX: 0.29, aY: -0.11, gZ: -1.14, timeS: 152633.00, heading_rad: -0.10, heading_deg: -5.49
+RAW: 19, s: 100, aX: -0.28, aY: -0.59, gZ: -1.14, timeS: 152645.00, heading_rad: -0.11, heading_deg: -6.26
+RAW: 20, s: 100, aX: 0.79, aY: 0.06, gZ: -1.13, timeS: 152657.00, heading_rad: -0.12, heading_deg: -7.02
+RAW: 21, s: 100, aX: 0.03, aY: -0.36, gZ: -1.14, timeS: 152669.00, heading_rad: -0.14, heading_deg: -7.79
+RAW: 22, s: 100, aX: 0.79, aY: 0.16, gZ: -1.14, timeS: 152681.00, heading_rad: -0.15, heading_deg: -8.56
+RAW: 23, s: 100, aX: 0.06, aY: 0.31, gZ: -1.16, timeS: 152693.00, heading_rad: -0.16, heading_deg: -9.34
+RAW: 24, s: 100, aX: 0.41, aY: 0.34, gZ: -1.15, timeS: 152705.00, heading_rad: -0.18, heading_deg: -10.12
+RAW: 25, s: 100, aX: 0.30, aY: 0.17, gZ: -1.14, timeS: 152717.00, heading_rad: -0.19, heading_deg: -10.89
+RAW: 26, s: 100, aX: 0.62, aY: -0.24, gZ: -1.14, timeS: 152729.00, heading_rad: -0.20, heading_deg: -11.66
+RAW: 27, s: 100, aX: 0.30, aY: -0.38, gZ: -1.13, timeS: 152741.00, heading_rad: -0.22, heading_deg: -12.42
+RAW: 28, s: 100, aX: -0.02, aY: -0.77, gZ: -1.12, timeS: 152753.00, heading_rad: -0.23, heading_deg: -13.18
+RAW: 29, s: 100, aX: -0.40, aY: -0.76, gZ: -1.12, timeS: 152765.00, heading_rad: -0.24, heading_deg: -13.93
+RAW: 30, s: 100, aX: 0.32, aY: -0.45, gZ: -1.09, timeS: 152777.00, heading_rad: -0.26, heading_deg: -14.67
+RAW: 31, s: 100, aX: -0.04, aY: 0.90, gZ: -1.09, timeS: 152789.00, heading_rad: -0.27, heading_deg: -15.40
+RAW: 32, s: 100, aX: 1.15, aY: 1.46, gZ: -1.08, timeS: 152801.00, heading_rad: -0.28, heading_deg: -16.13
+RAW: 33, s: 100, aX: 0.30, aY: 0.35, gZ: -1.09, timeS: 152813.00, heading_rad: -0.29, heading_deg: -16.87
+RAW: 34, s: 100, aX: 0.26, aY: -0.23, gZ: -1.11, timeS: 152825.00, heading_rad: -0.31, heading_deg: -17.62
+RAW: 35, s: 100, aX: 0.03, aY: -0.70, gZ: -1.11, timeS: 152837.00, heading_rad: -0.32, heading_deg: -18.37
+RAW: 36, s: 100, aX: -1.25, aY: -1.00, gZ: -1.05, timeS: 152849.00, heading_rad: -0.33, heading_deg: -19.08
+RAW: 37, s: 100, aX: -0.01, aY: -0.23, gZ: -1.10, timeS: 152861.00, heading_rad: -0.35, heading_deg: -19.82
+RAW: 38, s: 100, aX: 0.52, aY: 0.02, gZ: -1.10, timeS: 152873.00, heading_rad: -0.36, heading_deg: -20.56
+RAW: 39, s: 100, aX: 0.65, aY: 0.79, gZ: -1.06, timeS: 152885.00, heading_rad: -0.37, heading_deg: -21.27
+RAW: 40, s: 100, aX: 0.87, aY: 0.90, gZ: -1.11, timeS: 152897.00, heading_rad: -0.38, heading_deg: -22.02
+RAW: 41, s: 100, aX: 0.21, aY: 0.52, gZ: -1.12, timeS: 152909.00, heading_rad: -0.40, heading_deg: -22.78
+RAW: 42, s: 100, aX: 0.14, aY: -0.09, gZ: -1.09, timeS: 152921.00, heading_rad: -0.41, heading_deg: -23.51
+RAW: 43, s: 100, aX: 0.45, aY: -0.43, gZ: -1.13, timeS: 152933.00, heading_rad: -0.42, heading_deg: -24.28
+RAW: 44, s: 100, aX: -0.37, aY: -1.04, gZ: -1.14, timeS: 152945.00, heading_rad: -0.44, heading_deg: -25.05
+RAW: 45, s: 100, aX: 0.05, aY: -0.88, gZ: -1.14, timeS: 152957.00, heading_rad: -0.45, heading_deg: -25.82
+RAW: 46, s: 100, aX: 0.59, aY: 0.00, gZ: -1.15, timeS: 152969.00, heading_rad: -0.46, heading_deg: -26.59
+RAW: 47, s: 100, aX: 0.33, aY: 0.45, gZ: -1.16, timeS: 152981.00, heading_rad: -0.48, heading_deg: -27.38
+RAW: 48, s: 100, aX: 0.40, aY: 0.06, gZ: -1.15, timeS: 152993.00, heading_rad: -0.49, heading_deg: -28.16
+RAW: 49, s: 100, aX: 0.51, aY: 0.44, gZ: -1.21, timeS: 153005.00, heading_rad: -0.51, heading_deg: -28.97
+RAW: 50, s: 100, aX: 0.73, aY: 1.25, gZ: -1.19, timeS: 153017.00, heading_rad: -0.52, heading_deg: -29.78
+RAW: 51, s: 100, aX: -0.62, aY: -0.49, gZ: -1.21, timeS: 153029.00, heading_rad: -0.53, heading_deg: -30.59
+RAW: 52, s: 100, aX: -0.65, aY: -1.99, gZ: -1.20, timeS: 153041.00, heading_rad: -0.55, heading_deg: -31.40
+RAW: 53, s: 100, aX: 0.21, aY: -0.86, gZ: -1.20, timeS: 153053.00, heading_rad: -0.56, heading_deg: -32.21
+RAW: 54, s: 100, aX: 0.90, aY: 0.34, gZ: -1.19, timeS: 153065.00, heading_rad: -0.58, heading_deg: -33.01
+RAW: 55, s: 100, aX: 0.92, aY: 0.55, gZ: -1.23, timeS: 153077.00, heading_rad: -0.59, heading_deg: -33.84
+RAW: 56, s: 100, aX: 1.08, aY: 0.75, gZ: -1.20, timeS: 153089.00, heading_rad: -0.60, heading_deg: -34.65
+RAW: 57, s: 100, aX: 0.86, aY: 1.51, gZ: -1.20, timeS: 153101.00, heading_rad: -0.62, heading_deg: -35.46
+RAW: 58, s: 100, aX: -0.03, aY: -0.02, gZ: -1.20, timeS: 153113.00, heading_rad: -0.63, heading_deg: -36.27
+RAW: 59, s: 100, aX: -0.78, aY: -1.62, gZ: -1.19, timeS: 153125.00, heading_rad: -0.65, heading_deg: -37.08
+RAW: 60, s: 100, aX: -0.28, aY: -0.67, gZ: -1.16, timeS: 153137.00, heading_rad: -0.66, heading_deg: -37.86
+RAW: 61, s: 100, aX: 0.58, aY: -0.00, gZ: -1.19, timeS: 153149.00, heading_rad: -0.67, heading_deg: -38.66
+RAW: 62, s: 100, aX: 0.81, aY: -0.04, gZ: -1.19, timeS: 153161.00, heading_rad: -0.69, heading_deg: -39.46
+RAW: 63, s: 100, aX: 1.33, aY: 0.65, gZ: -1.19, timeS: 153173.00, heading_rad: -0.70, heading_deg: -40.27
+RAW: 64, s: 100, aX: 0.95, aY: 1.25, gZ: -1.17, timeS: 153185.00, heading_rad: -0.72, heading_deg: -41.06
+RAW: 65, s: 100, aX: 0.60, aY: -0.30, gZ: -1.16, timeS: 153197.00, heading_rad: -0.73, heading_deg: -41.85
+RAW: 66, s: 100, aX: -0.24, aY: -0.48, gZ: -1.15, timeS: 153209.00, heading_rad: -0.74, heading_deg: -42.62
+RAW: 67, s: 100, aX: -0.08, aY: -0.61, gZ: -1.16, timeS: 153221.00, heading_rad: -0.76, heading_deg: -43.40
+RAW: 68, s: 100, aX: 0.11, aY: -0.62, gZ: -1.16, timeS: 153233.00, heading_rad: -0.77, heading_deg: -44.18
+RAW: 69, s: 100, aX: 1.17, aY: -0.13, gZ: -1.13, timeS: 153245.00, heading_rad: -0.78, heading_deg: -44.94
+RAW: 70, s: 100, aX: -0.35, aY: -0.14, gZ: -1.17, timeS: 153257.00, heading_rad: -0.80, heading_deg: -45.73
+RAW: 71, s: 100, aX: 1.31, aY: 0.68, gZ: -1.14, timeS: 153269.00, heading_rad: -0.81, heading_deg: -46.50
+RAW: 72, s: 100, aX: 0.29, aY: 0.89, gZ: -1.13, timeS: 153281.00, heading_rad: -0.82, heading_deg: -47.25
+RAW: 73, s: 100, aX: 0.54, aY: -0.06, gZ: -1.08, timeS: 153293.00, heading_rad: -0.84, heading_deg: -47.99
+RAW: 74, s: 100, aX: 0.37, aY: -0.21, gZ: -1.10, timeS: 153305.00, heading_rad: -0.85, heading_deg: -48.73
+RAW: 75, s: 100, aX: -0.10, aY: -0.13, gZ: -1.10, timeS: 153317.00, heading_rad: -0.86, heading_deg: -49.47
+RAW: 76, s: 100, aX: -0.16, aY: 0.02, gZ: -1.10, timeS: 153329.00, heading_rad: -0.88, heading_deg: -50.21
+RAW: 77, s: 100, aX: -0.79, aY: -0.75, gZ: -1.14, timeS: 153341.00, heading_rad: -0.89, heading_deg: -50.97
+RAW: 78, s: 100, aX: 0.82, aY: -0.76, gZ: -1.15, timeS: 153353.00, heading_rad: -0.90, heading_deg: -51.75
+RAW: 79, s: 100, aX: 0.37, aY: 1.17, gZ: -1.10, timeS: 153365.00, heading_rad: -0.92, heading_deg: -52.49
+RAW: 80, s: 100, aX: 1.19, aY: 0.50, gZ: -1.15, timeS: 153377.00, heading_rad: -0.93, heading_deg: -53.26
+RAW: 81, s: 100, aX: 0.80, aY: 0.31, gZ: -1.10, timeS: 153389.00, heading_rad: -0.94, heading_deg: -54.01
+RAW: 82, s: 100, aX: 0.32, aY: -0.06, gZ: -1.09, timeS: 153401.00, heading_rad: -0.96, heading_deg: -54.75
+RAW: 83, s: 100, aX: -0.61, aY: -0.73, gZ: -1.09, timeS: 153413.00, heading_rad: -0.97, heading_deg: -55.48
+RAW: 84, s: 100, aX: 0.15, aY: -0.71, gZ: -1.07, timeS: 153425.00, heading_rad: -0.98, heading_deg: -56.21
+RAW: 85, s: 100, aX: -0.17, aY: -1.47, gZ: -1.07, timeS: 153437.00, heading_rad: -0.99, heading_deg: -56.93
+RAW: 86, s: 100, aX: 0.63, aY: -0.67, gZ: -1.11, timeS: 153449.00, heading_rad: -1.01, heading_deg: -57.67
+RAW: 87, s: 100, aX: 0.50, aY: -0.09, gZ: -1.10, timeS: 153461.00, heading_rad: -1.02, heading_deg: -58.42
+RAW: 88, s: 100, aX: 0.91, aY: 0.33, gZ: -1.09, timeS: 153473.00, heading_rad: -1.03, heading_deg: -59.15
+RAW: 89, s: 100, aX: 0.33, aY: 0.55, gZ: -1.07, timeS: 153485.00, heading_rad: -1.04, heading_deg: -59.87
+RAW: 90, s: 100, aX: 0.25, aY: 0.09, gZ: -1.07, timeS: 153497.00, heading_rad: -1.06, heading_deg: -60.59
+RAW: 91, s: 100, aX: -0.38, aY: -0.21, gZ: -1.08, timeS: 153509.00, heading_rad: -1.07, heading_deg: -61.32
+RAW: 92, s: 100, aX: 0.40, aY: -0.13, gZ: -1.10, timeS: 153521.00, heading_rad: -1.08, heading_deg: -62.06
+RAW: 93, s: 100, aX: -0.23, aY: -0.86, gZ: -1.08, timeS: 153533.00, heading_rad: -1.10, heading_deg: -62.79
+RAW: 94, s: 100, aX: 0.63, aY: -0.41, gZ: -1.08, timeS: 153545.00, heading_rad: -1.11, heading_deg: -63.52
+RAW: 95, s: 100, aX: 0.68, aY: 0.26, gZ: -1.10, timeS: 153557.00, heading_rad: -1.12, heading_deg: -64.25
+RAW: 96, s: 100, aX: 0.07, aY: 0.97, gZ: -1.05, timeS: 153569.00, heading_rad: -1.13, heading_deg: -64.96
+RAW: 97, s: 100, aX: 0.20, aY: -0.09, gZ: -1.07, timeS: 153581.00, heading_rad: -1.15, heading_deg: -65.68
+RAW: 98, s: 100, aX: -0.06, aY: 0.54, gZ: -1.08, timeS: 153593.00, heading_rad: -1.16, heading_deg: -66.41
+RAW: 99, s: 100, aX: -0.25, aY: 0.41, gZ: -1.07, timeS: 153605.00, heading_rad: -1.17, heading_deg: -67.13
+RAW: 100, s: 100, aX: -0.13, aY: -0.17, gZ: -1.10, timeS: 153617.00, heading_rad: -1.18, heading_deg: -67.87
+RAW: 101, s: 100, aX: 0.04, aY: -0.47, gZ: -1.11, timeS: 153629.00, heading_rad: -1.20, heading_deg: -68.62
+RAW: 102, s: 100, aX: -0.32, aY: -0.51, gZ: -1.07, timeS: 153641.00, heading_rad: -1.21, heading_deg: -69.34
+RAW: 103, s: 100, aX: 0.52, aY: -0.54, gZ: -1.07, timeS: 153653.00, heading_rad: -1.22, heading_deg: -70.06
+RAW: 104, s: 100, aX: 0.35, aY: 0.34, gZ: -1.09, timeS: 153665.00, heading_rad: -1.24, heading_deg: -70.79
+RAW: 105, s: 100, aX: 0.92, aY: 1.02, gZ: -1.06, timeS: 153677.00, heading_rad: -1.25, heading_deg: -71.50
+RAW: 106, s: 100, aX: 0.51, aY: 0.89, gZ: -1.07, timeS: 153689.00, heading_rad: -1.26, heading_deg: -72.22
+RAW: 107, s: 100, aX: 0.47, aY: 0.15, gZ: -1.10, timeS: 153701.00, heading_rad: -1.27, heading_deg: -72.96
+RAW: 108, s: 100, aX: 0.53, aY: 0.06, gZ: -1.12, timeS: 153713.00, heading_rad: -1.29, heading_deg: -73.72
+RAW: 109, s: 100, aX: -0.04, aY: -0.71, gZ: -1.08, timeS: 153725.00, heading_rad: -1.30, heading_deg: -74.44
+RAW: 110, s: 100, aX: 0.31, aY: -1.12, gZ: -1.09, timeS: 153737.00, heading_rad: -1.31, heading_deg: -75.18
+RAW: 111, s: 100, aX: 0.54, aY: -0.63, gZ: -1.10, timeS: 153749.00, heading_rad: -1.33, heading_deg: -75.92
+RAW: 112, s: 100, aX: 0.75, aY: 0.04, gZ: -1.08, timeS: 153761.00, heading_rad: -1.34, heading_deg: -76.65
+RAW: 113, s: 100, aX: 0.99, aY: 0.64, gZ: -1.09, timeS: 153773.00, heading_rad: -1.35, heading_deg: -77.38
+RAW: 114, s: 100, aX: 0.49, aY: 0.57, gZ: -1.11, timeS: 153785.00, heading_rad: -1.36, heading_deg: -78.13
+RAW: 115, s: 100, aX: 0.47, aY: 0.61, gZ: -1.10, timeS: 153797.00, heading_rad: -1.38, heading_deg: -78.87
+RAW: 116, s: 100, aX: -0.99, aY: -0.31, gZ: -1.11, timeS: 153809.00, heading_rad: -1.39, heading_deg: -79.62
+RAW: 117, s: 100, aX: -0.44, aY: -0.59, gZ: -1.11, timeS: 153821.00, heading_rad: -1.40, heading_deg: -80.37
+RAW: 118, s: 100, aX: -0.18, aY: -0.23, gZ: -1.09, timeS: 153833.00, heading_rad: -1.42, heading_deg: -81.10
+RAW: 119, s: 100, aX: 0.45, aY: -0.01, gZ: -1.08, timeS: 153845.00, heading_rad: -1.43, heading_deg: -81.82
+RAW: 120, s: 100, aX: 0.92, aY: 0.11, gZ: -1.10, timeS: 153857.00, heading_rad: -1.44, heading_deg: -82.57
+RAW: 121, s: 100, aX: 0.82, aY: 0.19, gZ: -1.08, timeS: 153869.00, heading_rad: -1.45, heading_deg: -83.30
+RAW: 122, s: 100, aX: 0.31, aY: -0.05, gZ: -1.09, timeS: 153881.00, heading_rad: -1.47, heading_deg: -84.03
+RAW: 123, s: 100, aX: -0.56, aY: -0.24, gZ: -1.07, timeS: 153893.00, heading_rad: -1.48, heading_deg: -84.75
+RAW: 124, s: 100, aX: 0.51, aY: -0.20, gZ: -1.08, timeS: 153905.00, heading_rad: -1.49, heading_deg: -85.48
+RAW: 125, s: 100, aX: 0.34, aY: 0.09, gZ: -1.07, timeS: 153917.00, heading_rad: -1.50, heading_deg: -86.19
+RAW: 126, s: 100, aX: 0.23, aY: -0.28, gZ: -1.10, timeS: 153929.00, heading_rad: -1.52, heading_deg: -86.93
+RAW: 127, s: 100, aX: -0.23, aY: 0.33, gZ: -1.07, timeS: 153941.00, heading_rad: -1.53, heading_deg: -87.65
+RAW: 128, s: 100, aX: 0.78, aY: 0.06, gZ: -1.09, timeS: 153953.00, heading_rad: -1.54, heading_deg: -88.39
+RAW: 129, s: 100, aX: -0.17, aY: -0.46, gZ: -1.07, timeS: 153965.00, heading_rad: -1.56, heading_deg: -89.11
+RAW: 130, s: 100, aX: -0.40, aY: -0.51, gZ: -1.07, timeS: 153968.00, heading_rad: -1.56, heading_deg: -89.29
+RAW: 131, s: 100, aX: 0.70, aY: 0.22, gZ: -0.97, timeS: 153980.00, heading_rad: -1.57, heading_deg: -89.95
+RAW: 132, s: 100, aX: 0.08, aY: 1.63, gZ: -0.59, timeS: 153992.00, heading_rad: -1.58, heading_deg: -90.34
+RAW: 133, s: 100, aX: 0.59, aY: 1.53, gZ: -0.15, timeS: 154004.00, heading_rad: -1.58, heading_deg: -90.43
+Heading 275.76, deg
+30, 119
+35, 120
+40, 118
+45, 120
+50, 118
+55, 122
+60, 183
+65, 183
+70, 182
+75, 180
+80, 182
+85, 182
+90, 183
+95, 0
+100, 0
+105, 0
+110, 0
+115, 0
+120, 0
+125, 0
+130, 0
+135, 0
+140, 0
+145, 0
+150, 0
+150, 0
+145, 0
+140, 0
+135, 0
+130, 0
+125, 0
+120, 0
+115, 0
+110, 0
+105, 0
+100, 0
+95, 0
+90, 0
+85, 183
+80, 183
+75, 178
+70, 182
+65, 182
+30, 119
+35, 119
+40, 117
+45, 117
+50, 119
+55, 125
+60, 123
+65, 184
+70, 183
+75, 183
+80, 180
+85, 184
+90, 183
+95, 0
+100, 0
+105, 0
+110, 0
+115, 0
+120, 0
+125, 0
+130, 0
+135, 0
+140, 0
+145, 0
+150, 0
+150, 0
+145, 0
+140, 0
+135, 0
+130, 0
+125, 0
+120, 0
+115, 0
+110, 0
+105, 0
+100, 0
+95, 0
+90, 0
+85, 184
+80, 183
+75, 181
+70, 181
+65, 183
+60, 0
+30, 117
+35, 119
+40, 117
+45, 119
+50, 119
+55, 119
+60, 0
+65, 184
+70, 182
+75, 182
+80, 183
+85, 184
+90, 183
+95, 0
+100, 0
+105, 0
+110, 0
+115, 0
+120, 0
+125, 0
+130, 0
+135, 0
+140, 0
+145, 0
+150, 0
+150, 0
+145, 0
+140, 0
+135, 0
+130, 0
+125, 0
+120, 0
+115, 0
+110, 0
+105, 0
+100, 0
+95, 0
+90, 0
+85, 183
+80, 182
+75, 178
+70, 182
+RAW: 0, s: 50, aX: 0.28, aY: 0.02, gZ: -0.02, timeS: 169207.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 1, s: 55, aX: 0.55, aY: 0.12, gZ: -0.03, timeS: 169219.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 2, s: 60, aX: 0.29, aY: -0.19, gZ: -0.10, timeS: 169231.00, heading_rad: -0.00, heading_deg: -0.05
+RAW: 3, s: 65, aX: -0.15, aY: 0.49, gZ: -0.03, timeS: 169243.00, heading_rad: -0.00, heading_deg: -0.05
+RAW: 4, s: 70, aX: 0.04, aY: 0.65, gZ: 0.03, timeS: 169255.00, heading_rad: -0.00, heading_deg: -0.01
+RAW: 5, s: 75, aX: 0.00, aY: -0.22, gZ: 0.00, timeS: 169267.00, heading_rad: -0.00, heading_deg: -0.01
+RAW: 6, s: 80, aX: 0.25, aY: -0.38, gZ: -0.05, timeS: 169279.00, heading_rad: -0.00, heading_deg: -0.04
+RAW: 7, s: 85, aX: 0.62, aY: -0.12, gZ: -0.05, timeS: 169291.00, heading_rad: -0.00, heading_deg: -0.04
+RAW: 8, s: 90, aX: 0.90, aY: 0.05, gZ: -0.01, timeS: 169303.00, heading_rad: -0.00, heading_deg: -0.04
+RAW: 9, s: 95, aX: 0.76, aY: -0.52, gZ: -0.07, timeS: 169315.00, heading_rad: -0.00, heading_deg: -0.07
+RAW: 10, s: 100, aX: 0.13, aY: -0.39, gZ: -0.24, timeS: 169327.00, heading_rad: -0.00, heading_deg: -0.22
+RAW: 11, s: 100, aX: -0.81, aY: -1.27, gZ: -0.39, timeS: 169339.00, heading_rad: -0.01, heading_deg: -0.47
+RAW: 12, s: 100, aX: 0.59, aY: -0.27, gZ: -0.53, timeS: 169351.00, heading_rad: -0.01, heading_deg: -0.82
+RAW: 13, s: 100, aX: -0.46, aY: -0.73, gZ: -0.66, timeS: 169363.00, heading_rad: -0.02, heading_deg: -1.26
+RAW: 14, s: 100, aX: 0.31, aY: 0.28, gZ: -0.72, timeS: 169375.00, heading_rad: -0.03, heading_deg: -1.74
+RAW: 15, s: 100, aX: 1.00, aY: 0.13, gZ: -0.76, timeS: 169387.00, heading_rad: -0.04, heading_deg: -2.25
+RAW: 16, s: 100, aX: 0.79, aY: 1.15, gZ: -0.77, timeS: 169399.00, heading_rad: -0.05, heading_deg: -2.76
+RAW: 17, s: 100, aX: 0.23, aY: -0.20, gZ: -0.81, timeS: 169411.00, heading_rad: -0.06, heading_deg: -3.30
+RAW: 18, s: 100, aX: 0.30, aY: -0.03, gZ: -0.88, timeS: 169423.00, heading_rad: -0.07, heading_deg: -3.89
+RAW: 19, s: 100, aX: -0.68, aY: -0.09, gZ: -0.87, timeS: 169435.00, heading_rad: -0.08, heading_deg: -4.47
+RAW: 20, s: 100, aX: 0.08, aY: 0.10, gZ: -0.87, timeS: 169447.00, heading_rad: -0.09, heading_deg: -5.06
+RAW: 21, s: 100, aX: -0.03, aY: -0.86, gZ: -0.92, timeS: 169459.00, heading_rad: -0.10, heading_deg: -5.67
+RAW: 22, s: 100, aX: 0.02, aY: -0.74, gZ: -0.93, timeS: 169471.00, heading_rad: -0.11, heading_deg: -6.30
+RAW: 23, s: 100, aX: 1.30, aY: 0.48, gZ: -0.90, timeS: 169483.00, heading_rad: -0.12, heading_deg: -6.90
+RAW: 24, s: 100, aX: 0.95, aY: 0.82, gZ: -0.92, timeS: 169495.00, heading_rad: -0.13, heading_deg: -7.52
+RAW: 25, s: 100, aX: 1.01, aY: 0.44, gZ: -0.92, timeS: 169507.00, heading_rad: -0.14, heading_deg: -8.14
+RAW: 26, s: 100, aX: 0.17, aY: 0.13, gZ: -0.91, timeS: 169519.00, heading_rad: -0.15, heading_deg: -8.75
+RAW: 27, s: 100, aX: -0.31, aY: 0.50, gZ: -0.93, timeS: 169531.00, heading_rad: -0.16, heading_deg: -9.37
+RAW: 28, s: 100, aX: 0.14, aY: -0.33, gZ: -0.95, timeS: 169543.00, heading_rad: -0.17, heading_deg: -10.01
+RAW: 29, s: 100, aX: -0.56, aY: -0.62, gZ: -0.93, timeS: 169555.00, heading_rad: -0.19, heading_deg: -10.64
+RAW: 30, s: 100, aX: -0.25, aY: -0.14, gZ: -0.93, timeS: 169567.00, heading_rad: -0.20, heading_deg: -11.26
+RAW: 31, s: 100, aX: 1.31, aY: 0.57, gZ: -0.94, timeS: 169579.00, heading_rad: -0.21, heading_deg: -11.90
+RAW: 32, s: 100, aX: 0.78, aY: 0.16, gZ: -0.97, timeS: 169591.00, heading_rad: -0.22, heading_deg: -12.55
+RAW: 33, s: 100, aX: 0.55, aY: 0.10, gZ: -0.94, timeS: 169603.00, heading_rad: -0.23, heading_deg: -13.18
+RAW: 34, s: 100, aX: 1.09, aY: 0.51, gZ: -0.96, timeS: 169615.00, heading_rad: -0.24, heading_deg: -13.83
+RAW: 35, s: 100, aX: 0.16, aY: 0.40, gZ: -0.98, timeS: 169627.00, heading_rad: -0.25, heading_deg: -14.49
+RAW: 36, s: 100, aX: -0.04, aY: 0.02, gZ: -0.98, timeS: 169639.00, heading_rad: -0.26, heading_deg: -15.14
+RAW: 37, s: 100, aX: -0.57, aY: -0.98, gZ: -0.96, timeS: 169651.00, heading_rad: -0.28, heading_deg: -15.79
+RAW: 38, s: 100, aX: -0.34, aY: -0.73, gZ: -0.96, timeS: 169663.00, heading_rad: -0.29, heading_deg: -16.44
+RAW: 39, s: 100, aX: 0.86, aY: 0.33, gZ: -0.97, timeS: 169675.00, heading_rad: -0.30, heading_deg: -17.08
+RAW: 40, s: 100, aX: -0.17, aY: -0.27, gZ: -0.97, timeS: 169687.00, heading_rad: -0.31, heading_deg: -17.74
+RAW: 41, s: 100, aX: 1.07, aY: -0.23, gZ: -1.01, timeS: 169699.00, heading_rad: -0.32, heading_deg: -18.42
+RAW: 42, s: 100, aX: 0.90, aY: 0.86, gZ: -0.99, timeS: 169711.00, heading_rad: -0.33, heading_deg: -19.09
+RAW: 43, s: 100, aX: 0.37, aY: 0.48, gZ: -0.99, timeS: 169723.00, heading_rad: -0.34, heading_deg: -19.75
+RAW: 44, s: 100, aX: -0.94, aY: 0.12, gZ: -1.01, timeS: 169735.00, heading_rad: -0.36, heading_deg: -20.43
+RAW: 45, s: 100, aX: -0.50, aY: -0.35, gZ: -0.97, timeS: 169747.00, heading_rad: -0.37, heading_deg: -21.08
+RAW: 46, s: 100, aX: 0.08, aY: -0.95, gZ: -0.96, timeS: 169759.00, heading_rad: -0.38, heading_deg: -21.73
+RAW: 47, s: 100, aX: 0.21, aY: -0.52, gZ: -0.97, timeS: 169771.00, heading_rad: -0.39, heading_deg: -22.38
+RAW: 48, s: 100, aX: 0.16, aY: 0.16, gZ: -0.95, timeS: 169783.00, heading_rad: -0.40, heading_deg: -23.01
+RAW: 49, s: 100, aX: 1.32, aY: -0.19, gZ: -0.96, timeS: 169795.00, heading_rad: -0.41, heading_deg: -23.66
+RAW: 50, s: 100, aX: 0.55, aY: 0.63, gZ: -1.01, timeS: 169807.00, heading_rad: -0.42, heading_deg: -24.34
+RAW: 51, s: 100, aX: 0.00, aY: 0.38, gZ: -1.03, timeS: 169819.00, heading_rad: -0.44, heading_deg: -25.03
+RAW: 52, s: 100, aX: 0.45, aY: 0.07, gZ: -0.99, timeS: 169831.00, heading_rad: -0.45, heading_deg: -25.69
+RAW: 53, s: 100, aX: -0.14, aY: -0.63, gZ: -0.98, timeS: 169843.00, heading_rad: -0.46, heading_deg: -26.35
+RAW: 54, s: 100, aX: 0.22, aY: -0.62, gZ: -0.97, timeS: 169855.00, heading_rad: -0.47, heading_deg: -27.00
+RAW: 55, s: 100, aX: 0.44, aY: -0.25, gZ: -0.96, timeS: 169867.00, heading_rad: -0.48, heading_deg: -27.65
+RAW: 56, s: 100, aX: 0.63, aY: 0.03, gZ: -0.95, timeS: 169879.00, heading_rad: -0.49, heading_deg: -28.29
+RAW: 57, s: 100, aX: 1.18, aY: 0.14, gZ: -0.95, timeS: 169891.00, heading_rad: -0.50, heading_deg: -28.93
+RAW: 58, s: 100, aX: 1.23, aY: 0.16, gZ: -1.00, timeS: 169903.00, heading_rad: -0.52, heading_deg: -29.60
+RAW: 59, s: 100, aX: -0.45, aY: 0.49, gZ: -1.00, timeS: 169915.00, heading_rad: -0.53, heading_deg: -30.27
+RAW: 60, s: 100, aX: 0.66, aY: 0.06, gZ: -0.98, timeS: 169927.00, heading_rad: -0.54, heading_deg: -30.93
+RAW: 61, s: 100, aX: -1.13, aY: 0.31, gZ: -0.97, timeS: 169939.00, heading_rad: -0.55, heading_deg: -31.58
+RAW: 62, s: 100, aX: 0.03, aY: -0.60, gZ: -0.96, timeS: 169951.00, heading_rad: -0.56, heading_deg: -32.23
+RAW: 63, s: 100, aX: 0.18, aY: 0.13, gZ: -0.98, timeS: 169963.00, heading_rad: -0.57, heading_deg: -32.88
+RAW: 64, s: 100, aX: 0.70, aY: -0.36, gZ: -0.98, timeS: 169975.00, heading_rad: -0.59, heading_deg: -33.54
+RAW: 65, s: 100, aX: 0.51, aY: 0.00, gZ: -1.02, timeS: 169987.00, heading_rad: -0.60, heading_deg: -34.22
+RAW: 66, s: 100, aX: -0.06, aY: 0.42, gZ: -0.99, timeS: 169999.00, heading_rad: -0.61, heading_deg: -34.89
+RAW: 67, s: 100, aX: 0.93, aY: 1.02, gZ: -0.98, timeS: 170011.00, heading_rad: -0.62, heading_deg: -35.55
+RAW: 68, s: 100, aX: -0.40, aY: 0.10, gZ: -0.97, timeS: 170023.00, heading_rad: -0.63, heading_deg: -36.20
+RAW: 69, s: 100, aX: 0.58, aY: 0.46, gZ: -0.95, timeS: 170035.00, heading_rad: -0.64, heading_deg: -36.84
+RAW: 70, s: 100, aX: -0.28, aY: -0.08, gZ: -0.97, timeS: 170047.00, heading_rad: -0.65, heading_deg: -37.50
+RAW: 71, s: 100, aX: 0.52, aY: -0.31, gZ: -1.01, timeS: 170059.00, heading_rad: -0.67, heading_deg: -38.18
+RAW: 72, s: 100, aX: 0.59, aY: -0.17, gZ: -1.02, timeS: 170071.00, heading_rad: -0.68, heading_deg: -38.87
+RAW: 73, s: 100, aX: 0.03, aY: -0.13, gZ: -1.01, timeS: 170083.00, heading_rad: -0.69, heading_deg: -39.55
+RAW: 74, s: 100, aX: -0.50, aY: 0.15, gZ: -1.00, timeS: 170095.00, heading_rad: -0.70, heading_deg: -40.23
+RAW: 75, s: 100, aX: 1.56, aY: 0.20, gZ: -0.96, timeS: 170107.00, heading_rad: -0.71, heading_deg: -40.87
+RAW: 76, s: 100, aX: -0.93, aY: -0.24, gZ: -0.92, timeS: 170119.00, heading_rad: -0.72, heading_deg: -41.49
+RAW: 77, s: 100, aX: 0.65, aY: 0.19, gZ: -0.92, timeS: 170131.00, heading_rad: -0.73, heading_deg: -42.11
+RAW: 78, s: 100, aX: -0.80, aY: 0.01, gZ: -0.91, timeS: 170143.00, heading_rad: -0.75, heading_deg: -42.72
+RAW: 79, s: 100, aX: 0.62, aY: 0.33, gZ: -0.94, timeS: 170155.00, heading_rad: -0.76, heading_deg: -43.35
+RAW: 80, s: 100, aX: 0.06, aY: -0.21, gZ: -0.94, timeS: 170167.00, heading_rad: -0.77, heading_deg: -43.98
+RAW: 81, s: 100, aX: 0.43, aY: -0.06, gZ: -0.96, timeS: 170179.00, heading_rad: -0.78, heading_deg: -44.62
+RAW: 82, s: 100, aX: 0.41, aY: 0.68, gZ: -0.89, timeS: 170191.00, heading_rad: -0.79, heading_deg: -45.22
+RAW: 83, s: 100, aX: -0.46, aY: -0.31, gZ: -0.88, timeS: 170203.00, heading_rad: -0.80, heading_deg: -45.81
+RAW: 84, s: 100, aX: 0.68, aY: 0.16, gZ: -0.86, timeS: 170215.00, heading_rad: -0.81, heading_deg: -46.38
+RAW: 85, s: 100, aX: -0.12, aY: 0.38, gZ: -0.80, timeS: 170227.00, heading_rad: -0.82, heading_deg: -46.92
+RAW: 86, s: 100, aX: -0.28, aY: 0.36, gZ: -0.71, timeS: 170239.00, heading_rad: -0.83, heading_deg: -47.39
+RAW: 87, s: 100, aX: -1.05, aY: 0.56, gZ: -0.67, timeS: 170251.00, heading_rad: -0.83, heading_deg: -47.83
+RAW: 88, s: 100, aX: 1.01, aY: -0.31, gZ: -0.66, timeS: 170263.00, heading_rad: -0.84, heading_deg: -48.27
+RAW: 89, s: 100, aX: -0.60, aY: -0.49, gZ: -0.70, timeS: 170275.00, heading_rad: -0.85, heading_deg: -48.74
+RAW: 90, s: 100, aX: 1.41, aY: -0.42, gZ: -0.73, timeS: 170287.00, heading_rad: -0.86, heading_deg: -49.22
+RAW: 91, s: 100, aX: 0.32, aY: -0.03, gZ: -0.75, timeS: 170299.00, heading_rad: -0.87, heading_deg: -49.72
+RAW: 92, s: 100, aX: 0.57, aY: 0.46, gZ: -0.76, timeS: 170311.00, heading_rad: -0.88, heading_deg: -50.23
+RAW: 93, s: 100, aX: 0.41, aY: 0.55, gZ: -0.81, timeS: 170323.00, heading_rad: -0.89, heading_deg: -50.77
+RAW: 94, s: 100, aX: 0.31, aY: 0.90, gZ: -0.84, timeS: 170335.00, heading_rad: -0.90, heading_deg: -51.34
+RAW: 95, s: 100, aX: -1.04, aY: -0.70, gZ: -0.84, timeS: 170347.00, heading_rad: -0.91, heading_deg: -51.90
+RAW: 96, s: 100, aX: 0.84, aY: -0.40, gZ: -0.86, timeS: 170359.00, heading_rad: -0.92, heading_deg: -52.48
+RAW: 97, s: 100, aX: -0.03, aY: -0.72, gZ: -0.85, timeS: 170371.00, heading_rad: -0.93, heading_deg: -53.05
+RAW: 98, s: 100, aX: 0.15, aY: 0.18, gZ: -0.82, timeS: 170383.00, heading_rad: -0.94, heading_deg: -53.60
+RAW: 99, s: 100, aX: 0.68, aY: 0.70, gZ: -0.78, timeS: 170395.00, heading_rad: -0.94, heading_deg: -54.12
+RAW: 100, s: 100, aX: 1.10, aY: 0.11, gZ: -0.78, timeS: 170407.00, heading_rad: -0.95, heading_deg: -54.65
+RAW: 101, s: 100, aX: -0.15, aY: -0.80, gZ: -0.85, timeS: 170419.00, heading_rad: -0.96, heading_deg: -55.22
+RAW: 102, s: 100, aX: 1.23, aY: 0.59, gZ: -0.89, timeS: 170431.00, heading_rad: -0.97, heading_deg: -55.82
+RAW: 103, s: 100, aX: -1.30, aY: -0.21, gZ: -0.89, timeS: 170443.00, heading_rad: -0.98, heading_deg: -56.41
+RAW: 104, s: 100, aX: 0.16, aY: -0.01, gZ: -0.91, timeS: 170455.00, heading_rad: -1.00, heading_deg: -57.02
+RAW: 105, s: 100, aX: 0.10, aY: -0.46, gZ: -0.90, timeS: 170467.00, heading_rad: -1.01, heading_deg: -57.62
+RAW: 106, s: 100, aX: -0.11, aY: -0.04, gZ: -0.85, timeS: 170479.00, heading_rad: -1.02, heading_deg: -58.19
+RAW: 107, s: 100, aX: 1.86, aY: 0.21, gZ: -0.84, timeS: 170491.00, heading_rad: -1.03, heading_deg: -58.75
+RAW: 108, s: 100, aX: 0.38, aY: 0.62, gZ: -0.86, timeS: 170503.00, heading_rad: -1.04, heading_deg: -59.33
+RAW: 109, s: 100, aX: 1.20, aY: 0.71, gZ: -0.84, timeS: 170515.00, heading_rad: -1.05, heading_deg: -59.89
+RAW: 110, s: 100, aX: 0.29, aY: -0.50, gZ: -0.84, timeS: 170527.00, heading_rad: -1.06, heading_deg: -60.46
+RAW: 111, s: 100, aX: -0.08, aY: 0.12, gZ: -0.86, timeS: 170539.00, heading_rad: -1.07, heading_deg: -61.04
+RAW: 112, s: 100, aX: -0.26, aY: -0.11, gZ: -0.86, timeS: 170551.00, heading_rad: -1.08, heading_deg: -61.62
+RAW: 113, s: 100, aX: -0.18, aY: -0.27, gZ: -0.86, timeS: 170563.00, heading_rad: -1.09, heading_deg: -62.19
+RAW: 114, s: 100, aX: 0.15, aY: 0.30, gZ: -0.89, timeS: 170575.00, heading_rad: -1.10, heading_deg: -62.79
+RAW: 115, s: 100, aX: 1.00, aY: 0.23, gZ: -0.88, timeS: 170587.00, heading_rad: -1.11, heading_deg: -63.38
+RAW: 116, s: 100, aX: 0.19, aY: -0.09, gZ: -0.88, timeS: 170599.00, heading_rad: -1.12, heading_deg: -63.98
+RAW: 117, s: 100, aX: 0.77, aY: 0.09, gZ: -0.90, timeS: 170611.00, heading_rad: -1.13, heading_deg: -64.58
+RAW: 118, s: 100, aX: 0.72, aY: 0.23, gZ: -0.88, timeS: 170623.00, heading_rad: -1.14, heading_deg: -65.17
+RAW: 119, s: 100, aX: -0.17, aY: 0.16, gZ: -0.89, timeS: 170635.00, heading_rad: -1.15, heading_deg: -65.76
+RAW: 120, s: 100, aX: 0.11, aY: -0.28, gZ: -0.90, timeS: 170647.00, heading_rad: -1.16, heading_deg: -66.36
+RAW: 121, s: 100, aX: -0.53, aY: 0.10, gZ: -0.87, timeS: 170659.00, heading_rad: -1.17, heading_deg: -66.95
+RAW: 122, s: 100, aX: 0.53, aY: -0.42, gZ: -0.89, timeS: 170671.00, heading_rad: -1.18, heading_deg: -67.55
+RAW: 123, s: 100, aX: 0.59, aY: 0.08, gZ: -0.86, timeS: 170683.00, heading_rad: -1.19, heading_deg: -68.12
+RAW: 124, s: 100, aX: 0.69, aY: -0.11, gZ: -0.85, timeS: 170695.00, heading_rad: -1.20, heading_deg: -68.69
+RAW: 125, s: 100, aX: 0.14, aY: 0.08, gZ: -0.84, timeS: 170707.00, heading_rad: -1.21, heading_deg: -69.25
+RAW: 126, s: 100, aX: 0.26, aY: 0.16, gZ: -0.85, timeS: 170719.00, heading_rad: -1.22, heading_deg: -69.83
+RAW: 127, s: 100, aX: -0.41, aY: -0.02, gZ: -0.91, timeS: 170731.00, heading_rad: -1.23, heading_deg: -70.44
+RAW: 128, s: 100, aX: -1.09, aY: -0.23, gZ: -0.95, timeS: 170743.00, heading_rad: -1.24, heading_deg: -71.07
+RAW: 129, s: 100, aX: -0.07, aY: -0.35, gZ: -0.97, timeS: 170755.00, heading_rad: -1.25, heading_deg: -71.72
+RAW: 130, s: 100, aX: -0.20, aY: -0.50, gZ: -0.96, timeS: 170767.00, heading_rad: -1.26, heading_deg: -72.37
+RAW: 131, s: 100, aX: 0.77, aY: 0.02, gZ: -0.97, timeS: 170779.00, heading_rad: -1.27, heading_deg: -73.03
+RAW: 132, s: 100, aX: 1.36, aY: 0.35, gZ: -0.99, timeS: 170791.00, heading_rad: -1.29, heading_deg: -73.69
+RAW: 133, s: 100, aX: 0.22, aY: 0.52, gZ: -0.97, timeS: 170803.00, heading_rad: -1.30, heading_deg: -74.34
+RAW: 134, s: 100, aX: 1.07, aY: 0.59, gZ: -0.97, timeS: 170815.00, heading_rad: -1.31, heading_deg: -75.00
+RAW: 135, s: 100, aX: -0.01, aY: 0.07, gZ: -0.97, timeS: 170827.00, heading_rad: -1.32, heading_deg: -75.65
+RAW: 136, s: 100, aX: -0.68, aY: -0.26, gZ: -1.00, timeS: 170839.00, heading_rad: -1.33, heading_deg: -76.32
+RAW: 137, s: 100, aX: -0.30, aY: -0.56, gZ: -1.02, timeS: 170851.00, heading_rad: -1.34, heading_deg: -77.00
+RAW: 138, s: 100, aX: -0.01, aY: -0.22, gZ: -1.02, timeS: 170863.00, heading_rad: -1.36, heading_deg: -77.69
+RAW: 139, s: 100, aX: 0.47, aY: -0.60, gZ: -1.04, timeS: 170875.00, heading_rad: -1.37, heading_deg: -78.39
+RAW: 140, s: 100, aX: 0.34, aY: -0.64, gZ: -1.01, timeS: 170887.00, heading_rad: -1.38, heading_deg: -79.07
+RAW: 141, s: 100, aX: 0.79, aY: 0.52, gZ: -1.05, timeS: 170899.00, heading_rad: -1.39, heading_deg: -79.77
+RAW: 142, s: 100, aX: 0.45, aY: 0.40, gZ: -1.04, timeS: 170911.00, heading_rad: -1.40, heading_deg: -80.47
+RAW: 143, s: 100, aX: 0.25, aY: 0.57, gZ: -1.03, timeS: 170923.00, heading_rad: -1.42, heading_deg: -81.17
+RAW: 144, s: 100, aX: -0.79, aY: -0.08, gZ: -1.03, timeS: 170935.00, heading_rad: -1.43, heading_deg: -81.86
+RAW: 145, s: 100, aX: 0.09, aY: -0.72, gZ: -1.04, timeS: 170947.00, heading_rad: -1.44, heading_deg: -82.56
+RAW: 146, s: 100, aX: -0.18, aY: -0.43, gZ: -1.02, timeS: 170959.00, heading_rad: -1.45, heading_deg: -83.25
+RAW: 147, s: 100, aX: 0.92, aY: -0.60, gZ: -1.04, timeS: 170971.00, heading_rad: -1.47, heading_deg: -83.95
+RAW: 148, s: 100, aX: 0.05, aY: -0.62, gZ: -1.03, timeS: 170983.00, heading_rad: -1.48, heading_deg: -84.65
+RAW: 149, s: 100, aX: 1.00, aY: 0.29, gZ: -1.03, timeS: 170995.00, heading_rad: -1.49, heading_deg: -85.34
+RAW: 150, s: 100, aX: 0.20, aY: 0.23, gZ: -1.05, timeS: 171007.00, heading_rad: -1.50, heading_deg: -86.04
+RAW: 151, s: 100, aX: 0.01, aY: 0.69, gZ: -1.06, timeS: 171019.00, heading_rad: -1.51, heading_deg: -86.76
+RAW: 152, s: 100, aX: 0.28, aY: 0.28, gZ: -1.04, timeS: 171031.00, heading_rad: -1.53, heading_deg: -87.46
+RAW: 153, s: 100, aX: -0.07, aY: -0.12, gZ: -1.05, timeS: 171043.00, heading_rad: -1.54, heading_deg: -88.17
+RAW: 154, s: 100, aX: -0.02, aY: -0.28, gZ: -1.08, timeS: 171055.00, heading_rad: -1.55, heading_deg: -88.89
+RAW: 155, s: 100, aX: -0.03, aY: -0.97, gZ: -1.05, timeS: 171067.00, heading_rad: -1.56, heading_deg: -89.60
+RAW: 156, s: 100, aX: 0.18, aY: -0.68, gZ: -1.04, timeS: 171070.00, heading_rad: -1.57, heading_deg: -89.77
+RAW: 157, s: 100, aX: -0.08, aY: 0.13, gZ: -0.98, timeS: 171082.00, heading_rad: -1.58, heading_deg: -90.43
+RAW: 158, s: 100, aX: 0.38, aY: 0.96, gZ: -0.59, timeS: 171094.00, heading_rad: -1.59, heading_deg: -90.82
+RAW: 159, s: 100, aX: -0.11, aY: 0.96, gZ: -0.22, timeS: 171106.00, heading_rad: -1.59, heading_deg: -90.95
+Heading 184.80, deg
+30, 82
+35, 0
+40, 0
+45, 175
+50, 166
+55, 164
+60, 163
+65, 162
+70, 163
+75, 164
+80, 164
+85, 164
+90, 163
+95, 164
+100, 163
+105, 163
+110, 164
+115, 164
+120, 121
+125, 120
+130, 120
+135, 119
+140, 121
+145, 119
+150, 119
+150, 119
+145, 119
+140, 118
+135, 119
+130, 119
+125, 119
+120, 120
+115, 121
+110, 121
+105, 163
+100, 163
+95, 162
+90, 163
+30, 81
+35, 0
+40, 0
+45, 175
+50, 166
+55, 166
+60, 164
+65, 163
+70, 165
+75, 163
+80, 166
+85, 164
+90, 163
+95, 163
+100, 163
+105, 163
+110, 164
+115, 164
+120, 121
+125, 122
+130, 120
+135, 121
+140, 119
+145, 118
+150, 118
+150, 120
+145, 120
+140, 120
+135, 119
+130, 120
+125, 119
+120, 120
+115, 120
+110, 122
+105, 164
+100, 163
+95, 162
+90, 164
+RAW: 0, s: 50, aX: 0.22, aY: 0.03, gZ: -0.02, timeS: 184156.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 1, s: 55, aX: 0.12, aY: 0.11, gZ: -0.02, timeS: 184168.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 2, s: 60, aX: -0.00, aY: 0.11, gZ: -0.04, timeS: 184180.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 3, s: 65, aX: 0.02, aY: -0.06, gZ: -0.02, timeS: 184192.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 4, s: 70, aX: 0.34, aY: -0.37, gZ: -0.01, timeS: 184204.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 5, s: 75, aX: 0.54, aY: -0.16, gZ: -0.02, timeS: 184216.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 6, s: 80, aX: 0.64, aY: 0.10, gZ: -0.04, timeS: 184228.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 7, s: 85, aX: 0.48, aY: 0.36, gZ: -0.02, timeS: 184240.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 8, s: 90, aX: 0.11, aY: 0.41, gZ: -0.02, timeS: 184252.00, heading_rad: 0.00, heading_deg: 0.00
+RAW: 9, s: 95, aX: -0.15, aY: -0.49, gZ: -0.08, timeS: 184264.00, heading_rad: -0.00, heading_deg: -0.04
+RAW: 10, s: 100, aX: -0.20, aY: -1.63, gZ: -0.19, timeS: 184276.00, heading_rad: -0.00, heading_deg: -0.16
+RAW: 11, s: 100, aX: -1.09, aY: -0.07, gZ: -0.15, timeS: 184288.00, heading_rad: -0.00, heading_deg: -0.24
+RAW: 12, s: 100, aX: 1.20, aY: 1.32, gZ: -0.26, timeS: 184300.00, heading_rad: -0.01, heading_deg: -0.41
+RAW: 13, s: 100, aX: -0.16, aY: -1.72, gZ: -0.46, timeS: 184312.00, heading_rad: -0.01, heading_deg: -0.71
+RAW: 14, s: 100, aX: 0.80, aY: -0.95, gZ: -0.60, timeS: 184324.00, heading_rad: -0.02, heading_deg: -1.11
+RAW: 15, s: 100, aX: 0.29, aY: 0.10, gZ: -0.63, timeS: 184336.00, heading_rad: -0.03, heading_deg: -1.53
+RAW: 16, s: 100, aX: 0.64, aY: 1.19, gZ: -0.76, timeS: 184348.00, heading_rad: -0.04, heading_deg: -2.04
+RAW: 17, s: 100, aX: -0.18, aY: 0.55, gZ: -0.86, timeS: 184360.00, heading_rad: -0.05, heading_deg: -2.61
+RAW: 18, s: 100, aX: -0.31, aY: -0.12, gZ: -0.93, timeS: 184372.00, heading_rad: -0.06, heading_deg: -3.24
+RAW: 19, s: 100, aX: -0.34, aY: -0.61, gZ: -0.97, timeS: 184384.00, heading_rad: -0.07, heading_deg: -3.89
+RAW: 20, s: 100, aX: 0.04, aY: -0.63, gZ: -1.03, timeS: 184396.00, heading_rad: -0.08, heading_deg: -4.58
+RAW: 21, s: 100, aX: 0.72, aY: 0.30, gZ: -1.05, timeS: 184408.00, heading_rad: -0.09, heading_deg: -5.29
+RAW: 22, s: 100, aX: 0.13, aY: 0.60, gZ: -1.05, timeS: 184420.00, heading_rad: -0.10, heading_deg: -6.00
+RAW: 23, s: 100, aX: 0.66, aY: -0.41, gZ: -1.04, timeS: 184432.00, heading_rad: -0.12, heading_deg: -6.70
+RAW: 24, s: 100, aX: 0.04, aY: 0.22, gZ: -1.07, timeS: 184444.00, heading_rad: -0.13, heading_deg: -7.42
+RAW: 25, s: 100, aX: -0.13, aY: 0.29, gZ: -1.09, timeS: 184456.00, heading_rad: -0.14, heading_deg: -8.16
+RAW: 26, s: 100, aX: -0.16, aY: 1.03, gZ: -1.08, timeS: 184468.00, heading_rad: -0.16, heading_deg: -8.89
+RAW: 27, s: 100, aX: 0.35, aY: 0.37, gZ: -1.07, timeS: 184480.00, heading_rad: -0.17, heading_deg: -9.61
+RAW: 28, s: 100, aX: 0.68, aY: -0.26, gZ: -1.07, timeS: 184492.00, heading_rad: -0.18, heading_deg: -10.33
+RAW: 29, s: 100, aX: -0.04, aY: -0.39, gZ: -1.03, timeS: 184504.00, heading_rad: -0.19, heading_deg: -11.02
+RAW: 30, s: 100, aX: 0.39, aY: -0.24, gZ: -1.02, timeS: 184516.00, heading_rad: -0.20, heading_deg: -11.71
+RAW: 31, s: 100, aX: 0.42, aY: 0.40, gZ: -1.02, timeS: 184528.00, heading_rad: -0.22, heading_deg: -12.39
+RAW: 32, s: 100, aX: 0.42, aY: 0.91, gZ: -1.05, timeS: 184540.00, heading_rad: -0.23, heading_deg: -13.10
+RAW: 33, s: 100, aX: 0.47, aY: -0.16, gZ: -1.06, timeS: 184552.00, heading_rad: -0.24, heading_deg: -13.81
+RAW: 34, s: 100, aX: -0.11, aY: -0.02, gZ: -1.07, timeS: 184564.00, heading_rad: -0.25, heading_deg: -14.53
+RAW: 35, s: 100, aX: -0.96, aY: -0.31, gZ: -1.07, timeS: 184576.00, heading_rad: -0.27, heading_deg: -15.25
+RAW: 36, s: 100, aX: 1.52, aY: 0.11, gZ: -1.07, timeS: 184588.00, heading_rad: -0.28, heading_deg: -15.97
+RAW: 37, s: 100, aX: 0.42, aY: -0.08, gZ: -1.05, timeS: 184600.00, heading_rad: -0.29, heading_deg: -16.68
+RAW: 38, s: 100, aX: 0.21, aY: -0.31, gZ: -1.04, timeS: 184612.00, heading_rad: -0.30, heading_deg: -17.38
+RAW: 39, s: 100, aX: 0.45, aY: 0.24, gZ: -1.03, timeS: 184624.00, heading_rad: -0.32, heading_deg: -18.07
+RAW: 40, s: 100, aX: -0.02, aY: 0.11, gZ: -1.06, timeS: 184636.00, heading_rad: -0.33, heading_deg: -18.78
+RAW: 41, s: 100, aX: -0.62, aY: -0.22, gZ: -1.07, timeS: 184648.00, heading_rad: -0.34, heading_deg: -19.51
+RAW: 42, s: 100, aX: -0.50, aY: -0.48, gZ: -1.08, timeS: 184660.00, heading_rad: -0.35, heading_deg: -20.24
+RAW: 43, s: 100, aX: 0.36, aY: 0.25, gZ: -1.07, timeS: 184672.00, heading_rad: -0.37, heading_deg: -20.95
+RAW: 44, s: 100, aX: 0.60, aY: 0.32, gZ: -1.09, timeS: 184684.00, heading_rad: -0.38, heading_deg: -21.69
+RAW: 45, s: 100, aX: -0.73, aY: -0.14, gZ: -1.11, timeS: 184696.00, heading_rad: -0.39, heading_deg: -22.43
+RAW: 46, s: 100, aX: 2.18, aY: 0.25, gZ: -1.05, timeS: 184708.00, heading_rad: -0.40, heading_deg: -23.14
+RAW: 47, s: 100, aX: -0.12, aY: -0.44, gZ: -1.07, timeS: 184720.00, heading_rad: -0.42, heading_deg: -23.86
+RAW: 48, s: 100, aX: -0.36, aY: -0.13, gZ: -1.09, timeS: 184732.00, heading_rad: -0.43, heading_deg: -24.60
+RAW: 49, s: 100, aX: 0.19, aY: 0.17, gZ: -1.08, timeS: 184744.00, heading_rad: -0.44, heading_deg: -25.32
+RAW: 50, s: 100, aX: -0.14, aY: -0.14, gZ: -1.10, timeS: 184756.00, heading_rad: -0.45, heading_deg: -26.06
+RAW: 51, s: 100, aX: 0.26, aY: -0.14, gZ: -1.06, timeS: 184768.00, heading_rad: -0.47, heading_deg: -26.78
+RAW: 52, s: 100, aX: -0.12, aY: -0.13, gZ: -1.05, timeS: 184780.00, heading_rad: -0.48, heading_deg: -27.48
+RAW: 53, s: 100, aX: 0.90, aY: 0.17, gZ: -1.09, timeS: 184792.00, heading_rad: -0.49, heading_deg: -28.22
+RAW: 54, s: 100, aX: 0.99, aY: 0.19, gZ: -1.10, timeS: 184804.00, heading_rad: -0.51, heading_deg: -28.96
+RAW: 55, s: 100, aX: 0.79, aY: 0.10, gZ: -1.10, timeS: 184816.00, heading_rad: -0.52, heading_deg: -29.71
+RAW: 56, s: 100, aX: -0.15, aY: -0.35, gZ: -1.12, timeS: 184828.00, heading_rad: -0.53, heading_deg: -30.46
+RAW: 57, s: 100, aX: -0.52, aY: -0.27, gZ: -1.10, timeS: 184840.00, heading_rad: -0.54, heading_deg: -31.20
+RAW: 58, s: 100, aX: -1.22, aY: 0.26, gZ: -1.05, timeS: 184852.00, heading_rad: -0.56, heading_deg: -31.91
+RAW: 59, s: 100, aX: -0.60, aY: 0.04, gZ: -1.06, timeS: 184864.00, heading_rad: -0.57, heading_deg: -32.62
+RAW: 60, s: 100, aX: 0.28, aY: 0.67, gZ: -1.07, timeS: 184876.00, heading_rad: -0.58, heading_deg: -33.34
+RAW: 61, s: 100, aX: 0.29, aY: -0.07, gZ: -1.09, timeS: 184888.00, heading_rad: -0.59, heading_deg: -34.08
+RAW: 62, s: 100, aX: 0.40, aY: -0.23, gZ: -1.09, timeS: 184900.00, heading_rad: -0.61, heading_deg: -34.81
+RAW: 63, s: 100, aX: 0.38, aY: 0.10, gZ: -1.12, timeS: 184912.00, heading_rad: -0.62, heading_deg: -35.56
+RAW: 64, s: 100, aX: 0.93, aY: 0.17, gZ: -1.11, timeS: 184924.00, heading_rad: -0.63, heading_deg: -36.31
+RAW: 65, s: 100, aX: 0.29, aY: -0.42, gZ: -1.08, timeS: 184936.00, heading_rad: -0.65, heading_deg: -37.04
+RAW: 66, s: 100, aX: -0.06, aY: -0.05, gZ: -1.08, timeS: 184948.00, heading_rad: -0.66, heading_deg: -37.77
+RAW: 67, s: 100, aX: -0.55, aY: 0.26, gZ: -1.06, timeS: 184960.00, heading_rad: -0.67, heading_deg: -38.48
+RAW: 68, s: 100, aX: 0.58, aY: 0.26, gZ: -1.08, timeS: 184972.00, heading_rad: -0.68, heading_deg: -39.21
+RAW: 69, s: 100, aX: 0.31, aY: 0.29, gZ: -1.06, timeS: 184984.00, heading_rad: -0.70, heading_deg: -39.93
+RAW: 70, s: 100, aX: 0.45, aY: -0.25, gZ: -1.06, timeS: 184996.00, heading_rad: -0.71, heading_deg: -40.64
+RAW: 71, s: 100, aX: 0.44, aY: -0.90, gZ: -1.07, timeS: 185008.00, heading_rad: -0.72, heading_deg: -41.36
+RAW: 72, s: 100, aX: 0.65, aY: -0.88, gZ: -1.05, timeS: 185020.00, heading_rad: -0.73, heading_deg: -42.07
+RAW: 73, s: 100, aX: 1.34, aY: -0.13, gZ: -1.03, timeS: 185032.00, heading_rad: -0.75, heading_deg: -42.76
+RAW: 74, s: 100, aX: 0.58, aY: 0.51, gZ: -1.04, timeS: 185044.00, heading_rad: -0.76, heading_deg: -43.46
+RAW: 75, s: 100, aX: -0.22, aY: 0.55, gZ: -1.04, timeS: 185056.00, heading_rad: -0.77, heading_deg: -44.16
+RAW: 76, s: 100, aX: -0.13, aY: 0.19, gZ: -1.02, timeS: 185068.00, heading_rad: -0.78, heading_deg: -44.85
+RAW: 77, s: 100, aX: 0.43, aY: 0.14, gZ: -1.04, timeS: 185080.00, heading_rad: -0.79, heading_deg: -45.54
+RAW: 78, s: 100, aX: -0.53, aY: -1.18, gZ: -0.99, timeS: 185092.00, heading_rad: -0.81, heading_deg: -46.21
+RAW: 79, s: 100, aX: -0.11, aY: -1.31, gZ: -0.99, timeS: 185104.00, heading_rad: -0.82, heading_deg: -46.88
+RAW: 80, s: 100, aX: 1.07, aY: 0.12, gZ: -0.98, timeS: 185116.00, heading_rad: -0.83, heading_deg: -47.54
+RAW: 81, s: 100, aX: 0.65, aY: 1.23, gZ: -1.00, timeS: 185128.00, heading_rad: -0.84, heading_deg: -48.21
+RAW: 82, s: 100, aX: -0.09, aY: -0.01, gZ: -1.02, timeS: 185140.00, heading_rad: -0.85, heading_deg: -48.89
+RAW: 83, s: 100, aX: 0.32, aY: 0.54, gZ: -1.03, timeS: 185152.00, heading_rad: -0.87, heading_deg: -49.58
+RAW: 84, s: 100, aX: -0.47, aY: 0.01, gZ: -1.00, timeS: 185164.00, heading_rad: -0.88, heading_deg: -50.26
+RAW: 85, s: 100, aX: -0.17, aY: 0.09, gZ: -1.00, timeS: 185176.00, heading_rad: -0.89, heading_deg: -50.93
+RAW: 86, s: 100, aX: 0.02, aY: -0.85, gZ: -0.98, timeS: 185188.00, heading_rad: -0.90, heading_deg: -51.59
+RAW: 87, s: 100, aX: 0.33, aY: -0.81, gZ: -0.95, timeS: 185200.00, heading_rad: -0.91, heading_deg: -52.23
+RAW: 88, s: 100, aX: 1.49, aY: -0.32, gZ: -0.96, timeS: 185212.00, heading_rad: -0.92, heading_deg: -52.87
+RAW: 89, s: 100, aX: 0.91, aY: 0.40, gZ: -0.95, timeS: 185224.00, heading_rad: -0.93, heading_deg: -53.51
+RAW: 90, s: 100, aX: 0.55, aY: 0.72, gZ: -0.95, timeS: 185236.00, heading_rad: -0.95, heading_deg: -54.15
+RAW: 91, s: 100, aX: -0.60, aY: -0.36, gZ: -0.94, timeS: 185248.00, heading_rad: -0.96, heading_deg: -54.79
+RAW: 92, s: 100, aX: -0.51, aY: -1.01, gZ: -0.97, timeS: 185260.00, heading_rad: -0.97, heading_deg: -55.44
+RAW: 93, s: 100, aX: -0.60, aY: 0.00, gZ: -0.99, timeS: 185272.00, heading_rad: -0.98, heading_deg: -56.10
+RAW: 94, s: 100, aX: 0.23, aY: 0.41, gZ: -0.97, timeS: 185284.00, heading_rad: -0.99, heading_deg: -56.76
+RAW: 95, s: 100, aX: 1.47, aY: 0.34, gZ: -0.92, timeS: 185296.00, heading_rad: -1.00, heading_deg: -57.38
+RAW: 96, s: 100, aX: 1.13, aY: 0.64, gZ: -0.87, timeS: 185308.00, heading_rad: -1.01, heading_deg: -57.96
+RAW: 97, s: 100, aX: -0.31, aY: 0.01, gZ: -0.85, timeS: 185320.00, heading_rad: -1.02, heading_deg: -58.53
+RAW: 98, s: 100, aX: 0.03, aY: -1.91, gZ: -0.85, timeS: 185332.00, heading_rad: -1.03, heading_deg: -59.10
+RAW: 99, s: 100, aX: -0.08, aY: -0.85, gZ: -0.85, timeS: 185344.00, heading_rad: -1.04, heading_deg: -59.67
+RAW: 100, s: 100, aX: -0.19, aY: 0.71, gZ: -0.85, timeS: 185356.00, heading_rad: -1.05, heading_deg: -60.24
+RAW: 101, s: 100, aX: -0.10, aY: 0.94, gZ: -0.88, timeS: 185368.00, heading_rad: -1.06, heading_deg: -60.83
+RAW: 102, s: 100, aX: 0.11, aY: 0.23, gZ: -0.90, timeS: 185380.00, heading_rad: -1.07, heading_deg: -61.44
+RAW: 103, s: 100, aX: 0.37, aY: -0.91, gZ: -0.93, timeS: 185392.00, heading_rad: -1.08, heading_deg: -62.06
+RAW: 104, s: 100, aX: -0.44, aY: -0.86, gZ: -0.91, timeS: 185404.00, heading_rad: -1.09, heading_deg: -62.67
+RAW: 105, s: 100, aX: 1.39, aY: -0.32, gZ: -0.88, timeS: 185416.00, heading_rad: -1.10, heading_deg: -63.26
+RAW: 106, s: 100, aX: 0.61, aY: 0.13, gZ: -0.87, timeS: 185428.00, heading_rad: -1.11, heading_deg: -63.85
+RAW: 107, s: 100, aX: 0.05, aY: 0.49, gZ: -0.83, timeS: 185440.00, heading_rad: -1.12, heading_deg: -64.41
+RAW: 108, s: 100, aX: -0.19, aY: 0.19, gZ: -0.81, timeS: 185452.00, heading_rad: -1.13, heading_deg: -64.95
+RAW: 109, s: 100, aX: -0.30, aY: 0.84, gZ: -0.82, timeS: 185464.00, heading_rad: -1.14, heading_deg: -65.50
+RAW: 110, s: 100, aX: 1.02, aY: 0.79, gZ: -0.88, timeS: 185476.00, heading_rad: -1.15, heading_deg: -66.09
+RAW: 111, s: 100, aX: 0.40, aY: 0.47, gZ: -0.92, timeS: 185488.00, heading_rad: -1.16, heading_deg: -66.71
+RAW: 112, s: 100, aX: -0.17, aY: -0.69, gZ: -0.93, timeS: 185500.00, heading_rad: -1.18, heading_deg: -67.33
+RAW: 113, s: 100, aX: -0.42, aY: -1.23, gZ: -0.93, timeS: 185512.00, heading_rad: -1.19, heading_deg: -67.96
+RAW: 114, s: 100, aX: 0.45, aY: -0.98, gZ: -0.96, timeS: 185524.00, heading_rad: -1.20, heading_deg: -68.60
+RAW: 115, s: 100, aX: -0.05, aY: -0.12, gZ: -0.97, timeS: 185536.00, heading_rad: -1.21, heading_deg: -69.25
+RAW: 116, s: 100, aX: 1.16, aY: 0.71, gZ: -0.99, timeS: 185548.00, heading_rad: -1.22, heading_deg: -69.92
+RAW: 117, s: 100, aX: 0.47, aY: 1.35, gZ: -1.01, timeS: 185560.00, heading_rad: -1.23, heading_deg: -70.60
+RAW: 118, s: 100, aX: 0.23, aY: 0.62, gZ: -1.04, timeS: 185572.00, heading_rad: -1.24, heading_deg: -71.30
+RAW: 119, s: 100, aX: 0.09, aY: -0.61, gZ: -1.05, timeS: 185584.00, heading_rad: -1.26, heading_deg: -72.00
+RAW: 120, s: 100, aX: -1.08, aY: -1.07, gZ: -1.01, timeS: 185596.00, heading_rad: -1.27, heading_deg: -72.69
+RAW: 121, s: 100, aX: 0.62, aY: -0.84, gZ: -0.97, timeS: 185608.00, heading_rad: -1.28, heading_deg: -73.34
+RAW: 122, s: 100, aX: 0.47, aY: -0.18, gZ: -0.99, timeS: 185620.00, heading_rad: -1.29, heading_deg: -74.01
+RAW: 123, s: 100, aX: 0.95, aY: 0.27, gZ: -0.99, timeS: 185632.00, heading_rad: -1.30, heading_deg: -74.67
+RAW: 124, s: 100, aX: -0.23, aY: 0.53, gZ: -1.02, timeS: 185644.00, heading_rad: -1.32, heading_deg: -75.36
+RAW: 125, s: 100, aX: 0.14, aY: 0.88, gZ: -1.01, timeS: 185656.00, heading_rad: -1.33, heading_deg: -76.04
+RAW: 126, s: 100, aX: 0.36, aY: 0.82, gZ: -1.02, timeS: 185668.00, heading_rad: -1.34, heading_deg: -76.73
+RAW: 127, s: 100, aX: -1.04, aY: -0.39, gZ: -1.03, timeS: 185680.00, heading_rad: -1.35, heading_deg: -77.42
+RAW: 128, s: 100, aX: -0.23, aY: -0.99, gZ: -1.01, timeS: 185692.00, heading_rad: -1.36, heading_deg: -78.10
+RAW: 129, s: 100, aX: 0.80, aY: -0.43, gZ: -1.02, timeS: 185704.00, heading_rad: -1.38, heading_deg: -78.78
+RAW: 130, s: 100, aX: 0.39, aY: -0.53, gZ: -1.00, timeS: 185716.00, heading_rad: -1.39, heading_deg: -79.46
+RAW: 131, s: 100, aX: 0.85, aY: 0.49, gZ: -1.00, timeS: 185728.00, heading_rad: -1.40, heading_deg: -80.13
+RAW: 132, s: 100, aX: -0.44, aY: 0.93, gZ: -1.02, timeS: 185740.00, heading_rad: -1.41, heading_deg: -80.82
+RAW: 133, s: 100, aX: 0.88, aY: 0.53, gZ: -1.04, timeS: 185752.00, heading_rad: -1.42, heading_deg: -81.52
+RAW: 134, s: 100, aX: -0.37, aY: -0.02, gZ: -1.02, timeS: 185764.00, heading_rad: -1.43, heading_deg: -82.21
+RAW: 135, s: 100, aX: -0.45, aY: -1.05, gZ: -1.00, timeS: 185776.00, heading_rad: -1.45, heading_deg: -82.88
+RAW: 136, s: 100, aX: 0.19, aY: -0.43, gZ: -1.00, timeS: 185788.00, heading_rad: -1.46, heading_deg: -83.55
+RAW: 137, s: 100, aX: 0.73, aY: 0.17, gZ: -1.00, timeS: 185800.00, heading_rad: -1.47, heading_deg: -84.23
+RAW: 138, s: 100, aX: 1.14, aY: -0.60, gZ: -1.01, timeS: 185812.00, heading_rad: -1.48, heading_deg: -84.91
+RAW: 139, s: 100, aX: 1.32, aY: 0.15, gZ: -0.99, timeS: 185824.00, heading_rad: -1.49, heading_deg: -85.57
+RAW: 140, s: 100, aX: -0.16, aY: -0.01, gZ: -0.98, timeS: 185836.00, heading_rad: -1.50, heading_deg: -86.23
+RAW: 141, s: 100, aX: 0.93, aY: 0.55, gZ: -1.03, timeS: 185848.00, heading_rad: -1.52, heading_deg: -86.92
+RAW: 142, s: 100, aX: -0.20, aY: -0.26, gZ: -0.99, timeS: 185860.00, heading_rad: -1.53, heading_deg: -87.59
+RAW: 143, s: 100, aX: 0.23, aY: -0.10, gZ: -0.98, timeS: 185872.00, heading_rad: -1.54, heading_deg: -88.24
+RAW: 144, s: 100, aX: -0.00, aY: -0.61, gZ: -1.00, timeS: 185884.00, heading_rad: -1.55, heading_deg: -88.92
+RAW: 145, s: 100, aX: 0.67, aY: 0.11, gZ: -1.01, timeS: 185887.00, heading_rad: -1.55, heading_deg: -89.09
+RAW: 146, s: 100, aX: 0.09, aY: 0.33, gZ: -0.91, timeS: 185899.00, heading_rad: -1.57, heading_deg: -89.70
+RAW: 147, s: 100, aX: -0.05, aY: 1.00, gZ: -0.45, timeS: 185911.00, heading_rad: -1.57, heading_deg: -90.00
+RAW: 148, s: 100, aX: -0.83, aY: 0.50, gZ: -0.07, timeS: 185923.00, heading_rad: -1.57, heading_deg: -90.03
+Heading 94.77, deg
+30, 127
+35, 133
+40, 0
+45, 0
+50, 0
+55, 0
+60, 0
+65, 0
+70, 0
+75, 73
+80, 72
+85, 73
+90, 73
+95, 73
+100, 71
+105, 71
+110, 72
+115, 0
+120, 0
+125, 0
+130, 0
+135, 0
+140, 0
+145, 185
+150, 178
+150, 176
+145, 176
+140, 175
+135, 178
+130, 0
+125, 0
+120, 0
+115, 0
+110, 0
+105, 72
+100, 74
+95, 71
+90, 71
+85, 71
+80, 73
+75, 73
+70, 73
+65, 0
+60, 0
+30, 127
+35, 132
+40, 0
+45, 0
+50, 0
+55, 0
+60, 0
+65, 0
+70, 0
+75, 73
+80, 72
+85, 73
+90, 73
+95, 72
+100, 71
+105, 73
+110, 72
+115, 0
+120, 0
+125, 0
+130, 0
+135, 0
+140, 0
+145, 183
+150, 176
+150, 176
+145, 176
+140, 176
+135, 0
+130, 0
+125, 0
+120, 0
+115, 0
+110, 0
+105, 72
+100, 74
+95, 71
+90, 71
+85, 73
+80, 71
+75, 72
+70, 74
+65, 0
+60, 0
+55, 0

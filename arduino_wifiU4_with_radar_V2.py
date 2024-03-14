@@ -17,6 +17,12 @@ ax.set_theta_zero_location('E')
 ax.set_ylim(0, 80)
 plt.ion()  # Turn on interactive mode for non-blocking plot updates
 
+# Global variable for the heading text object
+heading_text = None
+heading_value = None
+last_displayed_heading = None  # Global variable to track the last displayed heading
+
+
 def on_key_event(e):
     global running, s
     try:
@@ -51,16 +57,34 @@ def receive_data():
         try:
             received_data = s.recv(1024).decode('utf-8')
             print(received_data)
-            sweeps = received_data.strip().split('\n')
-            for sweep in sweeps:
-                angle, distance = map(int, sweep.split(','))
-                data_queue.put((angle, distance))
+            data_lines = received_data.strip().split('\n')
+            for line in data_lines:
+                if line.startswith("Heading"):
+                    # Handle heading information
+                    handle_heading(line)
+                else:
+                    # Handle sweep data
+                    try:
+                        angle, distance = map(int, line.split(','))
+                        data_queue.put((angle, distance))
+                    except ValueError:
+                        pass # Ignore lines that don't have angle, distance
         except socket.timeout:
             pass  # Ignore timeout errors
 
+def handle_heading(heading_line):
+    # Extract heading value from the line
+    global heading_value
+    heading_value = heading_line.split()[1]
+    print(f'Heading: {heading_value} deg')
+
 def update_radar():
-    global ax, running
+    global ax, running, heading_value, heading_text, last_displayed_heading
     count = 0 # counter for number of radar points plotted
+
+    if heading_text is None:
+        heading_text = ax.text(0.25, 1.1, '', fontsize=12, transform=ax.transAxes)
+
     while running:
         if not data_queue.empty():
             angle, distance = data_queue.get()
@@ -71,12 +95,24 @@ def update_radar():
             ax.plot([0, angle_rad], [0, distance], color='green', linewidth=0.2)
             count +=1;  # increment the data counter to track the number of data points plotted
 
+            # Update heading display if it has changed
+            if heading_value is not None and heading_value != last_displayed_heading:
+                if heading_text is not None:
+                    heading_text.remove()  # Remove the old text object
+                heading_text = ax.text(0.25, 1.1, f"Heading: {heading_value} deg", fontsize=12, transform=ax.transAxes)
+                last_displayed_heading = heading_value
+                
             # clear the plot after 100 data points ~4 sweeps
             if count >=50:
                 ax.clear()
                 ax.set_ylim(0, 80) # scale radar plot to max distance
                 count = 0          # Reset counter
                 s.sendall('X'.encode('utf-8'))  # send acknowledge plot is updated and ready to receive next packet
+
+                # Reinitialize the heading text object after clearing the plot
+                if heading_value is not None:
+                    heading_text = ax.text(0.25, 1.1, f"Heading: {heading_value} deg", fontsize=12, transform=ax.transAxes)
+
 
             plt.draw()
             plt.pause(0.01)        # Short pause for plot update

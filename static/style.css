@@ -14,10 +14,13 @@ h3 {
 }
 
 .square {
-	width: 1000px; /* can change */
-	height: 1000px; /* can change */
-	margin: 100px; /* can change */
-	background-color: #ca8d8d;
+	max-width: 90vw; /* Adjust to ensure it doesn't overflow the viewport */
+	max-height: 80vh;
+	margin: 10px;
+	position: relative; /* Ensures the canvas can be absolutely positioned within */
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 .header-container {
@@ -25,9 +28,26 @@ h3 {
 	justify-content: center;
 }
 
-/* centers the squares horizontally and allows for margin on all sides */
 .container {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	height: 90vh; /* Adjust based on your design */
+	width: 100%; /* Adjust based on your design */
+}
+
+.square {
+	flex: 1; /* Adjust this value to manage how much space this div should take if you have more elements inside .container */
+	margin: 10px;
+	position: relative; /* Ensures the canvas can be absolutely positioned within */
+}
+
+.canvas-container {
+	height: 100%;
+	width: 100%;
+}
+
+#robotPositionChart {
+	max-width: 100%;
+	height: auto; /* Adjust the height based on the aspect ratio */
 }

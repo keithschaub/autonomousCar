@@ -6,16 +6,23 @@
 		<title>Document</title>
 		<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
 		<script src="https://cdn.socket.io/4.0.0/socket.io.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 		<script src="{{ url_for('static', filename='index.js') }}" type="module"></script>
 	</head>
 	<body>
 		<span class="header-container">
 			<h3>Tooling (LOOK AT CONSOLE):</h3>
 			<button id="tester" class="button">Send Mock Data</button>
+			<button id="sweep" class="button">Send Sweep Forward</button>
+			<button id="sweepBack" class="button">Send Sweep Back</button>
 		</span>
 		<div class="container">
-			<div class="square"></div>
-			<div class="square"></div>
+			<div class="square">
+				<canvas id="robotPositionChart" width="600" height="600"></canvas>
+			</div>
+			<div class="square">
+				<!-- empty for now -->
+			</div>
 		</div>
 	</body>
 </html>

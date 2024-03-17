@@ -17,8 +17,17 @@ def handle_my_custom_event(json):
     emit('pos_data', {
         "x": json.get('x'), # int
         "y": json.get('y'), # int
-        "diff": json.get('diff'), # int 
-        "sweep": json.get('sweep') # int[]
+        "heading": json.get('heading'), # int 
+    })
+
+# realistically the data here is gonna be sent from the bot.
+# For this example's sake im gonna be sending mimic data from a client trigger
+@socketio.on('sweep_data')
+def handle_my_custom_event(json):
+    print(f"Received: {json}")
+    emit('sweep_data', {
+        "sweepDegree": json.get('sweepDegree'), # int[]
+        "sweepHit": json.get('sweepHit')
     })
 
 
